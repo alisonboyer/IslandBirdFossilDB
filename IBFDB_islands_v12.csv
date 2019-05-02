@@ -1,0 +1,146 @@
+﻿CTRY3M_ID,AB_Island_ID,Weigelt ID,Island,Archipelago,NOTES,Source,intro_birds_mine,NISP,region,isolation_from_nearest_island(km),isolation_from_nearest_island_group(km),intr_birds_BlackburnEtAl,intr_mammalian_predators,forest_replacement,deforestation,island_area(km2),max_island_elevation(m),notes,fossil_record_quality_rating
+,204,58180,Camorta Island,Nicobar Islands,,andaman/nicobar survey ppr,,,Indian Ocean,,,,,,,,,,
+,100,58253,Car Nicobar,Nicobar Islands,,andaman/nicobar survey ppr,,,Indian Ocean,,,,,,,,,,
+,101,58137,Great Nicobar,Nicobar Islands,AKA Pigeon Island,andaman/nicobar survey ppr,,,Indian Ocean,,,,,,,,,,
+,207,58375,Little Andaman,Andaman Islands,,andaman/nicobar survey ppr,,,Indian Ocean,,,,,,,,,,
+,102,58581,Narcondam,Andaman Islands,,andaman/nicobar survey ppr,,,Indian Ocean,,,,,,,,,,
+,187,58468,South Andaman,Andaman Islands,Sandy Island,andaman/nicobar survey ppr,,,Indian Ocean,,,,,,,,,,
+,180,82291,Timor,,Pulau Timor,birds of melanesia.net,,,Southeast Asia,,,,,,,,,,
+,57,15844,Abaco,Bahamas,,Ivan/Ricki,,,car,,,,,,,1681 (all isl together),,,
+5802,16,75004,Aguiguan,Marianas,Aguijan in the Northern Marianas Islands on the website,Steadman 2006,4,944,mr,5,500,1,0,NA,NA,7.2,157,,2
+,104,54442,Alphonse,Seychelles,Ile Alphonse,SBRC Seychelles List,,,Indian Ocean,,,,,,,,,,
+,58,11466,Antigua,Lesser Antilles,,Ivan/Ricki,,,car,,,,,,,,,,
+,83,8452,Ascension,Atlantic,,avibase,,,Atlantic,,,,,,,,,,
+,151,80642,Bellona,Solomons,,birds of melanesia.net,,,Pacific,,,,,,,,,,
+,105,54648,Bird,Seychelles,Ile aux Vaches,SBRC Seychelles List,,,Indian Ocean,,,,,,,,,,
+,74,18196,Boa Vista,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,126,84281,Bougainville,Solomons,,birds of melanesia.net,,,m,,,,,,,,,,
+8132,33,84482,Buka,Solomons,,Steadman 2006,0,75,m,1,170,NA,NA,NA,NA,611,365,,5
+,59,11927,Cayman Brac,Cayman Islands,,Ivan/Ricki,,,car,,,,,,,38,,,
+13015,45,8546,Chatham,Chatham,,Worthy & Holdaway 2002,17,NA,nz,600,600,0,1,NA,NA,745,283,,2
+,127,83480,Choiseul,Solomons,,birds of melanesia.net,,,m,,,,,,,,,,
+,188,19159,Corvo,Azores,,avibase,,,,,,,,,,,,,
+,96,13241,Crooked Island,Bahamas,,Ivan/Ricki,,,car,,,,,,,,,,
+,60,13567,Cuba,Greater Antilles,,Ivan/Ricki,,,car,,,,,,,110861,,,
+NA,55,8570,Easter,Easter,called Isla de Pascua in Spanish on website,,5,6,ep,,,,,,,,,,NA
+9052,41,78498,Efate,Vanuatu,,Steadman 2006,,135,m,75,340,4,3,3,3,915,647,,5
+,67,18235,El Hierro,Canary Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+9093,42,78337,Erromango,Vanuatu,,Steadman 2006,,217,m,35,270,1,0,3,3,900,886,,5
+,189,19103,Faial,Azores,,avibase,,,,,,,,,,,,,
+,190,19158,Flores,Azores,,avibase,,,,,,,,,,,,,
+,75,18186,Fogo,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,68,18245,Fuerteventura,Canary Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,87,7457,Gough,Atlantic,,avibase,,,Atlantic,,,,,,,,,,
+,191,19152,Graciosa,Azores,,avibase,,,,,,,,,,,,,
+,69,18240,Gran Canaria,Canary Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,94,11898,Grand Cayman,Cayman Islands,,Ivan/Ricki,,,car,,,,,,,,,,
+12677,25,16924,Grande Terre,New.Caledonia,,Steadman 2006,15,6300,m,1100,400,7,6,2,3,16750,1618,,3
+,128,81441,Guadalcanal,Solomons,Guadalcanal Island,birds of melanesia.net,,,m,,,,,,,,,,
+5902,17,74754,Guam,Marianas,,Steadman 2006,5,28,mr,80,500,7,5,NA,NA,554,393,,4
+5365,10,9827,Hawaii,Hawaiian,,,38,1000,h,48,3000,34,4,3,3.5,10433.1,4169,,1
+9250,30,8575,Henderson,Pitcairn.Islands,,,0,1500,ep,200,600,0,0,NA,NA,29.8,33,,1
+,95,0,Hispaniola,Greater Antilles,,Ivan/Ricki,,,car,,,,,,,,,,
+NA,51,77353,Ile des Pins,New.Caledonia,Kunie,birds of melanesia.net,,999,m,45,100,,,,,134,266,"Ile des Pins not distinguished from Grande Terre, New Caledonia",NA
+,61,11801,Jamaica,Greater Antilles,,Ivan/Ricki,,,car,,,,,,,11190,,,
+11147,11,9854,Kauai,Hawaiian,,,31,2000,h,125,3000,27,4,3,3.5,1430.5,1598,,1
+,116,5439,Kerguelen,Antarctic,Ile Kerguelen,avibase,,,Indian Ocean,,,,,,,,,,
+,129,82632,Kulambangra,Solomons,Kolombangara Island on website,Birds of Northern Melanesia,,,m,,,,,,,,,,
+,106,54633,La Digue,Seychelles,,SBRC Seychelles List,,,Indian Ocean,,,,,,,,,,
+,70,18241,La Gomera,Canary Islands,,Illera et al 2012; Avibase,,,Atlantic,,,,,,,,,,
+,71,18247,La Palma,Canary Islands,,Illera et al 2012; Avibase,,,Atlantic,,,,,,,,,,
+5297,12,9832,Lanai,Hawaiian,,,23,400,h,14,3000,24,4,3,3.5,364,1027,,3
+,72,18249,Lanzarote,Canary Islands,,Illera et al 2012; Avibase,,,Atlantic,,,,,,,,,,
+,97,13724,Little Exuma,Bahamas,Great Exuma Island,Ivan/Ricki,,,car,,,,,,,,,,
+,119,84376,Long,Bismarcks,Long Island (Ahrup),Birds of Northern Melanesia,,,m,,,,,,,,,,
+NA,56,76959,Lord.Howe,Lord.Howe,,,11,,Pacific,,,,,,,,,,NA
+,88,18614,Madiera,Madiera,Ilha da Madeira,"Rando, J. C., Pieper, H., Alcover, J. A., & Olson, S. L. (2012). A new species of extinct fossil scops owl ( Aves : Strigiformes : Strigidae : Otus ) from the Archipelago of Madeira ( North Atlantic Ocean ), 42, 29–42.",,,Atlantic,,,,,,,,,,
+,107,54624,Mahe,Seychelles,L'Islette; Souris Island,SBRC Seychelles List,,,Indian Ocean,,,,,,,,,,
+,76,18188,Maio,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,130,82308,Malaita,Solomons,,birds of melanesia.net,,,m,,,,,,,,,,
+8935,43,78968,Malakula,Vanuatu,,Steadman 2006,,195,m,14,440,1,1,NA,NA,2030,879,,4
+12692,4,8623,Mangaia,Cook,,,,1674,ep,200,600,2,2,4,4,52,169,,1
+,120,65798,Manus,Bismarcks,Manus Island,Birds of Northern Melanesia,,,m,,,,,,,,,,
+12678,26,77720,Mare,New.Caledonia,,,0?,141,m,40,75,NA,NA,NA,NA,1970,129,,5
+5279,13,9834,Maui,Hawaiian,,,26,25000,h,48,3000,27,5,3,3.5,1883.7,3052,,1
+9165,47,53663,Mauritius,Mascarenes,,Cheke & Hume 2008,24,,mas,,,,,,,,,,NA
+5259,14,9838,Molokai,Hawaiian,,,23,2500,h,13.7,3000,23,5,3,3.5,673.5,1515,,2
+,62,11652,Mona,Greater Antilles,found next to puerto rico/ multiple matches,Ivan/Ricki,,,car,,,,,,,10.9,,,
+7737,52,66333,Mussau,Bismarcks,(St Matthias),Steadman 2006,,13,m,95,550,,,,,400,NA,,5
+,121,84751,New Britain,Bismarcks,,birds of melanesia.net,,,m,,,,,,,,,,
+,131,82593,New Georgia,Solomons,,birds of melanesia.net,,,m,,,,,,,,,,
+,122,65407,New Hanover,Bismarcks,,Birds of Northern Melanesia,,,m,,,,,,,,,,
+,63,14640,New Providence,Bahamas,,Ivan/Ricki,,,car,,,,,,,207,,,
+9117,29,9644,Niue,Niue,,Steadman 2006,1,482,wp,400,400,1,2,3,2,259,73,,4
+9283,46,77001,Norfolk,Norfolk,,,12,NA,nz,1400,670,11,3,NA,NA,38.6,318,,NA
+12788,27,76597,North.Island,New.Zealand,,Worthy & Holdaway 2002,37,NA,nz,50,1500,37,10,1,2,111582,2796,,1
+11259,15,9850,Oahu,Hawaiian,,,38,3000,h,42,3000,37,5,3,3.5,1546.5,1227,,1
+,192,19100,Pico,Azores,,avibase,,,,,,,,,,,,,
+,108,54638,Praslin Island,Seychelles,Praslin,SBRC Seychelles List,,,Indian Ocean,,,,,,,,,,
+,64,11797,Puerto Rico,Greater Antilles,,Ivan/Ricki,,,car,,,,,,,9104,,,
+,132,82167,Rendova,Solomons,Rendova Island (Hammond),Birds of Northern Melanesia,,,m,,,,,,,,,,
+,133,80609,Rennell,Solomons,Rennell Island,birds of melanesia.net,,,m,,,,,,,,,,
+9216,48,53611,Reunion,Mascarenes,Ilet du Gros Galet called Reunion Island in English,Cheke & Hume 2008,,,mas,,,,,,,,,,NA
+9145,49,53693,Rodrigues,Mascarenes,,Cheke & Hume 2008,11,,mas,,,,,,,,,,NA
+5864,18,74908,Rota,Marianas,,Steadman 2006,3,475,mr,80,500,5,3,NA,NA,85,491,,2
+5757,19,75050,Saipan,Marianas,,Steadman 2006,3,12,mr,10,500,4,4,NA,NA,122,474,,5
+,77,18202,Sal,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,134,81155,San Cristobal,Solomons,Makira,Birds of Northern Melanesia,,,m,,,,,,,,,,
+,65,13920,San Salvador,Bahamas,san salvador island,Ivan/Ricki,,,car,,,,,,,163,,,
+,78,18205,Santa Antao,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,79,18189,Santiago,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,193,19139,Sao Jorge,Azores,,avibase,,,,,,,,,,,,,
+,194,19038,Sao Miguel,Azores,,avibase,,,,,,,,,,,,,
+,80,18199,Sao Nicolau,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,81,18204,Sao Vicente,Cape Verde Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+7919,1,64875,Sepenbak (New.Ireland),Bismarcks,,Steadman 2006,0,239,m,35,35,NA,NA,2,2,7174,2150,,5
+,109,54628,Silhouette Island,Seychelles,Silhouette,SBRC Seychelles List,,,Indian Ocean,,,,,,,,,,
+,91,1819,South Georgia,Atlantic,,avibase,,,Atlantic,,,,,,,,,,
+9345,28,75843,South.Island,New.Zealand,,Worthy & Holdaway 2002,31,NA,nz,50,1500,29,10,1,4,145836,3764,,1
+,92,85150,St. Helena,Atlantic,,avibase,,,Atlantic,,,,,,,,,,
+,73,18243,Tenerife,Canary Islands,,Illera et al 2012,,,Atlantic,,,,,,,,,,
+,195,19146,Terciera,Azores,,avibase,,,,,,,,,,,,,
+NA,53,80330,Tikopia,Solomons,,,,55,m,NA,NA,,,,,4.6,360,,4
+5776,20,75038,Tinian,Marianas,,Steadman 2006,3,647,mr,5,500,4,4,NA,NA,102,170,,3
+,66,10928,Tobago,Trinidad & Tobago,lots of islands named after tobago around the central tobago island,Ivan/Ricki,,,car,,,,,,,300,,,
+,93,7733,Tristan da Cunha,Atlantic,Tristan da Cunha,avibase,,,Atlantic,,,,,,,,,,
+8860,31,9644,Tutuila,Samoa,,Steadman 2006,5,50,wp,60,600,2,3,NA,NA,142,653,,4
+,123,84232,Umboi,Bismarcks,Rooke,Birds of Northern Melanesia,,,m,,,,,,,,,,
+,135,81979,Vangunu,Solomons,Vangunu Island,birds of melanesia.net,,,m,,,,,,,,,,
+,136,82801,Vella Lavella,Solomons,Vella Lavella Island,birds of melanesia.net,,,m,,,,,,,,,,
+9031,9,78561,Viti.Levu,Fiji,,Steadman 2006,11,NA,wp,60,800,8,4,3,3.5,10384,1224,,4
+,137,82847,Ysabel,Solomons,Santa Isabel,Birds of Northern Melanesia,,,m,,,,,,,,,,
+,149,4946,Antipodes Islands,New Zealand,,avibase ,,,Pacific,,,,,,,,,,
+,150,4643,Auckland Island,New Zealand,,avibase + wikipedia,,,Pacific,,,,,,,,,,
+,203,,Campbell Island,New Zealand,,,,,Pacific,,,,,,,,,,
+,202,,Faroe islands,Faroe islands,,,,,Atlantic,,,,,,,,,,
+,84,18774,Santa Maria,Azores,,"avibase; Rando, J. C., Alcover, J. A., Olson, S. L., & Pieper, H. (2013). A new species of extinct scops owl ( Aves : Strigiformes : Strigidae : Otus ) from São, 3647(May), 343–357.",,,Atlantic,,,,,,,,,,
+NA,5,8916,Aiwa,Fiji,Aiwa is one island in Fiji,Steadman 2006,,18,wp,13,800,NA,NA,NA,NA,1,NA,,5
+9070,8,8981,Nayau,Fiji,,Steadman 2006,,80,wp,30,800,NA,NA,NA,NA,18.44,NA,,4
+8727,23,9716,Tahuata,Marquesas,,,,70,ep,5,600,1,1,4,3,53,1000,,4
+8609,24,9772,Ua.Huka,Marquesas,,,,2187,ep,40,600,0,0,4,3.5,78,856,,2
+9147,35,8747,Foa,Tonga,,Steadman 2006,,215,wp,1,75,NA,NA,NA,NA,13.3,14,,3
+NA,36,8724,Haafeva,Tonga,Ha`afeva Island,Steadman 2006,,293,wp,3,35,NA,NA,NA,NA,1.8,NA,,3
+9139,37,8751,Haano,Tonga,listed as Ha`ano island,Steadman 2006,,146,wp,2,75,NA,NA,NA,NA,6.6,8,,2
+9151,38,8747,Lifuka,Tonga,"Lifuka is alt name, Foa Island is the name found in Tonga chain",Steadman 2006,,607,wp,1,50,NA,NA,NA,NA,11.4,14,,2
+8830,44,80225,Toga,Vanuatu,,Steadman 2006,,21,m,4,150,NA,NA,NA,NA,NA,NA,,NA
+9159,40,8728,Uiha,Tonga,,Steadman 2006,,187,wp,8,75,NA,NA,NA,NA,5.3,NA,,4
+9106,2,8815,Aitutaki,Cook,,,,43,ep,100,700,1,4,4,4,18,124,,NA
+9164,3,8715,Atiu,Cook,,,,41,ep,80,400,1,0,4,4,27,71,,4
+,85,20203,Bermuda,,main island,,,,Atlantic,,,,,,,,,,
+,138,9883,Espanola,Galapagos,Isla Espanola,Avibase,,,Pacific,,,,,,,,,,
+9227,34,8652,Eua,Tonga,,Steadman 2006,,1319,wp,18,100,3,0,NA,NA,86.7,328,,2
+,139,9960,Ferdinandina,Galapagos,Isla Fernandina,Avibase,,,Pacific,,,,,,,,,,
+,140,9890,Floreana,Galapagos,Isla Santa Maria,Avibase,,,Pacific,,,,,,,,,,
+,141,9979,Genovesa,Galapagos,Isla Genovesa,Avibase,,,Pacific,,,,,,,,,,
+8710,21,9718,Hiva.Oa,Marquesas,,,,146,ep,100,600,0,1,4,3,324,1190,,5
+8978,32,9176,Huahine,Society.Islands,Huahine Iti,,,110,ep,30,400,2,1,4,3,78,669,,3
+,142,9975,Isabela,Galapagos,Isla Isabela,Avibase,,,Pacific,,,,,,,,,,
+9078,7,8937,Lakeba,Fiji,Lakemba island in fiji from website,Steadman 2006,,186,wp,75,800,NA,NA,3,4,55.94,219,,4
+,124,77874,Lifou,New.Caledonia,,birds of melanesia.net,,,m,,,,,,,,,,
+8601,22,9773,Nuku.Hiva,Marquesas,,,,27,ep,40,600,0,1,4,3,337,1186,,3
+,125,78065,Ouvea,New.Caledonia,,birds of melanesia.net,,,m,,,,,,,,,,
+,144,9987,Pinta,Galapagos,Isla Pinta,Avibase,,,Pacific,,,,,,,,,,
+,145,9906,San Cristobal,Galapagos,Isla San Cristobal,Avibase,,,Pacific,,,,,,,,,,
+,146,9942,Santa Cruz,Galapagos,Isla Santa Cruz,Avibase,,,Pacific,,,,,,,,,,
+,147,9970,Santiago,Galapagos,Isla San Salvador,Avibase,,,Pacific,,,,,,,,,,
+9222,39,8669,Tongatapu,Tonga,,Steadman 2006,,437,wp,800,400,NA,NA,4,2,259,82,,3

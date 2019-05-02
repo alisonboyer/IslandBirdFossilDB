@@ -1,0 +1,663 @@
+﻿AB_Species_ID,Sibley2_0ID,Species_Name,Common.name,Order,Family,Name_Plotting,Pacific,log10Mass,endemism,flightless,ground_nest,primary_diet,secondary_diet,Diet_vert,Diet_invert,Diet_fruit,Diet_nectar,Diet_seed,Diet_scav,Diet_plant,Height_watbelowsurface,Height_wataroundsurface,Height_ground,Height_understory,Height_midhigh,Height_canopy,Height_aerial,Nocturnal_cat,NumHabitats,LogFMR,LogPPR,IUCN_status,globally_extinct,global_histVic,global_preVic,Taxon.notes,Nest.notes,guild_ref
+1,4732,Accipiter albogularis,Pied Goshawk,Falconiformes,Accipitridae,Accipiter albogularis,y,2.395775153,0,0,0,c,c,10,0,0,0,0,0,0,0,0,1,3,3,3,0,0,1,2.69,4.4,LC,0,0,0,,,walter's
+2,4749,Accipiter brachyurus,"New Britain Sparrowhawk, Grey Sparrowhawk",Falconiformes,Accipitridae,Accipiter brachyurus,y,2.152288344,0,0,0,c,c,10,0,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.52,4.36,VU,0,0,0,,,walter's
+3,NA,Accipiter efficax,,Falconiformes,Accipitridae,Accipiter efficax,y,2.382221227,0,0,0,c,c,9,1,0,0,0,0,0,0,0,4,2,2,2,0,0,1,2.68,4.49,EX,1,NA,1,,,boyer 2009
+4,4728,Accipiter fasciatus,Brown Goshawk,Falconiformes,Accipitridae,Accipiter fasciatus,y,2.554684033,0,0,0,c,c,7,2,0,0,0,1,0,0,0,5,0,3,2,0,0,1,2.8,4.52,LC,0,0,0,,,walter's
+5,4733,Accipiter haplochrous,White-bellied Goshawk,Falconiformes,Accipitridae,Accipiter haplochrous,y,2.297582707,0,0,0,c,c,7,3,0,0,0,0,0,0,0,7,0,2,1,0,0,1,2.62,4.33,NT,0,0,0,,,walter's
+6,4770,Accipiter meyerianus,Meyer's Goshawk,Falconiformes,Accipitridae,Accipiter meyerianus,y,2.882834277,0,0,0,c,c,10,0,0,0,0,0,0,0,0,0,0,3.33,3.33,0,0,1,3.04,4.88,LC,0,0,0,,,walter's
+7,4726,Accipiter novaehollandiae,Grey Goshawk,Falconiformes,Accipitridae,Accipiter novaehollandiae,y,2.513305271,0,0,0,c,c,7,3,0,0,0,0,0,0,0,5,0,3,2,0,0,1,2.77,4.49,LC,0,0,0,,,walter's
+8,NA,Accipiter quartus,,Falconiformes,Accipitridae,Accipiter quartus,y,2.445077933,0,0,0,c,c,10,0,0,0,0,0,0,0,0,4,2,2,2,0,0,1,2.73,4.57,EX,1,NA,1,,,boyer 2009
+9,4734,Accipiter rufitorques,Fiji Goshawk,Falconiformes,Accipitridae,Accipiter rufitorques,y,2.320146286,0,0,0,c,c,8,2,0,0,0,0,0,0,0,0,3,4,3,0,0,1,2.64,4.4,LC,0,0,0,,,walter's
+10,NA,Accipiter sp. LARGE,,Falconiformes,Accipitridae,Accipiter sp. Lg,y,3.214327582,0,0,0,c,c,10,0,0,0,0,0,0,0,0,4,2,2,2,0,0,1,3.27,5.12,EX,1,NA,1,,,boyer 2009
+11,NA,Accipiter sp. MEDIUM (larger than novaehollandiae),,Falconiformes,Accipitridae,Accipiter sp. med,y,2.825012555,0,0,0,c,c,9,1,0,0,0,0,0,0,0,4,2,2,2,0,0,1,3,4.8,EX,1,NA,1,,,boyer 2009
+12,1357,Aceros plicatus,Knobbed Hornbill,Coraciiformes,Bucerotidae,Aceros plicatus,y,3.231410801,0,0,0,f,f,0,2,8,0,0,0,0,0,0,3,1,1,5,0,0,1,3.14,4.17,LC,0,0,0,,,walter's
+13,NA,Aceros undescr sp.,,Coraciiformes,Bucerotidae,Aceros undescr sp.,y,3.177752872,2,0,0,f,f,1,3,6,0,0,0,0,0,0,3,1,1,5,0,0,1,3.1,4.13,EX,1,NA,1,,,same as congener
+14,10809,Acrocephalus australis,"Australian Reed-warbler, Australian Reed Warbler",Passeriformes,Sylviidae,Acrocephalus australis,y,1.247973266,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,5,5,0,0,0,1,1.87,2.84,LC,0,0,0,,,walter's
+15,10816,Acrocephalus caffer,"Tahiti Reed-warbler, Tahiti Reed Warbler",Passeriformes,Sylviidae,Acrocephalus caffer,y,1.494317613,1,0,0,i,i,2,7,0,1,0,0,0,0,0,0,0,0,10,0,0,1,2.05,3.02,VU,0,0,0,,,walter's
+16,10819,Acrocephalus kerearako,,Passeriformes,Sylviidae,Acrocephalus kerearako,y,1.352182518,1,0,0,i,i,0,10,0,0,0,0,0,0,0,2,4,4,0,0,0,1,1.95,2.92,NT,0,0,0,,,walter's
+17,10810,Acrocephalus luscinia,"Nightingale Reed-warbler, Nightingale Reed Warbler",Passeriformes,Sylviidae,Acrocephalus luscinia,y,1.485091132,1,0,0,i,i,2,8,0,0,0,0,0,0,0,1,8,1,0,0,0,1,2.04,3.01,EN,0,0,0,,,walter's
+18,10817,Acrocephalus mendanae,"Marquesan Reed-warbler, Marquesan Reed Warbler",Passeriformes,Sylviidae,Acrocephalus mendanae,y,1.494317613,1,0,0,i,i,1,6,1,1,1,0,0,0,0,5,5,0,0,0,0,1,2.05,3.49,LC,0,0,0,,,walter's
+19,10821,Acrocephalus vaughani,"Pitcairn Reed-warbler, Pitcairn Reed Warbler",Passeriformes,Sylviidae,Acrocephalus vaughani,y,1.386893223,1,0,0,i,i,0,10,0,0,0,0,0,0,0,1,3,3,3,0,0,1,1.97,2.94,VU,0,0,0,,,walter's
+20,3146,Aegotheles savesi,"New Caledonian Owlet-nightjar, Enigmatic Owlet-nightjar",Caprimulgiformes,Aegothelidae,Aegotheles savesi,y,1.773695043,1,0,0,i,i,0,10,0,0,0,0,0,0,0,6,3,1,0,0,1,1,2.25,3.22,CR,0,0,0,,,walter's
+21,NA,Aidemedia chascax,,Passeriformes,Fringillidae,Aidemedia chascax,y,1.36361198,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,1.95,2.79,EX,1,NA,1,gaper,,boyer 2009
+22,NA,Aidemedia lutetiae,,Passeriformes,Fringillidae,Aidemedia lutetiae,y,1.274388796,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,1.89,2.73,EX,1,NA,1,gaper,,boyer 2009
+23,NA,Aidemedia zanclops,,Passeriformes,Fringillidae,Aidemedia zanclops,y,1.328379603,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,1.93,2.77,EX,1,NA,1,gaper,,boyer 2009
+24,NA,Akialoa ellisiana,,Passeriformes,Fringillidae,Akialoa ellisiana,y,1.469822016,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,2.03,2.87,EX,1,1,0,"aka. Hemignathus lichtensteini, H. ellisiana, Drepanis ellisiana",,boyer 2009
+25,NA,Akialoa lanaiensis,,Passeriformes,Fringillidae,Akialoa lanaiensis,y,1.444565221,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,2.01,2.85,EX,1,1,0,aka. Hemignathus lanaiensis,,boyer 2009
+26,NA,Akialoa obscura,,Passeriformes,Fringillidae,Akialoa obscura,y,1.361727836,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,1.95,2.79,EX,1,1,0,"aka. Hemignathus obscurus, Certhia obscura",,boyer 2009
+27,NA,Akialoa stejnegeri,,Passeriformes,Fringillidae,Akialoa stejnegeri,y,1.531478917,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,2.07,2.91,EX,1,1,0,"aka. Hemignathus stejnegeri, H. procerus",,boyer 2009
+28,NA,Akialoa upupirostris,,Passeriformes,Fringillidae,Akialoa upupirostris,y,1.45484486,2,0,0,i,i,0,7,0,3,0,0,0,0,0,0,5,5,0,0,0,1,2.02,2.86,EX,1,NA,1,aka. Hemignathus upupirostris,,boyer 2009
+29,1546,Alcedo atthis,"Common Kingfisher, European Kingfisher, Kingfisher",Coraciiformes,Alcedinidae,Alcedo atthis,y,1.492623395,0,0,0,c,c,7,3,0,0,0,0,0,10,0,0,0,0,0,0,0,2,2.05,3.76,LC,0,0,0,,,walter's
+30,3879,Amaurornis moluccanus,,Gruiformes,Rallidae,Amaurornis moluccanus,y,2.271338037,0,0,1,o,o,3,4,0,0,0,0,3,0,3,7,0,0,0,0,0,2,2.7,3.96,LC,0,0,0,,,walter's
+31,698,Anas gibberifrons,,Anseriformes,Anatidae,Anas gibberifrons,y,2.688518278,0,0,1,h,h,0,2,0,0,4,0,4,0,10,0,0,0,0,0,0,2,2.54,3.18,LC,0,0,0,,,walter's
+32,NA,Anas gracilis,,Anseriformes,Anatidae,Anas gracilis,y,2.67669361,0,0,1,h,h,0,3,0,0,0,0,7,1,9,0,0,0,0,0,0,2,2.53,3.17,LC,0,0,0,,,same as congener
+33,NA,Anas oustaletii,,Anseriformes,Anatidae,Anas oustaletii,y,2.902546779,0,0,1,h,h,0,3,0,0,0,0,7,1,9,0,0,0,0,0,0,2,2.69,3.33,EX,1,1,0,,,same as congener
+34,686,Anas superciliosa,"Pacific Black Duck, Grey Duck",Anseriformes,Anatidae,Anas superciliosa,y,2.94584652,0,0,1,h,h,0,1,0,0,3,0,6,2,8,0,0,0,0,0,0,2,2.72,3.36,LC,0,0,0,,,walter's
+35,NA,Anas wyvilliana,,Anseriformes,Anatidae,Anas wyvilliana,y,2.725911632,1,0,1,h,h,0,3,0,0,0,0,7,1,9,0,0,0,0,0,0,2,2.56,3.21,EN,0,0,0,"Hawaiian Duck, sister sp = mallard",ground,same as congener
+36,9409,Aplonis atrifusca,Samoan Starling,Passeriformes,Sturnidae,Aplonis atrifusca,y,2.164352856,1,0,0,f,i,0,2,7,1,0,0,0,0,0,0,0,6,4,0,0,1,2.38,2.97,LC,0,0,0,,,walter's
+37,9418,Aplonis cantoroides,Singing Starling,Passeriformes,Sturnidae,Aplonis cantoroides,y,1.746097929,0,0,0,f,i,0,5,5,0,0,0,0,0,0,0,0,6,4,0,0,1,2.08,2.67,LC,0,0,0,,,walter's
+38,NA,Aplonis diluvialis,,Passeriformes,Sturnidae,Aplonis diluvialis,y,1.980382838,2,0,0,f,i,0,3,7,0,0,0,0,0,0,0,0,6,4,0,0,1,2.25,2.84,EX,1,NA,1,,,same as congener
+39,9421,Aplonis grandis,Brown-winged Starling,Passeriformes,Sturnidae,Aplonis grandis,y,2.127104798,1,0,0,f,i,0,2,8,0,0,0,0,0,0,0,5,5,0,0,0,1,2.35,2.94,LC,0,0,0,,,walter's
+40,9426,Aplonis metallica,Metallic Starling,Passeriformes,Sturnidae,Aplonis metallica,y,1.752004909,0,0,0,f,i,0,2,6,2,0,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.33,2.8,LC,0,0,0,,,walter's
+41,9416,Aplonis opaca,Micronesian Starling,Passeriformes,Sturnidae,Aplonis opaca,y,1.921166051,1,0,0,f,i,1,2,4,0,3,0,0,0,0,0,5,5,0,0,0,1,2.2,2.8,LC,0,0,0,,,walter's
+42,9414,Aplonis striata,Striated Starling,Passeriformes,Sturnidae,Aplonis striata,y,1.733999287,1,0,0,f,i,0,2,8,0,0,0,0,0,0,1,3,3,3,0,0,1,2.07,2.27,LC,0,0,0,,,walter's
+43,9413,Aplonis tabuensis,Polynesian Starling,Passeriformes,Sturnidae,Aplonis tabuensis,y,1.795880017,0,0,0,f,i,0,2,8,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.11,2.71,LC,0,0,0,,,walter's
+44,NA,Aplonis undescr sp. Erromango,,Passeriformes,Sturnidae,Aplonis sp. Erromango,y,1.7981901,2,0,0,f,i,0,3,7,0,0,0,0,0,0,0,5,5,0,0,0,1,2.12,2.71,EX,1,NA,1,,,same as congener
+45,9406,Aplonis zelandica,Rusty-winged Starling,Passeriformes,Sturnidae,Aplonis zelandica,y,1.83671353,1,0,0,f,i,0,2,8,0,0,0,0,0,0,0,5,5,0,0,0,1,2.14,2.74,NT,0,0,0,,,walter's
+46,NA,Apteribis brevis,,Pelicaniformes,Threskiornithidae,Apteribis brevis,y,3.365584789,2,1,1,i,i,0,10,0,0,0,0,0,0,0,10,0,0,0,0,NA,1,3.38,4.35,EX,1,NA,1,"flightless ibis, NA ibis average egg length 53mm, nestling 30g",probably on ground or in low vegetation,same as kiwi
+47,NA,Apteribis glenos,,Pelicaniformes,Threskiornithidae,Apteribis glenos,y,3.365584789,2,1,1,i,i,0,10,0,0,0,0,0,0,0,10,0,0,0,0,NA,1,3.38,4.35,EX,1,NA,1,flightless ibis,probably on ground or in low vegetation,same as kiwi
+48,NA,Apteribis sp.,,Pelicaniformes,Threskiornithidae,Apteribis sp.,y,3.365584789,2,1,1,i,i,0,10,0,0,0,0,0,0,0,10,0,0,0,0,NA,1,3.38,4.35,EX,1,NA,1,flightless ibis,probably on ground or in low vegetation,same as kiwi
+49,8233,Artamus insignis,"Bismarck Woodswallow, White-backed Woodswallow",Passeriformes,Artamidae,Artamus insignis,y,1.710117365,0,0,0,i,n,0,10,0,0,0,0,0,0,0,0,0,0,3,7,0,1,2.2,3.17,LC,0,0,0,,,walter's
+50,8230,Artamus leucorhynchus,White-breasted Woodswallow,Passeriformes,Artamidae,Artamus leucorhynchus,y,1.620074857,0,0,0,i,n,0,10,0,0,0,0,0,0,0,0,0,0,0,10,0,1,2.14,3.11,LC,0,0,0,,,walter's
+51,3111,Asio flammeus,Short-eared Owl,Strigiformes,Strigidae,Asio flammeus,y,2.508683821,0,0,0,c,c,10,0,0,0,0,0,0,0,0,9,0,1,0,0,1,1,2.77,4.61,LC,0,0,NA,"arrived after Polynesians, exclude from prehistoric analysis",,walter's
+52,4581,Aviceda subcristata,Pacific Baza,Falconiformes,Accipitridae,Aviceda subcristata,y,2.508735627,0,0,0,c,c,5,4,1,0,0,0,0,0,0,0,0,3,7,0,0,1,2.77,4.21,LC,0,0,0,,,walter's
+53,735,Aythya australis,,Anseriformes,Anatidae,Aythya australis,y,2.939225278,0,0,1,h,h,0,1,0,0,2,0,7,5,5,0,0,0,0,0,0,2,2.71,3.36,LC,0,0,0,,,walter's
+54,5177,Botaurus poiciloptilus,,Ciconiiformes,Ardeidae,Botaurus poiciloptilus,y,3.034908761,0,0,0,c,c,8,2,0,0,0,0,0,0,5,5,0,0,0,0,0,2,3.15,4.95,EN,0,0,0,,,walter's
+55,NA,Branta hylobadistes,,Anseriformes,Anatidae,Branta hylobadistes,y,3.509899594,1,1,1,h,h,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,2,3.12,3.69,EX,1,NA,1,,scrape on ground,boyer 2009
+56,NA,Branta rhuax,,Anseriformes,Anatidae,Branta rhuax,y,3.774019048,1,0,1,h,h,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,2,3.31,3.88,EX,1,NA,1,very large hawaii goose / Geochen rhuax,scrape on ground,boyer 2009
+57,612,Branta sandvicensis,"Hawaiian Goose, Nene",Anseriformes,Anatidae,Branta sandvicensis,y,3.310507605,1,0,1,h,h,0,0,0,2,0,0,8,0,0,10,0,0,0,0,0,2,2.98,3.34,VU,0,0,0,"Nene, sister = canada goose",ground,walter's
+58,4823,Buteo solitarius,Hawaiian Hawk,Falconiformes,Accipitridae,Buteo solitarius,y,2.699736483,1,0,0,c,c,7,3,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.91,4.62,NT,0,0,0,,,walter's
+59,5255,Butorides striatus,"Striated Heron, Green-backed Heron",Ciconiiformes,Ardeidae,Butorides striatus,n,2.304275932,0,0,0,c,c,7,3,0,0,0,0,0,0,8,2,0,0,0,0,0,2,2.63,4.43,LC,0,0,0,,,walter's
+60,1942,Cacatua ducorpsii,"Solomons Cockatoo, Broad-crested Corella, Ducorps's Cockatoo",Psittaciformes,Psittacidae,Cacatua ducorpsii,y,2.595496222,1,0,0,g,f,0,2,3,0,3,0,2,0,0,3.33,3.33,3.33,0,0,0,1,2.68,2.86,LC,0,0,0,,,walter's
+61,NA,Cacatua sp. large New Ireland,,Psittaciformes,Cacatuidae,Cacatua sp. lg New Ireland,y,2.953139893,2,0,0,g,f,0,0,7,0,3,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.94,3.12,EX,1,NA,1,,,same as congener
+62,NA,Cacatua undescr sp. New Caledonia,,Psittaciformes,Cacatuidae,Cacatua sp. New Caledonia,y,2.753710699,2,0,0,g,f,0,0,7,0,3,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.8,2.97,EX,1,NA,1,,,same as congener
+63,1764,Cacomantis flabelliformis,Fan-tailed Cuckoo,Cuculiformes,Cuculidae,Cacomantis flabelliformis,y,1.697229343,0,0,0,i,i,0,10,0,0,0,0,0,0,0,2,2,4,2,0,0,1,2.19,3.16,LC,0,0,0,,,walter's
+64,1761,Cacomantis variolosus,Brush Cuckoo,Cuculiformes,Cuculidae,Cacomantis variolosus,y,1.553344174,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,4,4,2,0,0,1,2.09,3.06,LC,0,0,0,,,walter's
+65,NA,Caloenas canacorum,,Columbiformes,Columbidae,Caloenas canacorum,y,2.979260146,0,0,0,f,f,0,0,7,0,3,0,0,0,0,6,2,1,1,0,0,1,2.96,3.14,EX,1,NA,1,ground-mid frugivore,,same as congener
+66,3496,Caloenas nicobarica,"Nicobar Pigeon, Nicobar Dove",Columbiformes,Columbidae,Caloenas nicobarica,y,2.730671214,0,0,0,f,f,0,0,5,0,5,0,0,0,0,6,2,1,1,0,0,1,2.78,2.96,NT,0,0,0,ground-mid frugivore,,walter's
+67,3263,Caprimulgus macrurus,Large-tailed Nightjar,Caprimulgiformes,Aegothelidae,Caprimulgus macrurus,y,1.820857989,0,0,0,i,i,0,10,0,0,0,0,0,0,0,4,5,0,0,1,1,1,2.28,3.25,LC,0,0,0,,,walter's
+68,1827,Centropus ateralbus,Pied Coucal,Cuculiformes,Cuculidae,Centropus ateralbus,y,2.530199698,0,0,0,i,c,1,9,0,0,0,0,0,0,0,5,3,2,0,0,0,1,2.78,4.22,LC,0,0,0,,,walter's
+69,NA,Centropus sp. New Ireland,,Cuculiformes,Cuculidae,Centropus sp. New Ireland,y,2.432052574,0,0,0,i,c,3,7,0,0,0,0,0,0,0,5,3,2,0,0,0,1,2.72,4.15,EX,1,NA,1,,,same as congener
+70,1825,Centropus violaceus,"Violaceous Coucal, Violet Coucal",Cuculiformes,Cuculidae,Centropus violaceus,y,2.698970004,0,0,0,i,c,1,9,0,0,0,0,0,0,0,7,2,1,0,0,0,1,2.9,4.34,LC,0,0,0,,,walter's
+71,10708,Cettia ruficapilla,"Fiji Bush-warbler, Fiji Bush Warbler",Passeriformes,Sylviidae,Cettia ruficapilla,y,1.103803721,1,0,0,i,i,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,1.77,2.74,LC,0,0,0,,,walter's
+72,NA,Cettia sp. Eua,,Passeriformes,Sylvidae,Cettia sp. Eua,y,1.185623936,1,0,0,i,i,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,1.83,2.8,EX,1,NA,1,,,same as congener
+73,1562,Ceyx lepidus,"Variable Kingfisher, Chameleon Dwarf Kingfisher",Coraciiformes,Alcedinidae,Ceyx lepidus,y,1.328845725,0,0,0,c,c,1,9,0,0,0,0,0,0,0,6,3,1,0,0,0,1,1.93,3.37,LC,0,0,0,,,walter's
+74,NA,Ceyx pusillus,,Coraciiformes,Alcedinidae,Ceyx pusillus,y,1.250420002,0,0,0,c,c,3,7,0,0,0,0,0,0,0,6,3,1,0,0,0,1,1.87,3.31,LC,0,0,0,aka Alcedo pusilla,,same as congeners
+75,NA,Ceyx websteri,,Coraciiformes,Alcedinidae,Ceyx websteri,y,1.250420002,0,0,0,c,c,3,7,0,0,0,0,0,0,0,6,3,1,0,0,0,1,1.87,3.31,VU,0,0,0,aka Alcedo websteri,,same as congeners
+76,NA,Chaetoptila angustipluma,,Passeriformes,Meliphagidae,Chaetoptila angustipluma,y,2.068915897,2,0,0,n,n,0,2,2,6,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.55,3.01,EX,1,1,0,,,birds of north america
+77,NA,Chaetoptila cf. narrow billed,,Passeriformes,Meliphagidae,NA,NA,NA,2,0,0,n,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+78,3417,Chalcophaps indica,"Emerald Dove, Common Emerald Dove",Columbiformes,Columbidae,Chalcophaps indica,y,2.135281584,0,0,0,f,g,0,2,4,0,4,0,0,0,0,7,1,1,1,0,0,1,2.6,3.08,LC,0,0,0,ground-dwelling,,walter's
+79,3420,Chalcophaps stephani,"Stephan's Dove, Stephan's Emerald Dove",Columbiformes,Columbidae,Chalcophaps stephani,y,2.11055056,0,0,0,f,g,0,1,4,0,5,0,0,0,0,10,0,0,0,0,0,1,2.3,2.45,LC,0,0,0,ground-dwelling,,walter's
+80,1950,Chalcopsitta cardinalis,Cardinal Lory,Psittaciformes,Psittacidae,Chalcopsitta cardinalis,y,2.26245109,0,0,0,n,f/g,0,0,5,5,0,0,0,0,0,0,4,6,0,0,0,1,2.69,2.76,LC,0,0,0,,,walter's
+81,1994,Charmosyna amabilis,Red-throated Lorikeet,Psittaciformes,Psittacidae,Charmosyna amabilis,y,0.931778423,1,0,0,n,f/g,0,0,5,5,0,0,0,0,0,0,4,4,2,0,0,1,1.75,1.83,CR,0,0,0,,,walter's
+82,1992,Charmosyna diadema,New Caledonian Lorikeet,Psittaciformes,Psittacidae,Charmosyna diadema,y,1.568049556,2,0,0,n,f/g,0,0,1,5,0,0,4,0,0,0,3,3,4,0,0,1,2.2,2.23,CR,0,0,0,,,walter's
+83,1984,Charmosyna palmarum,Palm Lorikeet,Psittaciformes,Psittacidae,Charmosyna palmarum,y,1.568049556,1,0,0,n,f/g,0,0,3,4,0,0,3,0,0,0,3.33,3.33,3.33,0,0,1,2.2,2.28,VU,0,0,0,,,walter's
+84,1991,Charmosyna placentis,Red-flanked Lorikeet,Psittaciformes,Psittacidae,Charmosyna placentis,y,1.526339277,0,0,0,n,f/g,0,0,0,5,0,0,5,0,0,0,4,4,2,0,0,1,2.17,2.3,LC,0,0,0,,,walter's
+85,1985,Charmosyna rubrigularis,Red-chinned Lorikeet,Psittaciformes,Psittacidae,Charmosyna rubrigularis,y,1.568201724,0,0,0,n,f/g,0,0,0,5,0,0,5,0,0,0,0,6,4,0,0,1,2.2,2.33,LC,0,0,0,,,walter's
+86,NA,Charmosyna sp. small,,Psittaciformes,Psittacidae,Charmosyna sp. small,y,1.669735575,0,0,0,n,f/g,0,0,3,7,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.27,2.36,EX,1,NA,1,,,same as congener
+87,8496,Chasiempis sandwichensis,"Elepaio, 'elepaio",Passeriformes,Monarchidae,Chasiempis sandwichensis,y,1.136419669,2,0,0,i,i,0,10,0,0,0,0,0,0,0,2,2,6,0,0,0,1,1.79,2.76,EN,0,0,0,,,walter's
+88,NA,Chelychelynechen quassus,,Anseriformes,Anatidae,Chelychelynechen quassus,y,3.824004709,3,1,1,h,h,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.34,3.91,EX,1,NA,1,turtle-beaked moa nalo,scrape on ground,boyer 2009
+89,NA,Chloridops kona,,Passeriformes,Fringillidae,Chloridops kona,y,1.716587578,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,0,5,5,0,0,1,2.02,2.14,EX,1,1,0,,,birds of north america
+90,NA,Chloridops regiskongi,,Passeriformes,Fringillidae,Chloridops regiskongi,y,1.786538481,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,0,5,5,0,0,1,2.07,2.19,EX,1,NA,1,,,birds of north america
+91,NA,Chloridops sp. Kauai,,Passeriformes,Fringillidae,Chloridops sp. Kauai,y,1.475525915,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,0,5,5,0,0,1,1.85,1.97,EX,1,NA,1,,,birds of north america
+92,NA,Chloridops sp. Maui,,Passeriformes,Fringillidae,Chloridops sp. Maui,y,1.356217134,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,0,5,5,0,0,1,1.76,1.89,EX,1,NA,1,,,birds of north america
+93,NA,Chloridops wahi,,Passeriformes,Fringillidae,Chloridops wahi,y,1.493597449,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,0,5,5,0,0,1,1.86,1.98,EX,1,NA,1,,,birds of north america
+94,1770,Chrysococcyx lucidus,"Shining Bronze-cuckoo, Shining Bronze Cuckoo, Shining Cuckoo",Cuculiformes,Cuculidae,Chrysococcyx lucidus,y,1.388125339,0,0,0,i,i,0,10,0,0,0,0,0,0,0,2,1,5,2,0,0,1,1.97,2.94,LC,0,0,0,,,walter's
+95,NA,Megalurulus mariei,"New Caledonian Grassbird, New Caledonian Thicketbird",Passeriformes,Sylviidae,Megalurulus mariei,y,1.094701155,2,0,0,i,i,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,1.76,2.73,NT,0,0,0,cichlornis,,boyer 2009
+96,4690,Circus approximans,"Swamp Harrier, Australasian Harrier",Falconiformes,Accipitridae,Circus approximans,y,2.872849613,0,0,0,c,c,8,1,0,0,0,1,0,0,0,1,3,3,3,0,0,1,3.03,4.87,LC,0,0,0,,,walter's
+97,NA,Circus dossenus,,Falconiformes,Accipitridae,Circus dossenus,y,2.644853395,1,0,1,c,c,10,0,0,0,0,0,0,0,0,2,3,3,2,0,0,1,2.87,4.71,EX,1,NA,1,molokai harrier,likely on ground (ornith mono 45),boyer 2009
+98,NA,Ciridops anna,,Passeriformes,Fringillidae,Ciridops anna,y,1.36361198,2,0,0,f,f,0,0,7,3,0,0,0,0,0,0,3,5,5,0,0,1,1.81,1.96,EX,1,1,0,conical bill,,boyer 2009
+99,NA,Ciridops sp. Oahu,,Passeriformes,Fringillidae,Ciridops sp. Oahu,y,1.363684673,2,0,0,f,f,0,0,7,3,0,0,0,0,0,0,3,5,5,0,0,1,1.81,1.96,EX,1,NA,1,conical bill,,boyer 2009
+100,NA,Ciridops tenax,,Passeriformes,Fringillidae,Ciridops tenax,y,1.619918418,2,0,0,f,f,0,0,7,3,0,0,0,0,0,0,3,5,5,0,0,1,1.99,2.14,EX,1,NA,1,conical bill,,boyer 2009
+101,10426,Cisticola exilis,,Passeriformes,Cisticolidae,Cisticola exilis,y,0.847653261,0,0,0,i,i,0,10,0,0,0,0,0,0,0,1,8,1,0,0,0,1,1.59,2.56,LC,0,0,0,,,walter's
+102,10658,Cleptornis marchei,Golden White-eye,Passeriformes,Zosteropidae,Cleptornis marchei,y,1.305351369,1,0,0,i,n,0,2,4,1,2,0,1,0,0,0,0,7,3,0,0,1,2.01,2.67,CR,0,0,0,,,walter's
+103,8508,Clytorhynchus nigrogularis,Black-throated Shrikebill,Passeriformes,Monarchidae,Clytorhynchus nigrogularis,y,1.746075781,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.23,3.2,VU,0,0,0,,,walter's
+104,8506,Clytorhynchus pachycephaloides,Southern Shrikebill,Passeriformes,Monarchidae,Clytorhynchus pachycephaloides,y,1.420027942,0,0,0,i,i,0,9,1,0,0,0,0,0,0,0,5,5,0,0,0,1,1.99,2.97,LC,0,0,0,,,walter's
+105,8507,Clytorhynchus vitiensis,Fiji Shrikebill,Passeriformes,Monarchidae,Clytorhynchus vitiensis,y,1.465382851,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,5,5,0,0,0,1,2.03,3,LC,0,0,0,,,walter's
+106,2347,Collocalia esculenta,Glossy Swiftlet,Apodiformes,Apodidae,Collocalia esculenta,y,0.799296422,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,1,0,9,0,1,1.55,2.52,LC,0,0,0,,,walter's
+107,2374,Collocalia leucophaea,"Tahiti Swiftlet, Polynesian Swiftlet",Apodiformes,Apodidae,Collocalia leucophaea,y,1.125638965,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,0,2,8,0,1,1.79,2.76,VU,0,0,0,,,walter's
+108,NA,Collocalia manuoi,,Apodiformes,Apodidae,Collocalia manuoi,y,0.965073357,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,0,3,7,0,1,1.67,2.64,EX,1,NA,1,,,same as congener
+109,NA,Collocalia ocista,Marquesan Swiftlet,Apodiformes,Apodidae,Collocalia ocista,y,0.965073357,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,0,0,10,0,1,1.67,2.64,LC,0,0,0,,,same as congener
+110,2372,Collocalia sawtelli,"Atiu Swiftlet, Aitu Swiftlet, Sawtell's Swiftlet",Apodiformes,Apodidae,Collocalia sawtelli,y,0.934498451,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,2,6,2,0,1,1.65,2.62,VU,0,0,0,,,walter's
+111,2357,Collocalia spodiopygia,,Apodiformes,Apodidae,Collocalia spodiopygia,y,0.904935238,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,0,0,10,0,1,1.63,2.6,LC,0,0,0,,,walter's
+112,2369,Collocalia vanikorensis,Uniform Swiftlet,Apodiformes,Apodidae,Collocalia vanikorensis,y,1.029383778,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,3,0,7,0,1,1.72,2.69,LC,0,0,0,,,walter's
+113,2363,Collocalia whiteheadi,Whitehead's Swiftlet,Apodiformes,Apodidae,Collocalia whiteheadi,y,1.146128036,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,0,0,10,0,1,1.8,2.77,VU,0,0,0,,,walter's
+114,3348,Columba pallidiceps,Yellow-legged Pigeon,Columbiformes,Columbidae,Columba pallidiceps,y,2.661812686,0,0,0,f,g,0,0,5,0,5,0,0,0,0,3,4,3,0,0,0,1,2.73,2.91,EN,0,0,0,frug all levels,,walter's
+115,3344,Columba vitiensis,"White-throated Pigeon, Metallic Pigeon",Columbiformes,Columbidae,Columba vitiensis,y,2.547774705,0,0,0,f,g,0,1,4,0,2,0,3,0,0,1,3,3,3,0,0,1,2.89,3.28,LC,0,0,0,frug all levels,,walter's
+116,NA,"Columbid new genus A, buka",,Columbiformes,Columbidae,"Columbid gen A, Buka",y,3.053958797,3,0,0,f,g,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,3.01,3.21,EX,1,NA,1,ground-dwelling,,boyer 2009
+117,NA,"Columbid undescr genus B, buka",,Columbiformes,Columbidae,"Columbid gen B, Buka",y,2.730843581,3,0,0,f,g,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.78,2.98,EX,1,NA,1,ground-dwelling,,boyer 2009
+118,NA,"Columbid undescr genus, henderson",,Columbiformes,Columbidae,"Columbid gen, Henderson",y,2.730843581,3,0,0,f,g,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.78,2.98,EX,1,NA,1,large pigoen,,boyer 2009
+119,8316,Coracina analis,New Caledonian Cuckooshrike,Passeriformes,Campephagidae,Coracina analis,y,1.915934887,2,0,0,i,f,0,8,2,0,0,0,0,0,0,1,2,2,4,1,0,1,2.35,3.19,LC,0,0,0,,,walter's
+120,8300,Coracina caledonica,Melanesian Cuckooshrike,Passeriformes,Campephagidae,Coracina caledonica,y,2.146128036,0,0,0,i,f,0,5,5,0,0,0,0,0,0,1,2,2,4,1,0,1,2.51,3.36,LC,0,0,0,,,walter's
+121,8336,Coracina holopolia,"Solomons Cuckooshrike, Black-bellied Cicadabird, Solomon Islands Cuckooshrike",Passeriformes,Campephagidae,Coracina holopolia,y,1.689308859,1,0,0,i,f,0,8,2,0,0,0,0,0,0,0,0,0,10,0,0,1,2.19,3.03,NT,0,0,0,"hawaii amakihi, aka. Hemignathus virens",,walter's
+122,8306,Coracina lineata,"Yellow-eyed Cuckooshrike, Barred Cuckooshrike, Barred Cuckoo-shrike",Passeriformes,Campephagidae,Coracina lineata,y,1.880904583,0,0,0,i,f,0,3,7,0,0,0,0,0,0,0,0,0,10,0,0,1,2.17,2.77,LC,0,0,0,,,walter's
+123,8309,Coracina papuensis,"White-bellied Cuckooshrike, White-bellied Cuckoo-shrike",Passeriformes,Campephagidae,Coracina papuensis,y,1.802488658,0,0,0,i,f,0,5,2,1,2,0,0,0,0,2,0,4,4,0,0,1,2.27,3.11,LC,0,0,0,,,walter's
+124,NA,Coracina sp. large New Ireland,,Passeriformes,Campephagidae,Coracina sp. Lg New Ireland,y,1.985895618,0,0,0,i,f,0,7,3,0,0,0,0,0,0,0,1,3,6,0,0,1,2.4,3.24,EX,1,NA,1,,,same as congener
+125,8325,Coracina tenuirostris,"Slender-billed Cicadabird, Cicadabird, Common Cicadabird",Passeriformes,Campephagidae,Coracina tenuirostris,y,1.784772573,0,0,0,i,f,0,8,1,0,1,0,0,0,0,0,2,4,4,0,0,1,2.25,3.1,LC,0,0,0,,,walter's
+126,NA,Corvus hawaiiensis,,Passeriformes,Corvidae,Corvus hawaiiensis,y,2.698970004,1,0,0,f,f,2,3,5,0,0,0,0,0,0,2,3,3,2,0,0,1,3,4.25,EW,1,1,0,"grouped with C. aff hawaiiensis, Corvidae femur length regression- mass should be 612g",,birds of north america
+127,NA,Corvus impluviatus,,Passeriformes,Corvidae,Corvus impluviatus,y,2.714340512,2,0,0,f,f,2,3,5,0,0,0,0,0,0,2,3,3,2,0,0,1,3.01,4.26,EX,1,NA,1,,,same as hawaiian crow
+128,NA,Corvus kubyari,"Mariana Crow, Guam Crow",Passeriformes,Corvidae,Corvus kubyari,y,2.397940009,1,0,0,o,o,3,3,3,0,1,0,0,0,0,2,3,3,2,0,0,1,2.79,4.17,EN,0,0,0,,,boyer 2009
+129,8085,Corvus meeki,Bougainville Crow,Passeriformes,Corvidae,Corvus meeki,y,2.700590867,1,0,0,o,o,0,5,5,0,0,0,0,0,0,0,0,5,5,0,0,1,2.76,3.35,LC,0,0,0,,,walter's
+130,8078,Corvus moneduloides,New Caledonian Crow,Passeriformes,Corvidae,Corvus moneduloides,y,2.443078913,1,0,0,o,o,1,2,2,0,2,1,2,0,0,5,2,2,1,0,0,1,2.82,4.1,LC,0,0,0,,,walter's
+131,8111,Corvus orru,Torresian Crow,Passeriformes,Corvidae,Corvus orru,y,2.705833917,0,0,0,o,o,2,2,1,1,2,1,1,0,0,7,3,0,0,0,0,1,3.01,4.41,LC,0,0,0,,,walter's
+132,NA,Corvus sp. Large New Ireland,,Passeriformes,Corvidae,Corvus sp. Lg New Ireland,y,2.701109982,2,0,0,o,o,2,1,2,0,0,5,0,0,0,7,3,0,0,0,0,1,3,4.7,EX,1,NA,1,,,boyer 2009
+133,NA,Corvus viriosus,,Passeriformes,Corvidae,Corvus viriosus,y,2.827257077,1,0,0,f,f,2,1,2,0,0,5,0,0,0,7,3,0,0,0,0,1,3.09,4.79,EX,1,NA,1,,,boyer 2009
+134,NA,Coturnix cf. ypsilophorus,,Galliformes,Phasianidae,Coturnix cf. ypsilophorus,y,1.897627091,0,0,1,o,o,0,3,0,0,7,0,0,0,0,10,0,0,0,0,0,1,2.15,2.72,EX,1,NA,1,,,same as congener
+135,313,Coturnix chinensis,,Galliformes,Phasianidae,Coturnix chinensis,y,1.606512593,0,0,1,o,o,0,3,0,0,4,0,3,0,0,10,0,0,0,0,0,1,1.94,2.51,LC,0,0,0,,,walter's
+136,2076,Cyanoramphus novaezelandiae,Red-fronted Parakeet,Psittaciformes,Psittacidae,Cyanoramphus novaezelandiae,y,1.955325865,0,0,0,f,h,0,1,3,0,3,0,3,0,0,2,4,4,0,0,0,1,2.47,2.86,VU,0,0,0,,,walter's
+137,563,Dendrocygna arcuata,,Anseriformes,Anatidae,Dendrocygna arcuata,y,2.901014487,0,0,0,h,h,0,0,0,0,0,0,10,7,3,0,0,0,0,0,0,2,2.69,3.04,LC,0,0,0,,,walter's
+138,NA,Dendrocygna sp (giant whistling duck),,Anseriformes,Anatidae,Dendrocygna sp,y,3.301029996,2,0,0,h,h,0,0,0,0,0,0,10,7,3,0,0,0,0,0,0,2,2.97,3.33,EX,1,NA,1,,,same as congener
+139,11582,Dicaeum aeneum,Midget Flowerpecker,Passeriformes,Dicaeidae,Dicaeum aeneum,y,0.96583062,0,0,0,f,n,0,5,5,0,0,0,0,0,0,0,3,4,3,0,0,1,1.67,2.52,LC,0,0,0,,,walter's
+140,11581,Dicaeum eximium,Red-banded Flowerpecker,Passeriformes,Dicaeidae,Dicaeum eximium,y,0.897627091,0,0,0,f,n,0,0,8,2,0,0,0,0,0,0,2,2,6,0,0,1,1.72,1.85,LC,0,0,0,,,walter's
+141,8454,Dicrurus megarhynchus,Ribbon-tailed Drongo,Passeriformes,Dicruridae,Dicrurus megarhynchus,y,2.113943352,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,5,4,1,0,0,1,2.49,3.46,LC,0,0,0,,,walter's
+142,NA,Didunculus ngutulahi,,Columbiformes,Columbidae,Didunculus ngutulahi,y,2.878532764,2,0,0,f,g,0,0,9,0,1,0,0,0,0,0,0,5,5,0,0,1,2.88,3.08,EX,1,NA,1,forages at all levels,,boyer 2009
+143,NA,Drepanis funerea,,Passeriformes,Fringillidae,Drepanis funerea,y,1.478710756,2,0,0,n,n,0,1,0,9,0,0,0,0,0,0,0,5,5,0,0,1,2.13,2.41,EX,1,1,0,,,birds of north america
+144,NA,Drepanis pacifica,,Passeriformes,Fringillidae,Drepanis pacifica,y,1.566083784,2,0,0,n,n,0,1,0,9,0,0,0,0,0,0,0,5,5,0,0,1,2.2,2.47,EX,1,1,0,,,birds of north america
+145,3606,Drepanoptila holosericea,Cloven-feathered Dove,Columbiformes,Columbidae,Drepanoptila holosericea,y,2.33243846,3,0,0,f,f,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.5,2.7,NT,0,0,0,,,walter's
+146,NA,Ducula amicinsula,,Columbiformes,Columbidae,Ducula amicinsula,y,2.99665364,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.97,3.17,EX,1,NA,1,canopy frugivore,,same as congener
+147,3621,Ducula aurorae,"Polynesian Imperial-pigeon, Polynesian Imperial Pigeon, Society Islands Pigeon",Columbiformes,Columbidae,Ducula aurorae,y,2.705177304,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.76,2.96,EN,0,0,0,canopy frugivore,,walter's
+148,NA,Ducula david,,Columbiformes,Columbidae,Ducula david,y,2.983603091,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.96,3.16,EX,1,NA,1,canopy frugivore,,same as congener
+149,3632,Ducula finschii,"Finsch's Imperial-pigeon, Growling Imperial Pigeon",Columbiformes,Columbidae,Ducula finschii,y,2.53644097,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,1,1,0,0,1,2.64,2.84,LC,0,0,0,canopy frugivore,,walter's
+150,3622,Ducula galeata,"Marquesan Imperial-pigeon, Marquesan Imperial Pigeon, Nukuhiva Imperial-pigeon",Columbiformes,Columbidae,Ducula galeata,y,2.705177304,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.76,2.96,CR,0,0,0,canopy frugivore,,walter's
+151,3637,Ducula goliath,"New Caledonian Imperial-pigeon, Giant Imperial-pigeon, Goliath Imperial Pigeon",Columbiformes,Columbidae,Ducula goliath,y,2.77815125,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.81,3.01,NT,0,0,0,canopy frugivore,,walter's
+152,NA,Ducula lakeba,,Columbiformes,Columbidae,Ducula lakeba,y,2.896744194,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.9,3.1,EX,1,NA,1,canopy frugivore,,same as congener
+153,3634,Ducula latrans,"Peale's Imperial-pigeon, Barking Imperial Pigeon",Columbiformes,Columbidae,Ducula latrans,y,2.562423728,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.66,2.86,LC,0,0,0,canopy frugivore,,walter's
+154,3639,Ducula melanochroa,"Bismarck Imperial-pigeon, Black Imperial Pigeon",Columbiformes,Columbidae,Ducula melanochroa,y,2.822821645,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.84,3.05,LC,0,0,0,canopy frugivore,,walter's
+155,3620,Ducula oceanica,"Micronesian Imperial-pigeon, Micronesian Imperial Pigeon",Columbiformes,Columbidae,Ducula oceanica,y,2.570002475,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.66,2.87,NT,0,0,0,canopy frugivore,,walter's
+156,3619,Ducula pacifica,"Pacific Imperial-pigeon, Pacific Imperial Pigeon",Columbiformes,Columbidae,Ducula pacifica,y,2.595725507,0,0,0,f,f,0,0,9,0,0,0,1,0,0,2,2,2,4,0,0,1,2.68,2.88,LC,0,0,0,canopy frugivore,,walter's
+157,3625,Ducula pistrinaria,"Island Imperial-pigeon, Floury Imperial Pigeon",Columbiformes,Columbidae,Ducula pistrinaria,y,2.711807229,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,3,7,0,0,1,2.77,2.97,LC,0,0,0,canopy frugivore,,walter's
+158,3623,Ducula rubricera,"Red-knobbed Imperial-pigeon, Red-knobbed Imperial Pigeon",Columbiformes,Columbidae,Ducula rubricera,y,2.814247596,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.84,3.04,LC,0,0,0,canopy frugivore,,walter's
+159,NA,Ducula sp. Bismarcks,,Columbiformes,Columbidae,Ducula sp. bismarcks,y,2.777789187,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.81,3.01,NA,1,NA,1,canopy frugivore,,same as congener
+160,3647,Ducula spilorrhoa,,Columbiformes,Columbidae,Ducula spilorrhoa,y,2.698970004,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.76,2.96,LC,0,0,0,canopy frugivore,,walter's
+161,NA,Ducula sp. vanuatu,,Columbiformes,Columbidae,Ducula sp. vanuatu,y,2.462449712,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,4,6,0,0,1,2.59,2.79,EX,1,NA,1,canopy frugivore,,same as congener
+162,NA,Ducula undescr. sp Tonga,,Columbiformes,Columbidae,Ducula sp Tonga,y,2.777789187,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.81,3.01,EX,1,NA,1,canopy frugivore,,same as congener
+163,NA,Dysmorodrepanis munroi,,Passeriformes,Fringillidae,NA,NA,NA,3,0,0,f,i,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,0,lanai hookbill,,NA
+164,NA,Eclectus infectus,,Psittaciformes,Psittacidae,Eclectus infectus,y,2.669543252,1,0,0,f,f,0,0,7,0,3,0,0,0,0,0,4,4,2,0,0,1,2.74,2.91,EX,1,NA,1,,,same as congener
+165,2039,Eclectus roratus,Eclectus Parrot,Psittaciformes,Psittacidae,Eclectus roratus,y,2.681930039,0,0,0,f,f,0,0,4,0,3,0,3,0,0,0,4,4,2,0,0,1,2.74,2.92,LC,0,0,0,,,walter's
+166,NA,Eclectus undescr. sp Vanuatu,,Psittaciformes,Psittacidae,Eclectus sp Vanuatu,y,2.654561555,2,0,0,f,f,0,0,7,0,3,0,0,0,0,0,4,4,2,0,0,1,2.72,2.9,EX,1,NA,1,,,same as congener
+167,5195,Egretta novaehollandiae,White-faced Heron,Ciconiiformes,Ardeidae,Egretta novaehollandiae,y,2.747132273,0,0,0,c,c,4,5,0,0,0,1,0,0,10,0,0,0,0,0,0,2,2.94,4.74,LC,0,0,0,,,walter's
+168,5207,Egretta sacra,"Pacific Reef-egret, Eastern Reef Egret, Pacific Reef Heron, Reef Heron",Ciconiiformes,Ardeidae,Egretta sacra,y,2.700712334,0,0,0,c,c,5,5,0,0,0,0,0,0,8,2,0,0,0,0,0,3,2.91,4.43,LC,0,0,0,,,walter's
+169,7652,Eopsaltria flaviventris,Yellow-bellied Robin,Passeriformes,Petroicidae,Eopsaltria flaviventris,y,1.113943352,1,0,0,i,i,0,10,0,0,0,0,0,0,0,1,3,3,3,0,0,1,1.78,2.75,LC,0,0,0,,,walter's
+170,12161,Erythrura cyaneovirens,"Red-headed Parrotfinch, Red-headed Parrot-finch",Passeriformes,Estrildidae,Erythrura cyaneovirens,y,1.113943352,0,0,0,g,g,0,2,4,1,3,0,0,0,0,0,0,6,4,0,0,1,1.59,2.16,LC,0,0,0,,,walter's
+171,12163,Erythrura kleinschmidti,"Pink-billed Parrotfinch, Pink-billed Parrot-finch",Passeriformes,Estrildidae,Erythrura kleinschmidti,y,1.322219295,2,0,0,g,g,0,8,1,0,0,0,1,0,0,2,0,6,2,0,0,1,2.02,2.71,VU,0,0,0,,,walter's
+172,12159,Erythrura psittacea,"Red-throated Parrotfinch, Red-throated Parrot-finch",Passeriformes,Estrildidae,Erythrura psittacea,y,1.06069784,1,0,0,g,g,0,2,4,0,4,0,0,0,0,5,5,0,0,0,0,1,1.55,2.12,LC,0,0,0,,,walter's
+173,12156,Erythrura trichroa,"Blue-faced Parrotfinch, Blue-faced Parrot-finch",Passeriformes,Estrildidae,Erythrura trichroa,y,1.158194876,0,0,0,g,g,0,2,1,0,7,0,0,0,0,5,5,0,0,0,0,1,1.62,1.77,LC,0,0,0,,,walter's
+174,NA,Erythrura undescr. sp Rota,,Passeriformes,Estrildidae,Erythrura sp Rota,y,1.161368002,1,0,0,g,g,0,3,0,0,7,0,0,0,0,5,5,0,0,0,0,1,1.62,2.2,EX,1,NA,1,,,same as congener
+175,1785,Eudynamys scolopacea,Asian Koel,Cuculiformes,Cuculidae,Eudynamys scolopacea,y,2.289873488,0,0,0,i,c,0,1,8,1,0,0,0,0,0,0,0,2,8,0,0,1,2.47,3.06,LC,0,0,0,,,walter's
+176,2080,Eunymphicus cornutus,Horned Parakeet,Psittaciformes,Psittacidae,Eunymphicus cornutus,y,2.113943352,1,0,0,f,f,0,0,3,6,0,0,1,0,0,0,5,5,0,0,0,1,2.59,2.71,EN,0,0,0,,,walter's
+177,NA,Eurostopodus mysticalis,"White-throated Eared-nightjar, White-throated Nightjar",Caprimulgiformes,Caprimulgidae,Eurostopodus mysticalis,y,2.161368002,0,0,0,i,i,0,10,0,0,0,0,0,0,0,2,0,0,0,8,1,1,2.52,3.49,LC,0,0,0,NA,NA,boyer 2009
+178,1498,Eurystomus orientalis,"Purple Dollarbird, Azure Dollarbird, Purple Roller",Coraciiformes,Coraciidae,Eurystomus orientalis,y,2.15541092,0,0,0,i,c,0,10,0,0,0,0,0,0,0,2,4,2,1,1,0,1,2.52,3.85,LC,0,0,0,,,walter's
+179,NA,Falco peregrinus,"Peregrine Falcon, Peregrine",Falconiformes,Falconidae,Falco peregrinus,y,2.78604121,0,0,0,c,c,7,3,0,0,0,0,0,0,0,2,2,4,1,1,0,1,2.97,4.68,LC,0,0,0,,,boyer 2009
+180,4969,Falco severus,Oriental Hobby,Falconiformes,Falconidae,Falco severus,y,2.302436885,0,0,0,c,c,7,3,0,0,0,0,0,0,0,0,3.33,3.33,0,0,0,1,2.62,4.06,LC,0,0,0,,,walter's
+181,7368,Foulehaio carunculata,Wattled Honeyeater,Passeriformes,Meliphagidae,Foulehaio carunculata,y,1.568201724,0,0,0,n,f,0,3,2,5,0,0,0,0,0,0,8,2,0,0,0,1,2.2,2.75,LC,0,0,0,,,walter's
+182,3940,Fulica alai,Hawaiian coot,Gruiformes,Rallidae,Fulica alai,y,2.629520897,0,0,0,h,h,0,2,0,0,4,0,4,5,5,0,0,0,0,0,0,2,2.49,3.14,LC,0,0,0,same mass as american coot,,walter's
+183,3514,Gallicolumba beccarii,"Bronze Ground-dove, Bronze Ground Dove",Columbiformes,Columbidae,Gallicolumba beccarii,y,1.896193043,0,0,0,f,g,0,3,4,0,3,0,0,0,0,10,0,0,0,0,0,1,2.15,2.49,LC,0,0,0,ground-dwelling,,walter's
+184,3506,Gallicolumba erythroptera,"Polynesian Ground-dove, Polynesian Ground Dove, Society Islands Ground-dove, White-collared Ground-dove",Columbiformes,Columbidae,Gallicolumba erythroptera,y,2.053774565,0,0,0,f,g,0,7,0,0,0,0,3,0,0,8,2,0,0,0,0,1,2.45,3.3,CR,0,0,0,ground-dwelling,,walter's
+185,3504,Gallicolumba jobiensis,"White-bibbed Ground-dove, Purple Ground Dove",Columbiformes,Columbidae,Gallicolumba jobiensis,y,2.130333769,0,0,0,f,g,0,2,4,0,4,0,0,0,0,4,2,2,2,0,0,1,2.31,2.66,LC,0,0,0,ground-dwelling,,walter's
+186,NA,Gallicolumba leonpascoi,,Columbiformes,Columbidae,Gallicolumba leonpascoi,y,2.135450699,2,0,0,f,g,0,1,3,0,6,0,0,0,0,9,1,0,0,0,0,1,2.32,2.66,EX,1,NA,1,ground-dwelling,,boyer 2009
+187,NA,Gallicolumba longitarsus,,Columbiformes,Columbidae,Gallicolumba longitarsus,y,2.501536216,2,0,0,f,g,0,1,3,0,6,0,0,0,0,9,1,0,0,0,0,1,2.58,2.92,EX,1,NA,1,ground-dwelling,,boyer 2009
+188,NA,Gallicolumba nui,,Columbiformes,Columbidae,Gallicolumba nui,y,2.479878287,0,0,0,f,g,0,1,3,0,6,0,0,0,0,9,1,0,0,0,0,1,2.56,2.91,EX,1,NA,1,ground-dwelling,,boyer 2009
+189,3513,Gallicolumba rubescens,"Marquesan Ground-dove, Marquesan Ground Dove",Columbiformes,Columbidae,Gallicolumba rubescens,y,1.77815125,1,0,0,f,g,0,0,0,0,10,0,0,0,0,10,0,0,0,0,0,1,2.06,2.41,EN,0,0,0,ground-dwelling,,walter's
+190,3502,Gallicolumba rufigula,"Cinnamon Ground-dove, Cinnamon Ground Dove",Columbiformes,Columbidae,Gallicolumba rufigula,y,2.113943352,0,0,0,f,g,0,3,3,0,4,0,0,0,0,10,0,0,0,0,0,1,2.3,2.65,LC,0,0,0,ground-dwelling,,walter's
+191,3509,Gallicolumba stairi,"Shy Ground-dove, Friendly Ground-dove, Tongan Ground Dove",Columbiformes,Columbidae,Gallicolumba stairi,y,2.23299611,0,0,0,f,g,0,2,2,0,2,0,4,0,0,5,5,0,0,0,0,1,2.67,3.17,VU,0,0,0,ground-dwelling,,walter's
+192,NA,Gallicolumba undescr sp. Rota,,Columbiformes,Columbidae,Gallicolumba undescr sp. Rota,y,2.135450699,2,0,0,f,g,0,1,3,0,6,0,0,0,0,9,1,0,0,0,0,1,2.32,2.66,EX,1,NA,1,ground-dwelling,,boyer 2009
+193,3508,Gallicolumba xanthonura,"White-throated Ground-dove, White-throated Ground Dove",Columbiformes,Columbidae,Gallicolumba xanthonura,y,2.043833931,1,0,0,f,g,0,0,7,0,2,0,1,0,0,0,4,4,2,0,0,1,2.29,2.47,NT,0,0,0,ground-dwelling,,walter's
+194,3931,Gallinula chloropus,"Common Moorhen, Moorhen",Gruiformes,Rallidae,Gallinula chloropus,y,2.531010628,0,0,1,o,o,2,2,2,0,2,0,2,0,2,6,2,0,0,0,0,2,2.88,4.11,LC,0,0,0,,,walter's
+195,3933,Gallinula tenebrosa,Dusky Moorhen,Gruiformes,Rallidae,Gallinula tenebrosa,y,2.724360888,0,0,1,o,o,0,3,0,0,0,0,7,0,3,5,2,0,0,0,0,2,3.02,4.25,LC,0,0,0,,,walter's
+196,NA,Gallirallus epulare,,Gruiformes,Rallidae,Gallirallus epulare,y,2.440734988,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.82,4.2,EX,1,NA,1,,,boyer 2009
+197,NA,Gallirallus ernstmayri,,Gruiformes,Rallidae,Gallirallus ernstmayri,y,2.778378912,2,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,3.06,4.44,EX,1,NA,1,,,boyer 2009
+198,NA,Gallirallus gracilitibia,,Gruiformes,Rallidae,Gallirallus gracilitibia,y,2.33433284,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.74,4.13,EX,1,NA,1,,,boyer 2009
+199,NA,Gallirallus lafresnayanus,"New Caledonian Rail, New Caledonian Wood Rail",Gruiformes,Rallidae,Gallirallus lafresnayanus,y,3.053090208,2,1,1,o,o,2,6,2,0,0,0,0,0,0,10,0,0,0,0,0,1,3.16,4.46,CR,0,0,0,,,boyer 2009
+200,NA,Gallirallus owstoni,,Gruiformes,Rallidae,Gallirallus owstoni,y,2.361727836,2,1,1,o,o,3,3,0,0,2,0,2,0,3,4,3,0,0,0,0,1,2.76,4.15,EW,1,1,0,,,birdlife international
+201,NA,Gallirallus pendiculentus,,Gruiformes,Rallidae,Gallirallus pendiculentus,y,2.388619651,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.78,4.17,EX,1,NA,1,,,boyer 2009
+202,3832,Gallirallus philippensis,Buff-banded Rail,Gruiformes,Rallidae,Gallirallus philippensis,y,2.313709498,0,0,1,o,o,3,2,1,0,1,1,2,0,3,4,3,0,0,0,0,2,2.73,4.22,LC,0,0,0,"recent colonist, exclude from prehistoric",,walter's
+203,NA,Gallirallus pisonii (sp M),,Gruiformes,Rallidae,Gallirallus pisonii (sp M),y,2.419020264,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.8,4.19,EX,1,NA,1,,,boyer 2009
+204,NA,Gallirallus poecilopterus,,Gruiformes,Rallidae,Gallirallus poecilopterus,y,2.285557309,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.71,4.09,EX,1,1,0,,,boyer 2009
+205,NA,Gallirallus ripleyi,,Gruiformes,Rallidae,Gallirallus ripleyi,y,2.206215968,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.65,4.04,EX,1,NA,1,,,boyer 2009
+206,NA,Gallirallus roletti,,Gruiformes,Rallidae,Gallirallus roletti,y,2.579709223,2,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,2.92,4.3,EX,1,NA,1,,,boyer 2009
+207,NA,"Gallirallus sp. B, Buka",,Gruiformes,Rallidae,"Gallirallus sp. B, Buka",y,2.627481616,2,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,2.95,4.34,EX,1,NA,1,,,boyer 2009
+208,NA,"Gallirallus sp. C, Vanuatu",,Gruiformes,Rallidae,"Gallirallus sp. C, Vanuatu",y,2.388619651,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.78,4.17,EX,1,NA,1,,,boyer 2009
+209,NA,Gallirallus storrsolsoni,,Gruiformes,Rallidae,Gallirallus storrsolsoni,y,2.524698588,2,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,2.88,4.26,EX,1,NA,1,,,boyer 2009
+210,NA,Gallirallus temptatus,,Gruiformes,Rallidae,Gallirallus temptatus,y,2.477650019,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.84,4.23,EX,1,NA,1,,,boyer 2009
+211,NA,Gallirallus undescr. sp D,,Gruiformes,Rallidae,Gallirallus sp D,y,2.285557309,1,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.71,4.09,EX,1,NA,1,,,boyer 2009
+212,NA,Gallirallus undescr. sp E,,Gruiformes,Rallidae,Gallirallus sp E,y,2.285557309,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.71,4.09,EX,1,NA,1,,,boyer 2009
+213,NA,Gallirallus undescr. sp F,,Gruiformes,Rallidae,Gallirallus sp F,y,2.285557309,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.71,4.09,EX,1,NA,1,,,boyer 2009
+214,NA,Gallirallus undescr. sp G,,Gruiformes,Rallidae,Gallirallus sp G,y,2.285557309,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.71,4.09,EX,1,NA,1,,,boyer 2009
+215,NA,Gallirallus undescr. sp J,,Gruiformes,Rallidae,Gallirallus sp J,y,2.285557309,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.71,4.09,EX,1,NA,1,,,boyer 2009
+216,NA,Gallirallus undescr. sp. O,,Gruiformes,Rallidae,Gallirallus sp. O,y,2.436392044,2,1,1,o,o,2,3,1,0,2,1,1,0,3,4,3,0,0,0,0,1,2.81,4.2,EX,1,NA,1,,,boyer 2009
+217,NA,Gallirallus vekamatolu,,Gruiformes,Rallidae,Gallirallus vekamatolu,y,2.661356585,2,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,2.97,4.36,EX,1,NA,1,,,boyer 2009
+218,NA,Gallirallus woodfordi,,Gruiformes,Rallidae,Gallirallus woodfordi,y,2.933659225,1,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,3.17,4.56,EX,1,NA,1,,,boyer 2009
+219,2024,Geoffroyus heteroclitus,Singing Parrot,Psittaciformes,Psittacidae,Geoffroyus heteroclitus,y,2.230448921,0,0,0,f,f,0,0,9,0,0,0,1,0,0,0,0,3,7,0,0,1,2.42,2.62,LC,0,0,0,,,walter's
+220,7598,Gerygone flavolateralis,Fan-tailed Gerygone,Passeriformes,Acanthizidae,Gerygone flavolateralis,y,0.79934055,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,6,2,0,0,1,1.55,2.52,LC,0,0,0,,,walter's
+221,NA,Grallistrix auceps,,Strigiformes,Strigidae,Grallistrix auceps,y,2.866343581,2,0,1,c,c,10,0,0,0,0,0,0,0,0,2,3,3,2,0,1,1,3.03,4.87,EX,1,NA,1,,likely on ground (ornith mono 45),boyer 2009
+222,NA,Grallistrix erdmani,,Strigiformes,Strigidae,Grallistrix erdmani,y,2.775141739,2,0,1,c,c,10,0,0,0,0,0,0,0,0,2,3,3,2,0,1,1,2.96,4.8,EX,1,NA,1,,likely on ground (ornith mono 45),boyer 2009
+223,NA,Grallistrix geleches,,Strigiformes,Strigidae,Grallistrix geleches,y,2.88371536,2,0,1,c,c,10,0,0,0,0,0,0,0,0,2,3,3,2,0,1,1,3.04,4.88,EX,1,NA,1,,likely on ground (ornith mono 45),boyer 2009
+224,NA,Grallistrix orion,,Strigiformes,Strigidae,Grallistrix orion,y,2.714340512,2,0,1,c,c,10,0,0,0,0,0,0,0,0,2,3,3,2,0,1,1,2.92,4.76,EX,1,NA,1,,likely on ground (ornith mono 45),boyer 2009
+225,7450,Gymnomyza aubryana,Crow Honeyeater,Passeriformes,Meliphagidae,Gymnomyza aubryana,y,2.290257212,2,0,0,n,f,0,4,0,6,0,0,0,0,0,0,0,5,5,0,0,1,2.61,3.45,EN,0,0,0,,,walter's
+226,7449,Gymnomyza samoensis,Mao,Passeriformes,Meliphagidae,Gymnomyza samoensis,y,1.995635195,1,0,0,n,f,0,3,3,4,0,0,0,0,0,0,0,8,2,0,0,1,2.5,3.16,EN,0,0,0,,,walter's
+227,7448,Gymnomyza viridis,"Giant Honeyeater, Yodeling Honeyeater",Passeriformes,Meliphagidae,Gymnomyza viridis,y,1.943494516,1,0,0,n,f,1,3,2,4,0,0,0,0,0,0,0,2,8,0,0,1,2.46,2.94,LC,0,0,0,,,walter's
+228,NA,Gymnophaps albertsii,"Papuan Mountain-pigeon, Papuan Mountain Pigeon",Columbiformes,Columbidae,Gymnophaps albertsii,y,2.413299764,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.55,2.75,LC,0,0,0,canopy frugivore,,boyer 2009
+229,1606,Todiramphus chloris,"Collared Kingfisher, White-collared Kingfisher",Coraciiformes,Alcedinidae,NA,y,1.820158487,0,0,0,c,c,2,8,0,0,0,0,0,1,3,4,2,0,0,0,0,1,2.28,3.72,NA,0,0,0,Halcyon,,walter's
+230,NA,Todiramphus cinnamomina,Micronesian Kingfisher,Coraciiformes,Alcedinidae,NA,y,1.77815125,0,0,0,c,c,3,7,0,0,0,0,0,0,2,4,3,1,0,0,0,1,2.25,3.69,LC,0,0,0,,,boyer 2009
+231,NA,Todiramphus farquhari,"Chestnut-bellied Kingfisher, Vanuatu Kingfisher",Coraciiformes,Alcedinidae,NA,y,1.827369273,1,0,0,c,c,3,7,0,0,0,0,0,0,2,4,3,1,0,0,0,1,2.28,3.72,VU,0,0,0,,,boyer 2009
+232,NA,Todiramphus godeffroyi,Marquesan Kingfisher,Coraciiformes,Alcedinidae,NA,y,1.827369273,1,0,0,c,c,3,7,0,0,0,0,0,0,2,4,3,1,0,0,0,1,2.28,3.72,EN,0,0,0,,,boyer 2009
+233,1600,Todiramphus leucopygia,Ultramarine Kingfisher,Coraciiformes,Alcedinidae,NA,y,1.680531334,0,0,0,c,c,0,10,0,0,0,0,0,0,0,6,3,1,0,0,0,1,2.18,3.62,LC,0,0,0,Halcyon,,walter's
+234,NA,Todiramphus mangaia,,Coraciiformes,Alcedinidae,NA,y,1.55911719,2,0,0,c,c,3,7,0,0,0,0,0,0,2,4,3,1,0,0,0,1,2.09,3.53,VU,0,0,0,aka Todirhamphus ruficollaris; Halcyon,,boyer 2009
+235,1610,Todiramphus sanctus,Sacred Kingfisher,Coraciiformes,Alcedinidae,NA,y,1.724008233,1,0,0,c,c,3,7,0,0,0,0,0,0,0,4,3,2,0,1,0,1,2.21,3.65,LC,0,0,0,Halcyon sancta,,NA
+236,NA,Todiramphus saurophaga,Beach Kingfisher,Coraciiformes,Alcedinidae,NA,y,1.827369273,0,0,0,c,c,3,7,0,0,0,0,0,0,2,4,3,1,0,0,0,1,2.28,3.72,LC,0,0,0,,,boyer 2009
+237,1613,Todiramphus tutus,Chattering Kingfisher,Coraciiformes,Alcedinidae,NA,y,1.626609618,0,0,0,c,c,3,7,0,0,0,0,0,0,2,2,2,2,1,1,0,1,2.14,3.58,LC,0,0,0,Halcyon tuta,,walter's
+238,4630,Haliaeetus leucogaster,"White-bellied Sea-eagle, White-bellied Fish-eagle, White-bellied Sea Eagle",Falconiformes,Accipitridae,Haliaeetus leucogaster,y,3.451327738,0,0,0,c,c,8,0,0,0,0,2,0,0,0,6,2,2,0,0,0,2,3.44,5.25,LC,0,0,0,,,walter's
+239,4632,Haliaeetus sanfordi,,Falconiformes,Accipitridae,Haliaeetus sanfordi,y,3.29666519,0,0,0,c,c,5,0,0,0,0,5,0,0,5,3,0,0,2,0,0,2,3.33,5.18,VU,0,0,0,,,walter's
+240,NA,Haliaeetus albicilla,"White-tailed Eagle, Grey Sea Eagle",Falconiformes,Accipitridae,Haliaeetus albicilla,y,3.760990213,0,0,0,c,c,7,0,0,0,0,3,0,0,5,5,0,0,0,0,0,2,3.66,5.51,LC,0,NA,NA,same mass as bald eagle,NA,boyer 2009
+241,4628,Haliastur indus,Brahminy Kite,Falconiformes,Accipitridae,Haliastur indus,y,2.723455672,0,0,0,c,c,4,1,0,0,0,5,0,0,1,5,0,0,1,3,0,1,3.02,4.82,LC,0,0,0,,,walter's
+242,4627,Haliastur sphenurus,Whistling Kite,Falconiformes,Accipitridae,Haliastur sphenurus,y,2.876794976,0,0,0,c,c,3,1,0,0,0,6,0,0,0,6,2,2,0,0,0,1,3.13,4.93,LC,0,0,0,,,walter's
+243,12441,Hemignathus lucidus,"Nukupuu, Nukupu'u",Passeriformes,Fringillidae,Hemignathus lucidus,y,1.397010536,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,5,5,0,0,0,1,1.98,2.95,CR,0,0,0,"aka. Heterorhynchus olivaceus, H. hanapepe, H. affinis",,walter's
+244,NA,Hemignathus vorpalis,,Passeriformes,Fringillidae,Hemignathus vorpalis,y,1.695218919,2,0,0,i,i,0,9,0,0,0,0,1,0,0,0,5,5,0,0,0,1,2.19,3.13,EX,1,NA,1,Giant Nukupuu,,same as congener
+245,12442,Hemignathus wilsoni,,Passeriformes,Fringillidae,Hemignathus wilsoni,y,1.446933567,2,0,0,i,i,0,8,0,2,0,0,0,0,0,0,4,4,2,0,0,1,2.01,2.95,EN,0,0,0,"aka. H. olivaceus, Heterorhynchus wilsoni, H. munroi",,walter's
+246,2441,Hemiprocne mystacea,Moustached treeswift,Apodiformes,Apodidae,Hemiprocne mystacea,y,1.845718018,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,2,8,0,0,1,2.3,3.27,LC,0,0,0,,,walter's
+247,12457,Himatione sanguinea,Apapane,Passeriformes,Fringillidae,Himatione sanguinea,y,1.181241237,2,0,0,n,n,0,2,0,8,0,0,0,0,0,0,3,3,4,0,0,1,1.92,2.47,LC,0,0,0,,,walter's
+248,NA,Hirundo sp. Henderson,,Passeriformes,Hirundinidae,Hirundo sp. Henderson,y,1.249830672,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,1,1,0,8,0,1,1.87,2.84,EX,1,NA,1,,,same as congener
+249,10083,Hirundo tahitica,Pacific Swallow,Passeriformes,Hirundinidae,Hirundo tahitica,y,1.250420002,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,4,6,0,0,0,1,1.87,2.84,LC,0,0,0,,,walter's
+250,5171,Ixobrychus flavicollis,,Ciconiiformes,Ardeidae,Ixobrychus flavicollis,y,2.506505032,0,0,0,c,c,7,3,0,0,0,0,0,0,5,5,0,0,0,0,0,2,2.77,4.57,LC,0,0,0,,,walter's
+251,5164,Ixobrychus sinensis,,Ciconiiformes,Ardeidae,Ixobrychus sinensis,y,1.974511693,0,0,0,c,c,2,8,0,0,0,0,0,0,5,5,0,0,0,0,0,2,2.39,3.83,LC,0,0,0,,,walter's
+252,8352,Lalage leucomela,Varied Triller,Passeriformes,Campephagidae,Lalage leucomela,y,1.466224198,0,0,0,i,f,0,8,1,0,1,0,0,0,0,0,0,0,10,0,0,1,2.03,2.87,LC,0,0,0,,,walter's
+253,8355,Lalage leucopyga,Long-tailed Triller,Passeriformes,Campephagidae,Lalage leucopyga,y,1.385606274,0,0,0,i,f,0,10,0,0,0,0,0,0,0,0,0,0,10,0,0,1,1.97,2.82,LC,0,0,0,,,walter's
+254,8353,Lalage maculosa,Polynesian Triller,Passeriformes,Campephagidae,Lalage maculosa,y,1.481442629,0,0,0,i,f,0,10,0,0,0,0,0,0,0,0,0,0,10,0,0,1,2.04,2.88,LC,0,0,0,,,walter's
+255,NA,Lalage sp. Tongatapu,,Passeriformes,Campephagidae,Lalage sp. Tongatapu,y,1.472965295,0,0,0,i,f,0,7,3,0,0,0,0,0,0,0,0,0,10,0,0,1,2.03,2.88,EX,1,NA,1,likely L. maculosa,,same as congener
+256,7344,Lichmera incana,"Dark-brown Honeyeater, Grey-eared Honeyeater",Passeriformes,Meliphagidae,Lichmera incana,y,1.117271296,0,0,0,n,f,0,2,2,6,0,0,0,0,0,0,6,3,1,0,0,1,1.88,2.43,LC,0,0,0,,,walter's
+257,12200,Lonchura forbesi,New Ireland Munia,Passeriformes,Estrildidae,Lonchura forbesi,y,1.123082638,0,0,0,g,g,0,1,0,0,9,0,0,0,0,5,5,0,0,0,0,1,1.6,1.72,LC,0,0,0,,,walter's
+258,NA,Lonchura hunstieni,Mottled Munia,Passeriformes,Estrildidae,Lonchura hunstieni,y,1.093833534,0,0,0,g,g,0,0,0,0,10,0,0,0,0,5,5,0,0,0,0,1,1.58,1.7,LC,0,0,0,,,same as congener
+259,NA,Lonchura meleana,"Bismarck Munia, Sooty Munia",Passeriformes,Estrildidae,Lonchura meleana,y,1.093833534,0,0,0,g,g,0,0,0,0,10,0,0,0,0,5,5,0,0,0,0,1,1.58,1.7,LC,0,0,0,,,same as congener
+260,2128,Loriculus tener,"Green-fronted Hanging-parrot, Green-fronted Hanging Parrot",Psittaciformes,Psittacidae,Loriculus tener,y,1.079181246,1,0,0,f,f,0,0,4,2,1,0,3,0,0,0,3,4,3,0,0,1,1.85,1.94,NT,0,0,0,,,walter's
+261,1973,Lorius albidinuchus,White-naped Lory,Psittaciformes,Psittacidae,Lorius albidinuchus,y,2.120573931,1,0,0,n,f/g,0,0,2,6,0,0,2,0,0,0,3,4,3,0,0,1,2.34,2.52,NT,0,0,0,,,walter's
+262,1972,Lorius hypoinochrous,Purple-bellied Lory,Psittaciformes,Psittacidae,Lorius hypoinochrous,y,2.271841607,1,0,0,n,f/g,0,0,2,6,0,0,2,0,0,0,0,6,4,0,0,1,2.7,2.83,LC,0,0,0,,,walter's
+263,NA,Lorius sp. New Ireland,,Psittaciformes,Psittacidae,Lorius sp. New Ireland,y,2.285557309,0,0,0,n,f/g,0,0,3,6,0,0,1,0,0,0,3,4,3,0,0,1,2.71,2.84,EX,1,NA,1,,,same as congener
+264,12425,Loxioides bailleui,Palila,Passeriformes,Fringillidae,Loxioides bailleui,y,1.57805641,2,0,0,g,g,0,1,1,0,7,0,1,0,0,0,3,3,4,0,0,1,1.92,2.49,EN,0,0,0,big island population may be separate species?,,walter's
+265,12449,Loxops caeruleirostris,"Akekee, 'akeke'e",Passeriformes,Fringillidae,Loxops caeruleirostris,y,1.033423756,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.72,2.69,EN,0,0,0,asymmetric bill,,walter's & BNA
+266,NA,Loxops chloris,,Passeriformes,Fringillidae,Loxops chloris,y,1.100370545,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.77,2.74,VU,0,0,0,"oahu amakihi, aka. H. chloris",,same as congener
+267,12450,Loxops coccineus,"Akepa, 'akepa",Passeriformes,Fringillidae,Loxops coccineus,y,1.021189299,2,0,0,i,i,0,8,1,0,0,0,1,0,0,0,3.33,3.33,3.33,0,0,1,1.71,2.68,EN,0,0,0,"aka. Himiatone aurea, Loxops aurea, Loxops ochracea",,walter's & BNA
+268,NA,Loxops flavus,"Oahu Amakihi, O'Ahu 'amakihi",Passeriformes,Fringillidae,Loxops flavus,y,1.062581984,2,0,0,n,n,0,8,0,2,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.74,2.63,VU,0,0,0,aka. Hemignathus flavus,,same as congener
+269,NA,Loxops kauaiensis,"Kauai Amakihi, Kaua'I 'amakihi",Passeriformes,Fringillidae,Loxops kauaiensis,y,1.220108088,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.85,2.82,VU,0,0,0,"kauai amakihi, aka. H. kauaiensis",,same as congener
+270,NA,Loxops parvus,"Anianiau, 'anianiau",Passeriformes,Fringillidae,Loxops parvus,y,0.986771734,2,0,0,n,n,0,8,0,2,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.69,2.57,VU,0,0,0,aka. Hemignathus parvus,,same as congener
+271,NA,Loxops sagittirostris,,Passeriformes,Fringillidae,Loxops sagittirostris,y,1.204119983,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.84,2.81,EX,1,1,0,"amakihi, aka. Hemignathus sagittirostris",,same as congener
+272,NA,Loxops stejnegeri,,Passeriformes,Fringillidae,Loxops stejnegeri,y,1.137851543,2,0,0,n,n,0,8,0,2,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.79,2.68,EX,1,1,0,aka Akialoa stejnegeri,,same as congener
+273,NA,Loxops virens,"Common Amakihi, Common 'Amakihi, Hawaii Amakihi",Passeriformes,Fringillidae,Loxops virens,y,1.127104798,2,0,0,n,n,0,8,0,2,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.79,2.67,LC,0,0,0,,,same as congener
+274,3400,Macropygia amboinensis,,Columbiformes,Columbidae,Macropygia amboinensis,y,2.374748346,0,0,0,f,f,0,0,5,0,5,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.53,2.71,LC,0,0,0,mid-level frugivore,,walter's
+275,NA,Macropygia arevarevauupa,,Columbiformes,Columbidae,Macropygia arevarevauupa,y,2.17147241,2,0,0,f,f,0,0,7,0,3,0,0,0,0,2,2,6,0,0,0,1,2.38,2.56,EX,1,NA,1,mid-level frugivore,,same as congener
+276,NA,Macropygia heana,,Columbiformes,Columbidae,Macropygia heana,y,2.09384261,1,0,0,f,f,0,0,7,0,3,0,0,0,0,2,2,6,0,0,0,1,2.33,2.51,EX,1,NA,1,mid-level frugivore,,same as congener
+277,3405,Macropygia mackinlayi,"Mackinlay's Cuckoo-dove, Spot-breasted Cuckoo-dove",Columbiformes,Columbidae,Macropygia mackinlayi,y,1.933763206,0,0,0,f,f,0,0,4,0,4,0,2,0,0,2,0,8,0,0,0,1,2.46,2.67,LC,0,0,0,mid-level frugivore,,walter's
+278,3404,Macropygia nigrirostris,Black-billed Cuckoo-dove,Columbiformes,Columbidae,Macropygia nigrirostris,y,1.954724791,0,0,0,f,f,0,0,5,0,5,0,0,0,0,0,5,5,0,0,0,1,2.23,2.41,LC,0,0,0,mid-level frugivore,,walter's
+279,8503,Mayrornis lessoni,Slaty Monarch,Passeriformes,Monarchidae,Mayrornis lessoni,y,1.049218023,1,0,0,i,i,0,9,1,0,0,0,0,0,0,0,0,8,2,0,0,1,1.73,2.7,LC,0,0,0,,,walter's
+280,11010,Megalurus timoriensis,Tawny Grassbird,Passeriformes,Sylviidae,Megalurus timoriensis,y,1.333492227,0,0,0,i,i,0,8,0,0,2,0,0,0,0,5,5,0,0,0,0,1,1.93,2.9,LC,0,0,0,,,walter's
+281,NA,Megapode genus uncertain (Tallegalla),,Galliformes,Megapodiidae,Megapode gen,y,3.178458937,1,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.34,4.62,EX,1,NA,1,large,,boyer 2009
+282,NA,Megapodius alimentum,,Galliformes,Megapodiidae,Megapodius alimentum,y,3.037207135,0,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.24,4.52,EX,1,NA,1,,,boyer 2009
+283,NA,Megapodius amissus,,Galliformes,Megapodiidae,Megapodius amissus,y,3.040061373,1,1,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.24,4.53,EX,1,NA,1,,,boyer 2009
+284,211,Megapodius eremita,"Melanesian Megapode, Melanesian Scrubfowl",Galliformes,Megapodiidae,Megapodius eremita,y,2.830377734,0,0,1,o,o,0,3,4,0,3,0,0,0,0,10,0,0,0,0,0,1,2.81,3.16,LC,0,0,0,,,walter's
+285,213,Megapodius laperouse,"Micronesian Megapode, Marianas Scrubfowl, Micronesian Scrubfowl",Galliformes,Megapodiidae,Megapodius laperouse,y,2.488550717,0,0,1,o,o,0,7,1,0,1,0,1,0,0,10,0,0,0,0,0,1,2.76,3.73,EN,0,0,0,,,walter's
+286,212,Megapodius layardi,"Vanuatu Megapode, New Hebrides Scrubfowl, Vanuatu Scrubfowl",Galliformes,Megapodiidae,Megapodius layardi,y,2.885684236,1,0,1,o,o,0,7,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.04,3.9,VU,0,0,0,,,walter's
+287,NA,Megapodius molistructor,,Galliformes,Megapodiidae,Megapodius molistructor,y,3.119482822,0,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.3,4.58,EX,1,NA,1,,,boyer 2009
+288,214,Megapodius pritchardii,"Polynesian Megapode, Nevafou Megapode, Niaufoou Scrubfowl, Polynesian Scrubfowl, Tongan Megapode",Galliformes,Megapodiidae,Megapodius pritchardii,y,2.562292865,0,0,1,o,o,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.81,3.78,EN,0,0,0,,,walter's
+289,NA,Megapodius sp. B,,Galliformes,Megapodiidae,Megapodius sp. B,y,3.228979473,2,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.38,4.66,EX,1,NA,1,,,boyer 2009
+290,NA,Megapodius sp. C,,Galliformes,Megapodiidae,Megapodius sp. C,y,3.152977939,2,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.32,4.61,EX,1,NA,1,,,boyer 2009
+291,NA,Megapodius undescr. sp A,,Galliformes,Megapodiidae,Megapodius sp A,y,3.817472649,2,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.8,5.08,EX,1,NA,1,,,boyer 2009
+292,NA,Megapodius undescr sp D,,Galliformes,Megapodiidae,Megapodius sp D,y,2.605766891,2,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,2.93,4.22,EX,1,NA,1,small-medium,,boyer 2009
+293,NA,Megapodius undescr sp E,,Galliformes,Megapodiidae,Megapodius sp E,y,2.939305054,2,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.17,4.45,EX,1,NA,1,short-stout,,boyer 2009
+294,NA,Megapodius undescr. sp F,,Galliformes,Megapodiidae,Megapodius sp F,y,2.345190202,2,0,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,2.75,4.03,EX,1,NA,1,smallest megapode known,,boyer 2009
+295,NA,Megavitiornis altirostris,,Galliformes,Megapodiidae,Megavitiornis altirostris,y,3.886935613,3,1,1,o,o,2,5,1,0,1,0,1,0,0,10,0,0,0,0,0,1,3.85,5.13,EX,1,NA,1,,,boyer 2009
+296,12458,Melamprosops phaeosoma,"Poo-uli, Black-faced Honeycreeper, Po'o-uli",Passeriformes,Fringillidae,Melamprosops phaeosoma,y,1.40654018,3,0,0,i,i,0,9,1,0,0,0,0,0,0,0,2,8,2,0,0,1,1.99,2.83,CR,0,0,0,,,walter's
+297,2010,Micropsitta bruijnii,"Red-breasted Pygmy-parrot, Rose-breasted Pygmy Parrot",Psittaciformes,Psittacidae,Micropsitta bruijnii,y,1.128310773,0,0,0,h,h,0,0,4,0,0,0,6,0,0,0,0,5,5,0,0,1,1.43,1.73,LC,0,0,0,,,walter's
+298,2009,Micropsitta finschii,"Finsch's Pygmy-parrot, Emerald Pygmy Parrot",Psittaciformes,Psittacidae,Micropsitta finschii,y,1.174895618,0,0,0,h,h,0,3,0,0,0,0,7,0,0,0,5,5,0,0,0,1,1.46,2.1,LC,0,0,0,,,walter's
+299,9536,Mino dumontii,Yellow-faced Myna,Passeriformes,Sturnidae,Mino dumontii,y,2.336459734,0,0,0,f,i,0,2,8,0,0,0,0,0,0,0,0,6,4,0,0,1,2.5,3.09,LC,0,0,0,,,walter's
+300,NA,Moho apicalis,,Passeriformes,Meliphagidae,Moho apicalis,y,1.694605199,2,0,0,n,n,0,2,2,6,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.29,2.74,EX,1,1,0,,,birds of north america
+301,NA,Moho bishopi,,Passeriformes,Meliphagidae,Moho bishopi,y,1.698970004,2,0,0,n,n,0,2,2,6,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.29,2.74,EX,1,1,0,,,birds of north america
+302,NA,Moho braccatus,,Passeriformes,Meliphagidae,Moho braccatus,y,1.579783597,2,0,0,n,n,0,2,2,6,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.21,2.66,EX,1,1,0,,,birds of north america
+303,NA,Moho nobilis,,Passeriformes,Meliphagidae,Moho nobilis,y,1.74036269,2,0,0,n,n,0,2,2,6,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.32,2.77,EX,1,1,0,,,birds of north america
+304,NA,Moho sp. Maui,,Passeriformes,Meliphagidae,NA,NA,NA,2,0,0,n,n,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+305,8536,Monarcha barbatus,"Black-and-white Monarch, Solomons Monarch",Passeriformes,Monarchidae,Monarcha barbatus,y,1.322219295,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.93,2.9,NT,0,0,0,,,walter's
+306,8517,Monarcha castaneiventris,Chestnut-bellied Monarch,Passeriformes,Monarchidae,Monarcha castaneiventris,y,1.436339247,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,6,4,0,0,1,2.01,2.98,LC,0,0,0,,,walter's
+307,8541,Monarcha chrysomela,Golden Monarch,Passeriformes,Monarchidae,Monarcha chrysomela,y,1.193124598,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,4,4,0,0,1,1.83,2.8,LC,0,0,0,,,walter's
+308,8540,Monarcha takatsukasae,Tinian Monarch,Passeriformes,Monarchidae,Monarcha takatsukasae,y,1.556302501,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.09,3.06,VU,0,0,0,,,walter's
+309,8535,Monarcha verticalis,Black-tailed Monarch,Passeriformes,Monarchidae,Monarcha verticalis,y,1.336459734,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,8,0,0,0,1,1.94,2.91,LC,0,0,0,,,walter's
+310,8877,Myadestes lanaiensis,"Olomao, Hawaiian Thrush, Oloma'o",Passeriformes,Turdidae,Myadestes lanaiensis,y,1.537126189,1,0,0,f,f,0,3,7,0,0,0,0,0,0,0,2,2,6,0,0,1,1.93,2.52,CR,0,0,0,,,walter's
+311,NA,Myadestes myadestinus,,Passeriformes,Turdidae,Myadestes myadestinus,y,1.84509804,2,0,0,f,f,0,3,7,0,0,0,0,0,0,0,2,6,2,0,0,1,2.15,2.74,EX,1,1,0,,,same as congener
+312,8878,Myadestes obscurus,"Omao, Oma'o",Passeriformes,Turdidae,Myadestes obscurus,y,1.702835361,2,0,0,f,f,0,3,4,0,0,0,3,0,0,0,3.33,3.33,3.33,0,0,1,2.05,2.64,VU,0,0,0,,,walter's
+313,8879,Myadestes palmeri,"Puaiohi, Small Kauai Thrush",Passeriformes,Turdidae,Myadestes palmeri,y,1.597695186,2,0,0,f,f,0,3,7,0,0,0,0,0,0,0,0,8,2,0,0,1,1.97,2.57,CR,0,0,0,,,walter's
+314,NA,Myadestes woahensis,,Passeriformes,Turdidae,Myadestes woahensis,y,1.698970004,1,0,0,f,f,0,3,7,0,0,0,0,0,0,0,2,6,2,0,0,1,2.04,2.64,EX,1,1,0,aka. M. oahensis,,same as congener
+315,8561,Myiagra alecto,Shining Flycatcher,Passeriformes,Monarchidae,Myiagra alecto,y,1.372586694,0,0,0,i,i,0,9,1,0,0,0,0,0,0,0,2,8,0,0,0,1,1.96,2.93,LC,0,0,0,,,walter's
+316,8557,Myiagra azureocapilla,"Blue-crested Flycatcher, Azure-crested Flycatcher",Passeriformes,Monarchidae,Myiagra azureocapilla,y,1.11058971,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,8,0,0,0,1,1.77,2.75,LC,0,0,0,,,walter's
+317,8554,Myiagra caledonica,Melanesian Flycatcher,Passeriformes,Monarchidae,Myiagra caledonica,y,1.033423756,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,10,0,0,0,1,1.72,2.69,LC,0,0,0,,,walter's
+318,8552,Myiagra ferrocyanea,Steel-blue Flycatcher,Passeriformes,Monarchidae,Myiagra ferrocyanea,y,1.10720997,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,4,4,0,0,1,1.77,2.74,LC,0,0,0,,,walter's
+319,NA,Myiagra freycineti,,Passeriformes,Monarchidae,Myiagra freycineti,y,1.17401825,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,6,2,0,0,1,1.82,2.79,EX,1,1,0,,,same as congener
+320,8562,Myiagra hebetior,"Dull Flycatcher, Velvet Flycatcher",Passeriformes,Monarchidae,Myiagra hebetior,y,1.305351369,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,10,0,0,0,0,1,1.91,2.88,LC,0,0,0,,,walter's
+321,NA,Myiagra sp.,,Passeriformes,Monarchidae,Myiagra sp.,y,1.17401825,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,6,2,0,0,1,1.82,2.79,EX,1,NA,NA,NA,NA,same as congener
+322,8555,Myiagra vanikorensis,Vanikoro Flycatcher,Passeriformes,Monarchidae,Myiagra vanikorensis,y,1.089905111,1,0,0,i,i,1,8,1,0,0,0,0,0,0,0,2,2,6,0,0,1,1.76,2.73,LC,0,0,0,,,walter's
+323,7317,Myzomela caledonica,New Caledonian Myzomela,Passeriformes,Meliphagidae,Myzomela caledonica,y,0.842243146,0,0,0,n,f,0,2,0,8,0,0,0,0,0,0,7,3,0,0,0,1,1.68,2.23,LC,0,0,0,,,walter's
+324,7319,Myzomela cardinalis,Cardinal Myzomela,Passeriformes,Meliphagidae,Myzomela cardinalis,y,1.138712916,0,0,0,n,f,0,4,0,5,0,0,1,0,0,0,0,3,4,3,0,1,1.89,2.44,LC,0,0,0,,,walter's
+325,10647,Zosterops xanthochroa,Green-backed White-eye,Passeriformes,Zosteropidae,Zosterops xanthochroa,y,1.012837225,1,0,0,i,n,0,5,5,0,0,0,0,0,0,0,5,5,0,0,0,1,1.8,2.46,LC,0,0,0,,,walter's
+326,7306,Myzomela cruentata,Red Myzomela,Passeriformes,Meliphagidae,Myzomela cruentata,y,0.916062771,0,0,0,n,f,0,5,0,5,0,0,0,0,0,0,0,2,8,0,0,1,1.73,2.28,LC,0,0,0,,,walter's
+327,7328,Myzomela jugularis,"Orange-breasted Myzomela, Sulphur-breasted Myzomela",Passeriformes,Meliphagidae,Myzomela jugularis,y,0.939260898,1,0,0,n,f,0,3,0,7,0,0,0,0,0,0,0,3,4,3,0,1,1.75,2.3,LC,0,0,0,,,walter's
+328,7323,Myzomela lafargei,"Scarlet-naped Myzomela, Red-capped Myzomela",Passeriformes,Meliphagidae,Myzomela lafargei,y,1.10720997,1,0,0,n,f,0,5,0,5,0,0,0,0,0,0,7,3,0,0,0,1,1.87,2.42,LC,0,0,0,,,walter's
+329,7308,Myzomela pulchella,"Olive-yellow Myzomela, Crimson-fronted Myzomela",Passeriformes,Meliphagidae,Myzomela pulchella,y,1,2,0,0,n,f,0,4,0,6,0,0,0,0,0,0,7,3,0,0,0,1,1.79,2.34,LC,0,0,0,,,walter's
+330,NA,Myzomela rubrata,Micronesian Myzomela,Passeriformes,Meliphagidae,Myzomela rubrata,y,1.073107098,1,0,0,n,f,0,3,0,7,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.85,2.4,LC,0,0,0,,,same as congener
+331,NA,Natunaornis gigoura,,Columbiformes,Columbidae,Natunaornis gigoura,y,3.865220889,3,0,0,f,g,0,0,7,0,3,0,0,0,0,10,0,0,0,0,0,1,3.59,3.77,EX,1,NA,1,ground-dwelling,,boyer 2009
+332,11644,Nectarinia jugularis,"Olive-backed Sunbird, Yellow-bellied Sunbird",Passeriformes,Nectariniidae,Nectarinia jugularis,y,0.95418888,0,0,0,n,n,0,4,3,3,0,0,0,0,0,0,6,2,2,0,0,1,1.76,2.24,LC,0,0,0,,,walter's
+333,NA,Nectarinia sericea aspasia,Black Sunbird,Passeriformes,Nectariniidae,Nectarinia sericea,y,0.997343756,0,0,0,n,n,0,2,3,4,0,0,1,0,0,0,6,2,2,0,0,1,1.79,2.27,LC,0,0,0,,,same as congener
+334,8505,Neolalage banksiana,Buff-bellied Monarch,Passeriformes,Monarchidae,Neolalage banksiana,y,1.225201543,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,8,2,0,0,1,1.86,2.83,LC,0,0,0,,,walter's
+335,3116,Nesasio solomonensis,Fearful Owl,Strigiformes,Strigidae,Nesasio solomonensis,y,3.062581984,1,0,0,c,c,10,0,0,0,0,0,0,0,0,1,1,7,1,0,1,1,3.17,5.01,VU,0,0,0,,,walter's
+336,3083,Ninox novaeseelandiae,Ruru / morepork,Strigiformes,Strigidae,Ninox novaeseelandiae,y,2.263348736,0,0,0,c,c,3,7,0,0,0,0,0,0,0,3,2,2,2,1,1,1,2.6,4.03,LC,0,0,0,,,walter's
+337,3101,Ninox jacquinoti,"Solomons Hawk-owl, Solomon Islands Hawk-owl, Solomons Boobook",Strigiformes,Strigidae,Ninox jacquinoti,y,2.302790417,1,0,0,c,c,2,8,0,0,0,0,0,0,0,6,2,2,0,0,1,1,2.62,4.06,LC,0,0,0,,,walter's
+338,3099,Ninox variegata,"Bismarck Hawk-owl, Barred Boobook",Strigiformes,Strigidae,Ninox variegata,y,2.542777563,1,0,0,c,c,0,10,0,0,0,0,0,0,0,2,2,2,2,2,1,1,2.79,4.23,LC,0,0,0,,,walter's
+339,5185,Nycticorax caledonicus,,Ciconiiformes,Ardeidae,Nycticorax caledonicus,y,2.932473765,0,0,0,c,c,7,2,0,0,0,1,0,0,9,1,0,0,0,0,0,2,3.07,4.79,LC,0,0,0,,,walter's
+340,NA,Nycticorax nycticorax,Black-crowned night heron,Ciconiiformes,Ardeidae,Nycticorax nycticorax,y,2.944482672,0,0,0,c,c,6,3,0,0,0,1,0,0,9,1,0,0,0,0,0,2,3.08,4.79,LC,0,0,0,NA,NA,same as congener
+341,NA,Nycticorax undescr. sp A,,Ciconiiformes,Ardeidae,Nycticorax sp A,y,2.822914132,0,0,0,c,c,6,3,0,0,0,1,0,0,9,1,0,0,0,0,0,2,2.99,4.71,EX,1,NA,1,,,same as congener
+342,NA,Nycticorax undescr. sp B,,Ciconiiformes,Ardeidae,Nycticorax sp B,y,3.044793827,1,0,0,c,c,6,3,0,0,0,1,0,0,9,1,0,0,0,0,0,2,3.15,4.87,EX,1,NA,1,forest predator,,same as congener
+343,NA,Nycticorax undescr. sp C,,Ciconiiformes,Ardeidae,NA,NA,NA,1,0,0,c,c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+344,12444,Oreomystis bairdi,"Akikiki, 'akikiki, Kauai Creeper",Passeriformes,Fringillidae,Oreomystis bairdi,y,1.153748019,2,0,0,i,i,0,8,2,0,0,0,0,0,0,4,4,2,0,0,0,1,1.81,2.64,CR,0,0,0,,,walter's
+345,12445,Oreomystis mana,"Hawaii Creeper, Hawai'I Creeper",Passeriformes,Fringillidae,Oreomystis mana,y,1.164352856,2,0,0,i,i,0,10,0,0,0,0,0,0,0,4,4,2,0,0,0,1,1.81,2.65,EN,0,0,0,,,walter's
+346,NA,Orthiospiza howarthi,,Passeriformes,Fringillidae,Orthiospiza howarthi,y,1.771921486,3,0,0,g,g,0,0,0,0,10,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.06,2.18,EX,1,NA,1,,,boyer 2009
+347,7917,Pachycephala caledonica,"New Caledonian Whistler, Melanesian Whistler",Passeriformes,Pachycephalidae,Pachycephala caledonica,y,1.355540697,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,8,2,0,0,0,1,1.95,2.92,LC,0,0,0,,,walter's
+348,7919,Pachycephala jacquinoti,Tongan Whistler,Passeriformes,Pachycephalidae,Pachycephala jacquinoti,y,1.713937989,1,0,0,i,i,0,9,0,0,1,0,0,0,0,0,8,1,1,0,0,1,2.2,3.34,NT,0,0,0,,,walter's
+349,7910,Pachycephala pectoralis,"Golden Whistler, Australian Golden Whistler",Passeriformes,Pachycephalidae,Pachycephala pectoralis,y,1.482386987,0,0,0,i,i,0,7,2,0,1,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.04,2.89,LC,0,0,0,,,walter's
+350,7928,Pachycephala rufiventris,Rufous Whistler,Passeriformes,Pachycephalidae,Pachycephala rufiventris,y,1.351834804,0,0,0,i,i,0,7,1,0,1,0,1,0,0,0,5,5,0,0,0,1,1.95,2.79,LC,0,0,0,,,walter's
+351,12456,Palmeria dolei,"Akohekohe, 'akohekohe, Crested Honeycreeper",Passeriformes,Fringillidae,Palmeria dolei,y,1.416152245,2,0,0,n,n,0,1,0,9,0,0,0,0,0,0,2,8,2,0,0,1,2.09,2.64,CR,0,0,0,,,walter's
+352,4562,Pandion haliaetus,Osprey,Falconiformes,Accipitridae,Pandion haliaetus,y,3.171201865,0,0,0,c,c,10,0,0,0,0,0,0,0,0,6,2,2,0,0,0,2,3.24,5.09,LC,0,0,0,,,walter's
+353,NA,Pareudiastes undescr sp.,,Gruiformes,Rallidae,Pareudiastes sp.,y,2.530382675,2,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,2.88,4.27,EX,1,NA,1,,,boyer 2009
+354,NA,Paroreomyza flammea,,Passeriformes,Fringillidae,Paroreomyza flammea,y,1.176091259,2,0,0,i,i,0,9,0,1,0,0,0,0,0,0,3,6,1,0,0,1,1.82,2.75,EX,1,1,0,,,same as congener
+355,12448,Paroreomyza maculata,"Oahu Alauahio, O'Ahu 'alauahio, Oahu Creeper",Passeriformes,Fringillidae,Paroreomyza maculata,y,1.053294666,2,0,0,i,i,0,8,0,2,0,0,0,0,0,0,3,6,1,0,0,1,1.73,2.66,CR,0,0,0,,,walter's
+356,12446,Paroreomyza montana,"Maui Alauahio, Maui 'Alauahio, Maui Creeper",Passeriformes,Fringillidae,Paroreomyza montana,y,1.118016574,2,0,0,i,i,0,8,0,1,0,1,0,0,0,0,3,6,1,0,0,1,1.78,2.71,EN,0,0,0,,,walter's
+357,7635,Petroica multicolor,"Scarlet Robin, Pacific Robin",Passeriformes,Petroicidae,Petroica multicolor,y,1.055640059,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,8,2,0,0,1,1.74,2.71,LC,0,0,0,,,walter's
+358,7423,Philemon diemenensis,New Caledonian Friarbird,Passeriformes,Meliphagidae,Philemon diemenensis,y,1.818912414,1,0,0,n,f,0,4,3,3,0,0,0,0,0,0,0,3,7,0,0,1,2.37,2.85,LC,0,0,0,,,walter's
+359,7420,Philemon eichhorni,New Ireland Friarbird,Passeriformes,Meliphagidae,Philemon eichhorni,y,2.004470331,0,0,0,n,f,0,3,2,5,0,0,0,0,0,0,0,3,7,0,0,1,2.51,2.98,LC,0,0,0,,,walter's
+360,7461,Phylidonyris notabilis,New Hebrides Honeyeater,Passeriformes,Meliphagidae,Phylidonyris notabilis,y,1.433604065,1,0,0,n,f,0,4,1,5,0,0,0,0,0,0,0,4,6,0,0,1,2.1,2.65,LC,0,0,0,,,walter's
+361,7460,Phylidonyris undulata,Barred Honeyeater,Passeriformes,Meliphagidae,Phylidonyris undulata,y,1.204119983,1,0,0,n,f,0,4,2,4,0,0,0,0,0,0,0,2,8,0,0,1,1.94,2.49,LC,0,0,0,,,walter's
+362,10984,Phylloscopus poliocephalus,"Island Leaf-warbler, Island Leaf Warbler",Passeriformes,Sylviidae,Phylloscopus poliocephalus,y,1.033423756,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,6,4,0,0,1,1.72,2.69,LC,0,0,0,,,walter's
+363,5686,Pitta erythrogaster,Red-bellied Pitta,Passeriformes,Pitttidae,Pitta erythrogaster,y,1.859731938,0,0,0,i,i,0,8,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.31,3.28,LC,0,0,0,,,walter's
+364,NA,Poliolimnas cinereus,,Gruiformes,Rallidae,Porzana cinerea,y,2.152525432,0,0,1,o,o,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.52,3.66,LC,0,0,0,Porzana,,boyer 2009
+365,8499,Pomarea iphis,"Iphis Monarch, Ua Huka Flycatcher",Passeriformes,Monarchidae,Pomarea iphis,y,1.378397901,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,6,4,0,0,1,1.97,2.94,NR,0,0,0,,,walter's
+366,8500,Pomarea mendozae,"Marquesan Monarch, Marquesan Flycatcher",Passeriformes,Monarchidae,Pomarea mendozae,y,1.471291711,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.03,3,NR,0,0,0,,,walter's
+367,NA,Porphyrio kukwiedei,,Gruiformes,Rallidae,Porphyrio kukwiedei,y,3.322352787,2,1,1,o,o,1,1,0,0,2,1,5,0,0,10,0,0,0,0,0,1,3.44,4.66,EX,1,NA,1,,,boyer 2009
+368,NA,Porphyrio longpelalecus (sp nov),,Gruiformes,Rallidae,Porphyrio longpelalecus,y,3.428285222,2,1,1,o,o,1,1,0,0,2,1,5,0,0,10,0,0,0,0,0,1,3.52,4.73,EX,1,NA,1,,,boyer 2009
+369,NA,Porphyrio mcnabi,,Gruiformes,Rallidae,Porphyrio mcnabi,y,2.458106768,2,1,1,o,o,1,1,0,0,2,1,5,0,2,8,0,0,0,0,0,2,2.83,4.04,EX,1,NA,1,,,boyer 2009
+370,NA,Porphyrio paepae,,Gruiformes,Rallidae,Porphyrio paepae,y,2.631727451,1,1,1,o,o,1,1,0,0,2,1,5,0,2,8,0,0,0,0,0,2,2.95,4.17,EX,1,NA,1,,,boyer 2009
+371,3913,Porphyrio porphyrio,"Purple Swamphen, Purple Gallinule, Purple Swamp-hen",Gruiformes,Rallidae,Porphyrio porphyrio,y,2.888676379,0,0,1,o,o,2,1,0,0,3,0,4,0,2,6,2,0,0,0,0,2,3.14,4.35,LC,0,0,0,,,walter's
+372,NA,Porphyrio undescr. sp B (large Porphyrio),,Gruiformes,Rallidae,Porphyrio sp B,y,3.261551559,2,1,1,o,o,1,1,0,0,2,1,5,0,0,10,0,0,0,0,0,1,3.4,4.61,EX,1,NA,1,,,boyer 2009
+373,NA,Porphyrio undescr. sp C,,Gruiformes,Rallidae,Porphyrio sp C,y,2.523746467,2,1,1,o,o,1,1,0,0,2,1,5,0,2,8,0,0,0,0,0,2,2.88,4.09,EX,1,NA,1,,,boyer 2009
+374,NA,Porphyrio undescr. sp E,Porphyrio from Tinian & Rota,Gruiformes,Rallidae,Porphyrio sp E,y,3.100862601,1,1,1,o,o,1,1,0,0,2,1,5,0,0,10,0,0,0,0,0,1,3.29,4.5,EX,1,NA,1,,,boyer 2009
+375,3898,Porzana atra,"Henderson Crake, Henderson Island Crake, Henderson Island Rail, Red-eyed Crake",Gruiformes,Rallidae,Porzana atra,y,1.888767057,2,1,1,o,o,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.33,3.3,VU,0,0,0,,,walter's
+376,NA,Porzana keplerorum,,Gruiformes,Rallidae,Porzana keplerorum,y,1.672033755,2,1,1,i,i,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.17,3.32,EX,1,NA,1,,,boyer 2009
+377,NA,Porzana menehune,,Gruiformes,Rallidae,Porzana menehune,y,1.650319031,2,1,1,i,i,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.16,3.3,EX,1,NA,1,,,boyer 2009
+378,NA,Porzana potipoti,,Gruiformes,Rallidae,Porzana potipoti,y,1.745863817,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.23,3.37,EX,1,NA,1,,,boyer 2009
+379,NA,Porzana ralphorum,,Gruiformes,Rallidae,Porzana ralphorum,y,2.041184065,2,1,1,i,i,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.44,3.58,EX,1,NA,1,,,boyer 2009
+380,NA,Porzana rua,,Gruiformes,Rallidae,Porzana rua,y,1.954325169,2,1,1,o,o,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.38,3.52,EX,1,NA,1,,,boyer 2009
+381,NA,Porzana sandwichensis,,Gruiformes,Rallidae,Porzana sandwichensis,y,1.544068044,1,1,1,i,i,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.08,3.23,EX,1,1,0,,,boyer 2009
+382,NA,Porzana severnsi,,Gruiformes,Rallidae,Porzana severnsi,y,2.002097562,2,1,1,i,i,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.41,3.55,EX,1,NA,1,,,boyer 2009
+383,NA,Porzana sp. B,,Gruiformes,Rallidae,Porzana sp. B,y,1.845751548,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.3,3.44,EX,1,NA,1,,,boyer 2009
+384,NA,Porzana sp. E,,Gruiformes,Rallidae,Porzana sp. E,y,2.060727317,2,1,1,o,o,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.45,3.59,EX,1,NA,1,,,boyer 2009
+385,NA,Porzana sp. F,,Gruiformes,Rallidae,Porzana sp. F,y,1.754549707,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.23,3.38,EX,1,NA,1,,,boyer 2009
+386,10648,Zosterops minutus,"Small Lifu White-eye, Sulphur White-eye",Passeriformes,Zosteropidae,Zosterops minutus,y,1.024151069,2,0,0,i,n,0,4,3,0,3,0,0,0,0,0,5,5,0,0,0,1,1.81,2.47,LC,0,0,0,,,walter's
+387,NA,Porzana sp. Hawaii,,Gruiformes,Rallidae,Porzana sp. Hawaii,y,1.585174859,1,1,1,i,i,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.11,3.25,EX,1,NA,1,,,boyer 2009
+388,NA,"Porzana sp. H,I,J",,Gruiformes,Rallidae,"Porzana sp. H,I,J",y,1.828379769,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.29,3.43,EX,1,NA,1,,,boyer 2009
+389,NA,Porzana sp. Large Kauai,,Gruiformes,Rallidae,Porzana sp. Kauai,y,2.062898789,1,1,1,i,i,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.45,3.59,EX,1,NA,1,,,boyer 2009
+390,NA,Porzana sp. Small Kauai,,Gruiformes,Rallidae,Porzana sp. Kauai,y,1.971696948,1,1,1,i,i,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.39,3.53,EX,1,NA,1,,,boyer 2009
+391,NA,Porzana sp. Maui,,Gruiformes,Rallidae,Porzana sp. Maui,y,2.240959527,1,1,1,i,i,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.58,3.72,EX,1,NA,1,,,boyer 2009
+392,3896,Porzana tabuensis,Spotless Crake,Gruiformes,Rallidae,Porzana tabuensis,y,1.625694991,0,0,1,o,o,0,4,2,0,2,0,2,0,3,5,2,0,0,0,0,2,2.24,3.74,LC,0,0,NA,,,walter's
+393,NA,Porzana undescr. sp A,,Gruiformes,Rallidae,Porzana sp A,y,1.77633791,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.25,3.39,EX,1,NA,1,,,boyer 2009
+394,NA,Porzana undescr. sp D,,Gruiformes,Rallidae,Porzana sp D,y,1.77633791,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.25,3.39,EX,1,NA,1,,,boyer 2009
+395,NA,Porzana undescr. sp G,,Gruiformes,Rallidae,Porzana sp G,y,1.176091259,2,1,1,o,o,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,1.82,2.96,EX,1,NA,1,,,boyer 2009
+396,NA,Porzana undescr. sp I,,Gruiformes,Rallidae,Porzana sp I,y,1.947376457,2,1,1,o,o,1,7,0,0,1,0,1,0,0,10,0,0,0,0,0,1,2.37,3.51,EX,1,NA,1,,,boyer 2009
+397,NA,Porzana ziegleri,,Gruiformes,Rallidae,Porzana ziegleri,y,1.68506259,2,1,1,i,i,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.18,3.33,EX,1,NA,1,,,boyer 2009
+398,2042,Prosopeia personata,"Masked Shining-parrot, Masked Shining Parrot",Psittaciformes,Psittacidae,Prosopeia personata,y,2.214080118,1,0,0,f,f,0,2,3,0,3,0,2,0,0,0,3.33,3.33,3.33,0,0,1,2.37,2.52,NT,0,0,0,,,walter's
+399,12429,Pseudonestor xanthophrys,Maui Parrotbill,Passeriformes,Fringillidae,Pseudonestor xanthophrys,y,1.344458954,2,0,0,f,f,0,9,0,1,0,0,0,0,0,0,2,8,2,0,0,1,1.94,2.91,CR,0,0,0,,,walter's
+400,12423,Psittirostra psittacea,"Ou, 'o'u",Passeriformes,Fringillidae,Psittirostra psittacea,y,1.456695468,2,0,0,f,f,0,2,7,0,0,0,1,0,0,0,2,3,5,0,0,1,2.12,2.73,CR,0,0,0,,,walter's
+401,NA,Psittirostra sp.,,Passeriformes,Fringillidae,NA,NA,NA,2,0,0,f,f,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+402,NA,Ptaiochen pau,,Anseriformes,Anatidae,Ptaiochen pau,y,3.513442359,3,1,1,h,h,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.12,3.69,EX,1,NA,1,,,boyer 2009
+403,3588,Ptilinopus dupetithouarsii,"White-capped Fruit-dove, White-capped Fruit Dove",Columbiformes,Columbidae,Ptilinopus dupetithouarsii,y,1.997817597,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.26,2.46,LC,0,0,0,canopy frugivore,,walter's
+404,3577,Ptilinopus greyii,"Red-bellied Fruit-dove, Red-bellied Fruit Dove",Columbiformes,Columbidae,Ptilinopus greyii,y,1.917404521,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.2,2.4,LC,0,0,0,canopy frugivore,,walter's
+405,3599,Ptilinopus insolitus,"Knob-billed Fruit-dove, Knob-billed Fruit Dove",Columbiformes,Columbidae,Ptilinopus insolitus,y,2.135106427,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.36,2.56,LC,0,0,0,canopy frugivore,,walter's
+406,3586,Ptilinopus insularis,"Henderson Fruit-dove, Henderson Island Fruit-dove, Scarlet-capped Fruit Dove",Columbiformes,Columbidae,Ptilinopus insularis,y,2.017033339,2,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.27,2.47,VU,0,0,0,canopy frugivore,,walter's
+407,3604,Ptilinopus luteovirens,"Golden Dove, Golden Fruit Dove",Columbiformes,Columbidae,Ptilinopus luteovirens,y,1.668825418,1,0,0,f,f,0,1,9,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.02,2.22,LC,0,0,0,canopy frugivore,,walter's
+408,NA,Ptilinopus mercierii,,Columbiformes,Columbidae,Ptilinopus mercierii,y,2.015126396,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,1,3,6,0,0,1,2.27,2.47,EX,1,1,0,canopy frugivore,,same as congener
+409,3571,Ptilinopus perousii,"Many-coloured Fruit-dove, Many-colored Fruit-dove, Many-colored Fruit Dove",Columbiformes,Columbidae,Ptilinopus perousii,y,1.970811611,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.24,2.44,LC,0,0,0,canopy frugivore,,walter's
+410,3579,Ptilinopus porphyraceus,"Purple-capped Fruit-dove, Crimson-crowned Fruit-dove, Crimson-crowned Fruit Dove",Columbiformes,Columbidae,Ptilinopus porphyraceus,y,2.021189299,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.27,2.47,LC,0,0,0,canopy frugivore,,walter's
+411,NA,Ptilinopus (prob new sp) Tubuai,,Columbiformes,Columbidae,Ptilinopus sp Tubuai,y,1.833342427,2,0,0,f,f,0,0,10,0,0,0,0,0,0,0,1,3,6,0,0,1,2.14,2.34,EX,1,NA,1,canopy frugivore,,same as congener
+412,3583,Ptilinopus purpuratus,"Grey-green Fruit-dove, Grey-green Fruit Dove",Columbiformes,Columbidae,Ptilinopus purpuratus,y,1.989232605,1,0,0,f,f,0,0,9,0,0,0,1,0,0,0,0,6,4,0,0,1,2.25,2.45,LC,0,0,0,canopy frugivore,,walter's
+413,3581,Ptilinopus rarotongensis,"Cook Islands Fruit-dove, Lilac-crowned Fruit Dove",Columbiformes,Columbidae,Ptilinopus rarotongensis,y,2.073806462,1,0,0,f,f,0,1,9,0,0,0,0,0,0,0,0,6,4,0,0,1,2.31,2.51,VU,0,0,0,canopy frugivore,,walter's
+414,3589,Ptilinopus rivoli,"White-bibbed Fruit-dove, White-bibbed Fruit Dove",Columbiformes,Columbidae,Ptilinopus rivoli,y,2.173186268,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.38,2.58,LC,0,0,0,canopy frugivore,,walter's
+415,3576,Ptilinopus roseicapilla,"Mariana Fruit-dove, Mariana Fruit Dove",Columbiformes,Columbidae,Ptilinopus roseicapilla,y,1.956168431,1,0,0,f,f,0,0,9,0,0,0,1,0,0,0,2,2,6,0,0,1,2.23,2.43,EN,0,0,0,canopy frugivore,,walter's
+416,3590,Ptilinopus solomonensis,"Yellow-bibbed Fruit-dove, Yellow-bibbed Fruit Dove",Columbiformes,Columbidae,Ptilinopus solomonensis,y,2.035358711,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.28,2.48,LC,0,0,0,canopy frugivore,,walter's
+417,NA,Ptilinopus sp. small,,Columbiformes,Columbidae,Ptilinopus sp. small,y,1.884838052,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,1,3,6,0,0,1,2.18,2.38,EX,1,NA,1,canopy frugivore,,same as congener
+418,3570,Ptilinopus superbus,"Superb Fruit-dove, Superb Fruit Dove",Columbiformes,Columbidae,Ptilinopus superbus,y,2.071882007,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.31,2.51,LC,0,0,0,canopy frugivore,,walter's
+419,3567,Ptilinopus tannensis,"Tanna Fruit-dove, Tanna Fruit Dove",Columbiformes,Columbidae,Ptilinopus tannensis,y,2.318063335,1,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,2,8,0,0,1,2.49,2.69,NT,0,0,0,canopy frugivore,,walter's
+420,3591,Ptilinopus viridis,"Claret-breasted Fruit-dove, Claret-breasted Fruit Dove",Columbiformes,Columbidae,Ptilinopus viridis,y,2.08278537,0,0,0,f,f,0,0,10,0,0,0,0,0,0,0,0,6,4,0,0,1,2.32,2.52,LC,0,0,0,canopy frugivore,,walter's
+421,3805,Rallina tricolor,,Gruiformes,Rallidae,Rallina tricolor,y,2.250420002,0,0,1,o,o,3,5,0,0,2,0,0,0,5,5,0,0,0,0,0,1,2.59,3.9,LC,0,0,0,,,walter's
+422,3407,Reinwardtoena browni,Pied Cuckoo-dove,Columbiformes,Columbidae,Reinwardtoena browni,y,2.482873584,0,0,0,f,f,0,0,10,0,0,0,0,0,0,5,0,3,2,0,0,1,2.6,2.8,LC,0,0,0,canopy-mid frugivore,,walter's
+423,8401,Rhipidura cockerelli,White-winged Fantail,Passeriformes,Monarchidae,Rhipidura cockerelli,y,1.243038049,1,0,0,i,i,0,10,0,0,0,0,0,0,0,0,0,8,2,0,0,1,1.87,2.84,NT,0,0,0,,,walter's
+424,8423,Rhipidura dahli,Bismarck Fantail,Passeriformes,Monarchidae,Rhipidura dahli,y,0.995635195,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.69,2.66,LC,0,0,0,,,walter's
+425,NA,Rhipidura fulignosa,"Grey Fantail, New Zealand Fantail",Passeriformes,Monarchidae,Rhipidura fulignosa,y,0.903089987,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,5,5,0,0,0,1,1.63,2.6,LC,0,0,0,,,same as congener
+426,8397,Rhipidura leucophrys,,Passeriformes,Monarchidae,Rhipidura leucophrys,y,1.438528382,0,0,0,i,i,2,7,0,0,1,0,0,0,0,0,0,5,3,2,0,1,2.01,2.98,LC,0,0,0,,,walter's
+427,8427,Rhipidura rufifrons,Rufous Fantail,Passeriformes,Monarchidae,Rhipidura rufifrons,y,1.003615234,0,0,0,i,i,0,10,0,0,0,0,0,0,0,4,4,2,0,0,0,1,1.7,2.67,LC,0,0,0,,,walter's
+428,8399,Rhipidura rufiventris,Northern Fantail,Passeriformes,Monarchidae,Rhipidura rufiventris,y,1.079181246,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,5,5,0,0,0,1,1.75,2.72,LC,0,0,0,,,walter's
+429,8413,Rhipidura spilodera,,Passeriformes,Monarchidae,Rhipidura spilodera,y,1.11058971,0,0,0,i,i,0,10,0,0,0,0,0,0,0,0,2,6,2,0,0,1,1.77,2.75,LC,0,0,0,,,walter's
+430,NA,Rhodacanthis flaviceps,,Passeriformes,Fringillidae,Rhodacanthis flaviceps,y,1.631748074,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.96,2.08,EX,1,1,0,,,birds of north america
+431,NA,Rhodacanthis forfex,,Passeriformes,Fringillidae,Rhodacanthis forfex,y,1.579783597,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.92,2.05,EX,1,NA,1,,,birds of north america
+432,NA,Rhodacanthis litotes,,Passeriformes,Fringillidae,Rhodacanthis litotes,y,1.449940989,2,0,0,g,g,0,0,0,0,10,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.83,1.95,EX,1,NA,1,,,birds of north america
+433,NA,Rhodacanthis palmeri,,Passeriformes,Fringillidae,Rhodacanthis palmeri,y,1.694166296,2,0,0,g,g,0,2,0,0,8,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2,2.47,EX,1,1,0,,,birds of north america
+434,3776,Rhynochetos jubatus,Kagu,Gruiformes,Rhynochetidae,Rhynochetos jubatus,y,2.934498451,3,1,1,c,i,3,4,0,0,0,3,0,0,0,10,0,0,0,0,0,1,3.07,4.51,EN,0,0,0,,,walter's
+435,NA,Rhynochetos orarius,,Gruiformes,Rhynochetidae,Rhynochetos orarius,y,3.10954849,3,1,1,c,i,3,7,0,0,0,0,0,0,0,10,0,0,0,0,0,1,3.2,4.64,EX,1,NA,1,,,same as congener
+436,9339,Saxicola caprata,"Pied Bushchat, Pied Bush Chat, Pied Stonechat",Passeriformes,Muscicapidae,Saxicola caprata,y,1.181843588,0,0,0,i,i,0,9,1,0,0,0,0,0,0,8,1,1,0,0,0,1,1.83,2.8,LC,0,0,0,,,walter's
+437,NA,Sylviornis neocaledoniae,,Galliformes,Sylviornithidae,Sylviornis neocaledoniae,y,4.602059991,3,1,1,o,o,2,3,2,0,1,0,2,0,0,10,0,0,0,0,0,1,4.36,5.6,EX,1,NA,1,,,boyer 2009
+438,12422,Telespiza cantans,Laysan Finch,Passeriformes,Fringillidae,Telespiza cantans,y,1.522207157,2,0,0,g,g,1,1,1,0,3,0,4,0,0,6,3,1,0,0,0,1,2.16,3.13,VU,0,0,0,,,walter's
+439,NA,Telespiza persecutrix,,Passeriformes,Fringillidae,Telespiza persecutrix,y,1.35755372,2,0,0,g,g,1,1,1,0,5,0,2,0,0,6,3,1,0,0,0,1,2.05,3.01,EX,1,NA,1,,,same as congener
+440,12421,Telespiza ultima,Nihoa Finch,Passeriformes,Fringillidae,Telespiza ultima,y,1.384688663,2,0,0,g,g,1,2,2,0,3,0,2,0,0,6,3,1,0,0,0,1,2.07,3.03,CR,0,0,0,,,walter's
+441,NA,Telespiza ypsilon,,Passeriformes,Fringillidae,Telespiza ypsilon,y,1.28510703,2,0,0,g,g,1,1,1,0,5,0,2,0,0,6,3,1,0,0,0,1,2,2.96,EX,1,NA,1,,,same as congener
+442,NA,Thambetochen chauliodous,,Anseriformes,Anatidae,Thambetochen chauliodous,y,3.782704937,2,1,1,h,h,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.31,3.88,EX,1,NA,1,toothed moa nalo,scrape on ground,boyer 2009
+443,NA,Thambetochen xanion,,Anseriformes,Anatidae,Thambetochen xanion,y,3.608987145,3,1,1,h,h,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.19,3.76,EX,1,NA,1,toothed moa nalo,scrape on ground,boyer 2009
+444,NA,Tongoenas ingens,,Columbiformes,Columbidae,Tongoenas ingens,y,3.033101783,2,0,0,f,f,0,0,10,0,0,0,0,0,0,6,2,2,0,0,0,1,2.99,3.19,EX,1,NA,1,ground-mid frugivore,,boyer 2009
+445,11028,Trichocichla rufa,"Long-legged Thicketbird, Long-legged Warbler",Passeriformes,Sylviidae,Trichocichla rufa,y,1.414973348,1,0,0,i,i,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,1.99,2.96,EN,0,0,0,,,walter's
+446,1959,Trichoglossus haematodus,,Psittaciformes,Psittacidae,Trichoglossus haematodus,y,2.054064343,0,0,0,n,f/g,0,0,3,4,3,0,0,0,0,0,4,4,2,0,0,1,2.54,2.67,LC,0,0,0,,,walter's
+447,8942,Turdus poliocephalus,Island Thrush,Passeriformes,Turdidae,Turdus poliocephalus,y,1.789662624,0,0,0,i,i,1,3,3,0,2,1,0,0,0,3,3,2,2,0,0,1,2.26,3.1,LC,0,0,0,,,walter's
+448,NA,Turnix [varia] novaehollandiae,"Painted Buttonquail, Painted Button-quail",Gruiformes,Turnicidae,Turnix [varia] novaehollandiae,y,1.944482672,0,0,1,o,o,0,3,0,0,7,0,0,0,0,10,0,0,0,0,0,1,2.18,2.75,LC,0,0,0,,,same as congener
+449,2878,Tyto alba,Barn Owl,Strigiformes,Tytonidae,Tyto alba,y,2.605657677,0,0,0,c,c,9,1,0,0,0,0,0,0,0,9,1,0,0,0,1,1,2.84,4.68,LC,0,0,NA,colonized after rats; excluded from pre analysis,,walter's
+450,NA,Tyto letocarti,,Strigiformes,Tytonidae,Tyto letocarti,y,2.853314746,0,0,0,c,c,10,0,0,0,0,0,0,0,0,7,3,0,0,0,1,1,3.02,4.86,EX,1,NA,1,,,same as congener
+451,2885,Tyto longimembris,Eastern Grass-owl,Strigiformes,Tytonidae,Tyto longimembris,y,2.547159121,0,0,0,c,c,10,0,0,0,0,0,0,0,0,10,0,0,0,0,1,1,2.8,4.64,LC,0,0,0,,,walter's
+452,NA,Tyto sp. LARGE,,Strigiformes,Tytonidae,Tyto sp. Lg,y,3.00966076,2,0,0,c,c,10,0,0,0,0,0,0,0,0,7,3,0,0,0,1,1,3.13,4.97,EX,1,NA,1,,,same as congener
+453,NA,Tyto sp. small,,Strigiformes,Tytonidae,Tyto sp. small,y,2.814228243,2,0,0,c,c,10,0,0,0,0,0,0,0,0,7,3,0,0,0,1,1,2.99,4.83,EX,1,NA,1,,,same as congener
+454,NA,Vangulifer mirandus,,Passeriformes,Fringillidae,Vangulifer mirandus,y,1.335056519,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.93,2.9,EX,1,NA,1,,,"James & Olson, 1991"
+455,NA,Vangulifer neophasis,,Passeriformes,Fringillidae,Vangulifer neophasis,y,1.382557322,2,0,0,i,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,1.97,2.94,EX,1,NA,1,,,"James & Olson, 1991"
+456,12452,Vestiaria coccinea,"Iiwi, 'i'iwi",Passeriformes,Fringillidae,Vestiaria coccinea,y,1.260784774,2,0,0,n,n,0,2,0,8,0,0,0,0,0,0,3,3,4,0,0,1,1.98,2.53,NT,0,0,0,,,walter's
+457,1976,Vini australis,Blue-crowned Lorikeet,Psittaciformes,Psittacidae,Vini australis,y,1.74036269,0,0,0,n,f/g,0,0,5,5,0,0,0,0,0,0,0,6,4,0,0,1,2.32,2.41,LC,0,0,0,,,walter's
+458,1977,Vini kuhlii,"Rimitara Lorikeet, Kuhl's Lorikeet",Psittaciformes,Psittacidae,Vini kuhlii,y,1.74036269,1,0,0,n,f/g,0,0,3,2,0,0,5,0,0,0,4,4,2,0,0,1,2.32,2.45,EN,0,0,0,,,walter's
+459,1979,Vini peruviana,"Blue Lorikeet, Tahitian Lorikeet, Violet Lorikeet",Psittaciformes,Psittacidae,Vini peruviana,y,1.462397998,1,0,0,n,f/g,0,0,2,7,0,0,1,0,0,0,0,3,7,0,0,1,2.12,2.25,VU,0,0,0,,,walter's
+460,NA,Vini sinotoi,,Psittaciformes,Psittacidae,Vini sinotoi,y,2.317684885,0,0,0,n,f/g,0,0,3,6,0,0,1,0,0,0,1,4,5,0,0,1,2.73,2.86,EX,1,NA,1,,,same as congener
+461,NA,Vini solitarius,,Psittaciformes,Psittacidae,Vini solitarius,y,2.115014127,0,0,0,n,f/g,0,0,3,6,0,0,1,0,0,0,1,4,5,0,0,1,2.59,2.72,LC,0,0,0,aka Phigys solitarius,,same as congener
+462,1978,Vini stepheni,"Henderson Lorikeet, Stephen's Lorikeet",Psittaciformes,Psittacidae,Vini stepheni,y,1.74036269,2,0,0,n,f/g,0,2,3,5,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.32,2.41,VU,0,0,0,,,walter's
+463,1980,Vini ultramarina,"Ultramarine Lorikeet, Ultramarine Lory",Psittaciformes,Psittacidae,Vini ultramarina,y,1.602059991,1,0,0,n,f/g,0,0,2,7,0,0,1,0,0,0,0,4,6,0,0,1,2.22,2.35,EN,0,0,0,,,walter's
+464,NA,Vini vidivici,,Psittaciformes,Psittacidae,Vini vidivici,y,2.119700758,0,0,0,n,f/g,0,0,3,6,0,0,1,0,0,0,1,4,5,0,0,1,2.59,2.72,EX,1,NA,1,,,same as congener
+465,NA,Vitirallus watlingi,,Gruiformes,Rallidae,Vitirallus watlingi,y,2.857657691,3,1,1,o,o,2,3,1,0,2,1,1,0,0,10,0,0,0,0,0,1,3.11,4.5,EX,1,NA,1,,,boyer 2009
+466,NA,Xestospiza conica,,Passeriformes,Fringillidae,Xestospiza conica,y,1.398428232,2,0,0,g,g,0,2,2,0,6,0,0,0,0,0,5,3,2,0,0,1,1.79,2.27,EX,1,NA,1,,,boyer 2009
+467,NA,Xestospiza fastigialis,,Passeriformes,Fringillidae,Xestospiza fastigialis,y,1.394953876,2,0,0,g,g,0,2,2,0,6,0,0,0,0,0,5,3,2,0,0,1,1.79,2.26,EX,1,NA,1,,,boyer 2009
+468,NA,Zosteropidae undescr. sp,,Passeriformes,Zosteropidae,Zosteropidae sp,y,1.01911629,1,0,0,i,n,0,4,2,3,0,0,1,0,0,0,5,4,1,0,0,1,1.81,2.47,EX,1,NA,1,,,same as congener
+469,10584,Zosterops conspicillatus,Bridled White-eye,Passeriformes,Zosteropidae,Zosterops conspicillatus,y,0.897627091,1,0,0,i,n,0,2,2,2,2,0,2,0,0,0,6,4,0,0,0,1,1.72,2.38,EN,0,0,0,,,walter's
+470,10645,Zosterops explorator,"Layard's White-eye, Fiji White-eye",Passeriformes,Zosteropidae,Zosterops explorator,y,1.021189299,1,0,0,i,n,0,8,2,0,0,0,0,0,0,0,5,5,0,0,0,1,1.81,2.47,LC,0,0,0,,,walter's
+471,10646,Zosterops flavifrons,"Yellow-fronted White-eye, Vanuatu White-eye",Passeriformes,Zosteropidae,Zosterops flavifrons,y,1.029383778,1,0,0,i,n,0,3,2,2,2,0,1,0,0,1,3,3,3,0,0,1,1.81,2.48,LC,0,0,0,,,walter's
+472,10614,Zosterops hypoxanthus,"Black-headed White-eye, Bismarck White-eye",Passeriformes,Zosteropidae,Zosterops hypoxanthus,y,1.096910013,0,0,0,i,n,0,3,3,0,4,0,0,0,0,0,5,5,0,0,0,1,1.86,2.34,LC,0,0,0,,,walter's
+473,10644,Zosterops inornatus,"Large Lifu White-eye, Forest White-eye",Passeriformes,Zosteropidae,Zosterops inornatus,y,1.024151069,2,0,0,i,n,0,4,2,3,0,0,1,0,0,0,5,5,0,0,0,1,1.81,2.47,LC,0,0,0,,,walter's
+474,10634,Zosterops lateralis,,Passeriformes,Zosteropidae,Zosterops lateralis,y,1.103153493,0,0,0,i,n,0,4,3,2,0,0,1,0,0,1,5,2,2,0,0,1,1.87,2.53,LC,0,0,0,,,walter's
+475,10629,Zosterops metcalfii,Yellow-throated White-eye,Passeriformes,Zosteropidae,Zosterops metcalfii,y,1.146128036,1,0,0,i,n,0,7,3,0,0,0,0,0,0,0,2,6,2,0,0,1,1.9,2.37,LC,0,0,0,,,walter's
+476,5660,Acanthisitta chloris,rifleman,Passeriformes,Acanthisittidae,Acanthisitta chloris,y,0.840077071,1,0,0,i,,0,9,1,0,0,0,0,0,0,2,6,2,0,0,0,1,1.58,2.55,LC,0,0,0,,,walter's
+477,NA,Aegotheles novaezealandiae,new zealand owlet-nightjar,Caprimulgiformes,Aegothelidae,Aegotheles novaezealandiae,y,2.243038049,1,0,NA,I,,0,10,0,0,0,0,0,0,0,6,3,1,0,0,1,1,2.58,3.55,EX,1,1,0,,,boyer 2009
+478,702,Anas chlorotis,Brown teal,Anseriformes,Anatidae,Anas chlorotis,y,2.698181522,1,0,1,i,h,0,10,0,0,0,0,0,0,10,0,0,0,0,0,0,2,2.9,3.87,EN,0,0,0,,,walter's
+479,NA,Anomalopteryx didiformis,little bush moa,Dinornithiformes,Emeidae,Anomalopteryx didiformis,y,4.544068044,2,1,1,h,browse,0,2,0,0,0,0,8,0,0,9,1,0,0,0,0,0,3.86,4.42,EX,1,NA,1,,,"worthy & holdaway, 2002"
+480,NA,Anthornis melanocephala,chatham island bellbird,Passeriformes,Pardalotidae,Anthornis melanocephala,y,1.579783597,2,0,NA,,,0,4,3,3,0,0,0,0,0,0,4,6,0,0,0,1,2.2,2.86,EX,1,1,0,,,same as congener
+481,7483,Anthornis melanura,"New Zealand Bellbird, Bellbird",Passeriformes,Meliphagidae,Anthornis melanura,y,1.430025189,1,0,0,n,i,0,2,2,6,0,0,0,0,0,0,4,6,0,0,0,1,2.1,2.75,LC,0,0,0,,,walter's
+482,NA,Anthus chathamensis,Chatham island pipit,Passeriformes,Motacillidae,NA,NA,NA,2,0,0,i,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,0,0,0,,,NA
+483,11854,Anthus novaeseelandiae,"Australasian Pipit, New Zealand Pipit, Richard's Pipit",Passeriformes,Motacillidae,Anthus novaeseelandiae,y,1.381584604,1,0,0,i,,0,7,0,0,3,0,0,0,0,7,2,1,0,0,0,1,1.97,2.94,LC,0,0,0,,,walter's
+484,NA,Aplonis fusca,Norfolk Starling,Passeriformes,sturnidae,Aplonis fusca,y,1.903089987,2,0,0,i,,0,3,7,0,0,0,0,0,0,0,5,5,0,0,0,1,2.19,2.78,EX,1,1,0,,,same as congener
+485,55,Apteryx australis,Southern Brown Kiwi,Apterygiformes,Apterygidae,Apteryx australis,y,3.365584789,2,1,1,i,i,0,8,1,0,0,0,1,0,0,10,0,0,0,0,1,1,3.38,4.35,VU,0,0,0,,,walter's
+486,58,Apteryx haastii,Great Spotted Kiwi,Apterygiformes,Apterygidae,Apteryx haastii,y,3.305928328,2,1,1,i,i,0,10,0,0,0,0,0,0,0,8,2,0,0,0,1,1,3.34,4.31,VU,0,0,0,,,walter's
+487,57,Apteryx owenii,Little Spotted Kiwi,Apterygiformes,Apterygidae,Apteryx owenii,y,3.092825605,2,1,1,i,i,0,8,1,0,0,0,1,0,0,8,2,0,0,0,1,1,3.19,4.16,NT,0,0,0,extinct in wild,,walter's
+488,NA,Aptornis defossor,south island adzebill,Gruiformes,Rallidae,Aptornis defossor,y,4.278753601,2,1,1,c,,10,0,0,0,0,0,0,0,0,10,0,0,0,0,0,1,4.03,5.87,EX,1,NA,1,,,"worthy & holdaway, 2002"
+489,NA,Aptornis otidiformis,northi island adzebill,Gruiformes,Rallidae,Aptornis otidiformis,y,4.204119983,2,1,1,c,,10,0,0,0,0,0,0,0,0,10,0,0,0,0,0,1,3.98,5.82,EX,1,NA,1,,,"worthy & holdaway, 2002"
+490,NA,Biziura delautouri,new zealand musk duck,Anseriformes,Anatidae,Biziura delautouri,y,3.33243846,1,0,1,aqu,,0,7,0,0,0,0,3,7,3,0,0,0,0,0,0,1,3.36,4.21,EX,1,NA,1,,,"Worthy & Holdaway, 2002"
+491,11014,Bowdleria punctata,"New Zealand Fernbird, Fernbird",Passeriformes,Sylviidae,Bowdleria punctata,y,1.400907584,1,0,NA,i,,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,1.98,2.95,LC,0,0,0,,,walter's
+492,NA,Bowdleria rufescens,chatham island fernbird,Passeriformes,Muscicapidae,Bowdleria rufescens,y,1.591064607,2,0,NA,I,,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,2.12,3.09,EX,1,1,0,,,same as congener
+493,NA,Cabalus modestus,Hutton's rail,Gruiformes,Rallidae,NA,NA,NA,3,1,1,I,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,0,,,NA
+493,NA,Gallirallus modestus,NA,NA,NA,Gallirallus modestus,y,1.77815125,NA,NA,NA,NA,NA,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.25,3.22,NA,1,NA,NA,Genus Cabalus?,NA,"worthy & holdaway, 2002"
+494,NA,Callaeas cinereus,south island kokako,PASSERIFORMES,Callaeidae,Callaeas cinereus,y,2.361727836,2,0,0,f,,0,2,6,0,0,0,2,0,0,0,3.33,3.33,3.33,0,0,1,2.52,3.03,EX,1,1,0,,,"worthy & holdaway, 2002"
+495,NA,Callaeas wilsoni,north island kokako,Passeriformes,Callaeidae,NA,NA,NA,2,0,0,f,i,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EN,0,0,0,aka. cinereus,,NA
+496,NA,Capellirallus karamu,snipe-rail,GRUIFORMES,Rallidae,Capellirallus karamu,y,2.380211242,3,1,1,I,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.68,3.65,EX,1,NA,1,,,"worthy & holdaway, 2002"
+497,5230,Casmerodius albus,"Great Egret, Great White Egret, Great White Heron",Ciconiiformes,Ardeidae,Casmerodius albus,y,2.94018382,0,0,0,c,piscivore,6,4,0,0,0,0,0,0,5,5,0,0,0,0,0,2,3.08,4.88,LC,0,0,0,,,walter's
+498,NA,Chenonetta finschi,Finschâs duck,Anseriformes,Anatidae,Chenonetta finschi,y,3.176091259,1,1,1,h,,0,3,0,0,0,0,7,0,0,10,0,0,0,0,0,1,2.88,3.53,EX,1,NA,1,aka. Euryanas; almost completely flightless,,boyer 2009
+499,NA,Circus eylesi,Eyles' Harrier,Falconiformes,Accipitridae,Circus eylesi,y,3.477121255,1,0,0,c,,10,0,0,0,0,0,0,0,0,2,3,3,2,0,0,1,3.46,5.3,,0,0,0,,,boyer 2009
+500,NA,Circus teauteensis,forbes' harrier,Falconiformes,Accipitridae,Circus teauteensis,y,3.511883361,1,0,NA,c,,10,0,0,0,0,0,0,0,0,2,3,3,2,0,0,1,3.48,5.33,EX,1,NA,1,,,"worthy & holdaway, 2002"
+501,NA,Cnemiornis calcitrans,south island goose,Anseriformes,Anatidae,Cnemiornis calcitrans,y,4.255272505,2,1,1,h,,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.65,4.22,EX,1,NA,1,,,"worthy & holdaway, 2002"
+502,NA,Cnemiornis gracilis,north island goose,Anseriformes,Anatidae,Cnemiornis gracilis,y,4.176091259,2,1,1,h,,0,2,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.59,4.16,EX,1,NA,1,,,"worthy & holdaway, 2002"
+503,NA,Coenocorypha barrierensis,north island snipe,CHARADRIIFORMES,Scolopacidae,Coenocorypha barrierensis,y,1.954242509,2,0,NA,I,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,1,1,2.38,3.35,EX,1,1,0,,,"worthy & holdaway, 2002"
+504,NA,Coenocorypha chatamica,Forbes' snipe,CHARADRIIFORMES,Scolopacidae,Coenocorypha chatamica,y,2.021189299,2,0,NA,I,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,1,1,2.42,3.39,EX,1,NA,1,possibly flightless,,"worthy & holdaway, 2002"
+505,NA,Coenocorypha iredalei,south island snipe,CHARADRIIFORMES,Scolopacidae,Coenocorypha iredalei,y,2.021189299,2,0,NA,I,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,1,1,2.42,3.39,EX,1,1,0,,,"worthy & holdaway, 2002"
+506,4067,Coenocorypha pusilla,"Chatham Snipe, Chatham Island Snipe, Chatham Islands Snipe",Charadriiformes,Scolopacidae,Coenocorypha pusilla,y,1.905849823,2,0,1,i,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.34,3.31,VU,0,0,0,20 cm long; possibly flightless,,walter's
+507,NA,Corvus antipodum,new zealand raven,Passeriformes,Corvidae,Corvus antipodum,y,2.977723605,1,0,NA,o,,2,1,2,0,0,5,0,0,0,7,3,0,0,0,0,1,3.2,4.9,EX,1,NA,1,,,"worthy & holdaway, 2002"
+508,NA,Corvus moriorum,chatham island raven,Passeriformes,Corvidae,Corvus moriorum,y,2.977723605,2,0,NA,o,,2,1,2,0,0,5,0,0,0,7,3,0,0,0,0,1,3.2,4.9,EX,1,NA,1,,,"worthy & holdaway, 2002"
+509,NA,Coturnix novaezelandiae,new zealand quail,Galliformes,Phasianidae,Coturnix novaezelandiae,y,2.301029996,1,0,NA,,,0,3,0,0,7,0,0,0,0,10,0,0,0,0,0,1,2.43,3.01,EX,1,1,0,,,same as congener
+510,2077,Cyanoramphus auriceps,"Yellow-crowned Parakeet, Yellow-fronted Kakariki",Psittaciformes,Psittacidae,Cyanoramphus auriceps,y,1.659432185,1,0,0,f,i,0,0,0,0,7,0,3,0,0,5,3,2,0,0,0,1,1.98,2.19,NT,0,0,0,,,walter's
+511,NA,Cyanoramphus cookii,Norfolk island green parrot,Psittaciformes,Psittacidae,NA,NA,NA,2,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,0,,,NA
+512,NA,Cyanoramphus forbesi,Forbes' parakeet,Psittaciformes,Psittacidae,NA,NA,NA,2,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,0,extinct in wild,,NA
+513,19013,Cyanoramphus malherbi,"Malherbe's Parakeet, Orange-fronted Parakeet",Psittaciformes,Psittacidae,Cyanoramphus malherbi,y,1.669316881,1,0,0,f,i,0,3,2,0,2,0,3,0,0,5,5,0,0,0,0,1,1.81,2.45,CR,0,0,0,,,walter's
+514,NA,Dendroscansor decurvirostris,Long-billed wren,Passeriformes,Acanthisittidae,Dendroscansor decurvirostris,y,1.477121255,2,1,NA,I,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.04,3.01,EX,1,NA,1,,,"worthy & holdaway, 2002"
+515,NA,Diaphorapteryx hawkinsi,giant chatham island rail (hawkins' rail),Gruiformes,Rallidae,Diaphorapteryx hawkinsi,y,3.301029996,3,1,1,o,,3,3,1,0,1,1,1,0,0,10,0,0,0,0,0,1,3.43,4.92,EX,1,NA,1,,,"worthy & holdaway, 2002"
+516,NA,Dinornis novaezealandiae,north island giant moa,Dinornithiformes,Dinornithidae,Dinornis novaezealandiae,y,5.201397124,2,1,1,h,browse,0,0,0,0,0,0,10,0,0,5,5,0,0,0,0,1,4.32,4.68,EX,1,NA,1,,,"worthy & holdaway, 2002"
+517,NA,Dinornis robustus,South island giant moa,Dinornithiformes,Dinornithidae,Dinornis robustus,y,5.201397124,2,1,1,h,browse,0,0,0,0,0,0,10,0,0,5,5,0,0,0,0,1,4.32,4.68,EX,1,NA,1,,,"worthy & holdaway, 2002"
+518,NA,Emeus crassus,eastern moa,Dinornithiformes,Emeidae,Emeus crassus,y,4.763427994,2,1,1,f,"frug, leaves",0,0,7,0,0,0,3,0,0,10,0,0,0,0,0,1,4.23,4.48,EX,1,NA,1,,,boyer 2009
+519,1788,Eudynamys taitensis,"Long-tailed Koel, Long-tailed Cuckoo",Cuculiformes,Cuculidae,Eudynamys taitensis,y,2.068185862,0,0,0,,,3,7,0,0,0,0,0,0,0,2,2,4,2,0,0,1,2.46,3.89,LC,0,0,0,,,walter's
+520,NA,Euryapteryx curtus,stout-legged moa,Dinornithiformes,Emeidae,Euryapteryx curtus,y,4.892094603,2,1,1,f,"frug, leaves",0,0,7,0,0,0,3,0,0,10,0,0,0,0,0,1,4.32,4.57,EX,1,NA,1,,,boyer 2009
+521,NA,Falco novaeseelandiae,New Zealand Falcon,Falconiformes,Falconidae,Falco novaeseelandiae,y,2.602059991,1,0,0,c,,7,3,0,0,0,0,0,0,0,2,2,4,1,1,0,1,2.84,4.55,NT,0,0,0,,,boyer 2009
+522,NA,Fulica chathamensis,chatham island coot,Gruiformes,Rallidae,Fulica chathamensis,y,3.255272505,2,0,1,h,,0,3,0,0,0,0,7,2,6,2,0,0,0,0,0,2,2.94,3.58,EX,1,NA,1,,,same as congener
+523,NA,Fulica prisca,new zealand coot,Gruiformes,Rallidae,Fulica prisca,y,3.278753601,1,0,1,h,,0,3,0,0,0,0,7,2,6,2,0,0,0,0,0,2,2.96,3.6,EX,1,NA,1,,,same as congener
+524,NA,Gallicolumba norfolciensis,Norfolk Island Ground-Dove,Columbiformes,Columbidae,Gallicolumba norfolciensis,y,2.301029996,2,0,NA,f,,0,1,3,0,6,0,0,0,0,9,1,0,0,0,0,1,2.43,2.78,EX,1,1,0,,,boyer 2009
+525,NA,Gallinula hodgenorum,Hodgen's Rail,Gruiformes,Rallidae,Gallinula hodgenorum,y,2.447158031,1,1,1,o,,1,2,1,0,2,1,3,0,2,7,1,0,0,0,0,2,2.82,4.05,EX,1,NA,1,,,same as congener
+526,3825,Gallirallus australis,weka,Gruiformes,Rallidae,Gallirallus australis,y,2.942369515,1,1,1,c,i,2,3,3,0,1,0,1,0,2,6,2,0,0,0,0,1,3.17,4.42,VU,0,0,0,,,walter's
+527,NA,Gallirallus dieffenbachii,dieffenbach's rail,Gruiformes,Rallidae,Gallirallus dieffenbachii,y,2.531478917,2,1,1,o,,2,3,2,0,1,1,1,0,0,10,0,0,0,0,0,1,2.88,4.27,EX,1,1,0,,,"worthy & holdaway, 2002"
+528,NA,Gallirallus sp. Norfolk,Norfolk Island Rail,Gruiformes,Rallidae,NA,NA,NA,2,1,1,o,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+529,7597,Gerygone albofrontata,"Chatham Gerygone, Chatham Islands Gerygone, Chatham Islands Warbler, Chatham Island Warbler",Passeriformes,Acanthizidae,Gerygone albofrontata,y,1.011523292,2,0,NA,,,0,10,0,0,0,0,0,0,0,0,10,0,0,0,0,1,1.7,2.67,LC,0,0,0,,,walter's
+530,7596,Gerygone igata,"Grey Gerygone, Grey Warbler",Passeriformes,Acanthizidae,Gerygone igata,y,0.806179974,1,0,NA,,,0,8,1,0,1,0,0,0,0,0,4,4,2,0,0,1,1.56,2.53,LC,0,0,0,,,walter's
+531,7595,Gerygone modesta,"Norfolk Island Gerygone, Norfolk Gerygone",Passeriformes,Acanthizidae,Gerygone modesta,y,0.875061263,2,0,0,,,0,10,0,0,0,0,0,0,0,0,5,0,5,0,0,1,1.61,2.58,VU,0,0,0,,,walter's
+532,NA,Harpagornis moorei,Haast's Eagle,Falconiformes,Accipitridae,Harpagornis moorei,y,4.122215878,3,0,NA,c,,10,0,0,0,0,0,0,0,0,6,2,2,0,0,0,1,3.92,5.76,EX,1,NA,1,,,"worthy & holdaway, 2002"
+533,NA,Hemiphaga novaseelandiae,New Zealand Pigeon,Columbiformes,Columbidae,Hemiphaga novaseelandiae,y,2.77815125,1,0,0,f,,0,0,7,0,0,0,3,0,0,0,3.33,3.33,3.33,0,0,1,2.81,3.07,NT,0,0,0,,,"worthy & holdaway, 2002"
+534,NA,Hemiphaga spadicea,Norfolk island pigeon,Columbiformes,Columbidae,Hemiphaga spadicea,y,2.812913357,2,0,NA,f,,0,0,7,0,0,0,3,0,0,0,3.33,3.33,3.33,0,0,1,2.84,3.09,EX,1,1,0,,,"worthy & holdaway, 2002"
+535,NA,Heteralocha acutirostris,huia,Passeriformes,Callaeidae,Heteralocha acutirostris,y,2.477121255,3,0,NA,,,0,8,2,0,0,0,0,0,0,7,2,1,0,0,0,1,2.75,3.64,EX,1,1,0,,,"Worthy & Holdaway, 2002"
+536,645,Hymenolaimus malacorhynchos,Blue duck,Anseriformes,Anatidae,Hymenolaimus malacorhynchos,y,2.919076832,1,0,1,i,i,0,8,0,0,0,0,2,0,10,0,0,0,0,0,0,2,3.06,4.03,EN,0,0,0,,,walter's
+537,NA,Ixobrychus novaezelandiae,New zealand bittern,Ciconiiformes,Ardeidae,Ixobrychus novaezelandiae,y,2.397940009,1,0,NA,c,,7,3,0,0,0,0,0,0,5,5,0,0,0,0,0,2,2.69,4.41,EX,1,1,0,piscivorous,,boyer 2009
+538,NA,Malacorhyncus scarletti,scarlett's duck,Anseriformes,Anatidae,Malacorhyncus scarletti,y,2.903089987,1,0,1,aqu,,0,7,0,0,0,0,3,2,6,2,0,0,0,0,0,2,3.05,3.91,EX,1,NA,1,,,wikipedia
+539,NA,Megalapteryx didinus,upland moa,Dinornithiformes,Emeidae,Megalapteryx didinus,y,4.544068044,2,1,1,h,browse,0,0,0,0,0,0,10,0,0,5,5,0,0,0,0,1,3.86,4.21,EX,1,NA,1,,,"worthy & holdaway, 2002"
+540,NA,Mergus australis,southern merganser,Anseriformes,Anatidae,Mergus australis,y,2.954242509,1,0,1,c,fish,7,3,0,0,0,0,0,5,5,0,0,0,0,0,0,2,3.09,4.8,EX,1,1,0,piscivorous,,boyer 2009
+541,7873,Mohoua albicilla,Whitehead,Passeriformes,Acanthizidae,Mohoua albicilla,y,1.246450006,2,0,0,i,,0,8,1,0,1,0,0,0,0,2,3,5,0,0,0,1,1.87,2.72,LC,0,0,0,,,walter's
+542,NA,Mohoua novaseelandiae,"Pipipi, Brown Creeper",Passeriformes,Acanthizidae,Mohoua novaeseelandiae,y,1.113943352,1,0,0,i,NA,0,7,3,0,0,0,0,0,0,1,4,5,0,0,0,1,1.78,2.62,LC,0,NA,NA,NA,NA,same as congener
+543,7874,Mohoua ochrocephala,Yellowhead,Passeriformes,Acanthizidae,Mohoua ochrocephala,y,1.442397682,1,0,0,i,i,0,6,2,2,0,0,0,0,0,0,5,5,0,0,0,1,2.01,2.86,EN,0,0,0,,,walter's
+544,2004,Nestor meridionalis,"Kaka, New Zealand Kaka",Psittaciformes,Psittacidae,Nestor meridionalis,y,2.631462735,1,0,0,f,i,0,1,4,1,1,0,3,0,0,2,2,4,2,0,0,1,2.95,3.45,EN,0,0,0,extinct in chathams,,walter's
+545,2002,Nestor notabilis,Kea,Psittaciformes,Psittacidae,Nestor notabilis,y,2.935997675,2,0,1,f,o,0,0,3,0,0,1,6,0,0,2,4,3,1,0,0,1,3.17,4.36,VU,0,0,0,,,walter's
+546,NA,Nestor productus,Norfolk Island Kaka,Psittaciformes,Psittacidae,Nestor productus,y,2.602059991,2,0,NA,f,,1,0,3,2,0,1,3,0,0,2,3,3,2,0,0,1,2.93,4.12,EX,1,1,0,,,same as congener
+548,7403,Notiomystis cincta,Stitchbird,Passeriformes,Meliphagidae,Notiomystis cincta,y,1.97021441,2,0,0,n,f,0,3,3,4,0,0,0,0,0,0,6,2,2,0,0,1,2.48,2.96,VU,0,0,0,,,walter's
+549,NA,Oxyura vantetsi,new zealand stiff-tailed duck,Anseriformes,Anatidae,Oxyura vantetsi,y,2.903089987,1,0,1,aqu,,0,2,0,0,1,0,7,6,3,1,0,0,0,0,0,1,2.69,3.24,EX,1,NA,1,,,same as congener
+550,NA,Pachyanas chathamica,chatham island duck,Anseriformes,Anatidae,Pachyanas chathamica,y,3.176091259,3,0,1,aqu,,0,2,0,0,1,0,7,3,4,3,0,0,0,0,0,2,2.88,3.44,EX,1,NA,1,may have been flightless,,boyer 2009
+551,NA,Pachycephala xanthoprocta,Norfolk Island Whistler,Passeriformes,Pachycephalidae,NA,NA,NA,NA,0,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,0,0,0,,,NA
+552,NA,Pachyornis australis,crested moa,Dinornithiformes,Emeidae,Pachyornis australis,y,4.826074803,2,1,1,h,browse,0,0,0,0,0,0,10,0,0,8,2,0,0,0,0,1,4.06,4.41,EX,1,NA,1,,,"worthy & holdaway, 2002"
+553,NA,Pachyornis elephantopus,heavy footed moa,Dinornithiformes,Emeidae,Pachyornis elephantopus,y,4.939519253,2,1,1,h,browse,0,0,0,0,0,0,10,0,0,8,2,0,0,0,0,1,4.14,4.49,EX,1,NA,1,,,"worthy & holdaway, 2002"
+554,NA,Pachyornis geranoides,mantell's moa,Dinornithiformes,Emeidae,Pachyornis geranoides,y,4.431363764,2,1,1,h,browse,0,0,0,0,0,0,10,0,0,8,2,0,0,0,0,1,3.78,4.13,EX,1,NA,1,,,"worthy & holdaway, 2002"
+555,NA,Pachyplichas yaldwyni,Yaldwyn's wren (stout-legged wren),Passeriformes,Acanthisittidae,Pachyplichas yaldwyni,y,1.698970004,1,1,NA,I,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,2.19,3.16,EX,1,NA,1,,,"worthy & holdaway, 2002"
+556,7641,Petroica australis,New Zealand Robin,Passeriformes,Petroicidae,Petroica australis,y,1.496044417,2,0,0,i,,0,8,2,0,0,0,0,0,0,0,9,1,0,0,0,1,2.05,3.02,LC,0,0,0,,,walter's
+557,NA,Petroica macrocephala,new zealand tomtit,Passeriformes,Petroicidae,Petroica macrocephala,y,1.041392685,1,0,NA,,,0,10,0,0,0,0,0,0,0,2,7,1,0,0,0,1,1.73,2.7,EX,1,1,0,,,same as congener
+558,NA,Petroica toitoi,White-breasted tomtit,Passeriformes,Petroicidae,Petroica toitoi,y,1.041392685,2,0,0,i,,0,10,0,0,0,0,0,0,0,2,7,1,0,0,0,1,1.73,2.7,,0,0,0,,,same as congener
+559,7642,Petroica traversi,"Black Robin, Chatham Island Black Robin, Chatham Islands Robin, Chatham Robin",Passeriformes,Petroicidae,Petroica traversi,y,1.371067862,2,0,0,i,,0,10,0,0,0,0,0,0,0,10,0,0,0,0,0,1,1.96,2.93,EN,0,0,0,,,walter's
+560,8736,Philesturnus carunculatus,Saddleback,Passeriformes,Callaeidae,Philesturnus carunculatus,y,1.873489815,2,0,0,,,0,4,5,1,0,0,0,0,0,4,2,2,2,0,0,1,2.41,3.08,NT,0,0,0,,,walter's
+561,NA,Philesturnus rufusater,North island saddleback,Passeriformes,Callaeidae,Philesturnus rufusater,y,1.875061263,2,0,0,,,0,4,2,3,0,0,1,0,0,4,2,2,2,0,0,1,2.41,3.08,NT,0,0,0,,,same as congener
+562,NA,Porphyrio hochstetteri,Takahe,Gruiformes,Rallidae,Porphyrio hochstetteri,y,3.397940009,2,1,1,h,,1,1,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.04,4.03,EN,0,0,0,,,"worthy & holdaway, 2002"
+563,NA,Porphyrio mantelli,north island takahe (moho),Gruiformes,Rallidae,Porphyrio mantelli,y,3.612783857,2,1,1,h,,1,1,0,0,0,0,8,0,0,10,0,0,0,0,0,1,3.19,4.18,EX,1,NA,1,,,"worthy & holdaway, 2002"
+564,NA,Porphyrio sp. Norfolk,Swamphen,Gruiformes,Rallidae,Porphyrio sp. Norfolk,y,2.954242509,NA,1,1,,,1,1,0,0,2,1,5,0,2,8,0,0,0,0,0,2,3.18,4.39,EX,1,1,0,,,boyer 2009
+565,3885,Porzana pusilla,Baillon's Crake,Gruiformes,Rallidae,Porzana pusilla,y,1.549003262,0,0,1,o,,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.09,2.95,LC,0,0,0,,,walter's
+566,NA,Prosthemadera novaseelandiae,Tui,Passeriformes,Meliphagidae,Prosthemadera novaseelandiae,y,2.096910013,1,0,0,n,f,0,4,0,6,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.57,3.22,LC,0,0,0,,,"worthy & holdaway, 2002"
+567,NA,Sceloglaux albifacies,laughing owl,Strigiformes,Strigidae,NA,NA,NA,1,0,NA,c,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,0,,,NA
+568,2092,Strigops habroptilus,"Kakapo, Owl Parrot",Psittaciformes,Psittacidae,Strigops habroptilus,y,3.238560627,1,1,1,h,f,0,0,3,0,2,0,5,0,0,10,0,0,0,0,0,1,2.93,3.28,CR,0,0,0,aka. S. habroptila,,walter's
+569,NA,Tadorna sp. Chathams,Chatham island shelduck,Anseriformes,Anatidae,NA,NA,NA,2,0,1,h,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,?,?,,,NA
+570,632,Tadorna variegata,Paradise shelduck,Anseriformes,Anatidae,Tadorna variegata,y,3.187790111,1,0,1,h,,0,5,0,0,0,0,5,0,2,8,0,0,0,0,0,2,2.89,3.53,LC,0,0,0,,,walter's
+571,NA,Xenicus lyalli,stephens island wren (lyall's wren),Passeriformes,Acanthisittidae,Xenicus lyalli,y,1.342422681,1,1,NA,I,,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,1.94,2.91,EX,1,1,0,Traversia,,same as congener
+572,NA,Turnagra capensis,South island piopio,Passeriformes,Muscicapidae,Turnagra capensis,y,2.113943352,2,0,NA,o,,0,3,5,0,2,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.49,3.28,EX,1,1,0,,,boyer 2009
+573,NA,Turnagra tanagra,North island piopio,Passeriformes,Muscicapidae,Turnagra tanagra,y,2.113943352,2,0,NA,o,,0,3,5,0,2,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.49,3.28,EX,1,1,0,,,boyer 2009
+574,5662,Xenicus gilviventris,"South Island Wren, New Zealand Rockwren, Rock Wren, South Island Rock Wren",Passeriformes,Acanthisittidae,Xenicus gilviventris,y,1.245456579,1,1,1,i,f,0,8,1,0,1,0,0,0,0,5,5,0,0,0,0,1,1.87,2.84,VU,0,0,0,,,walter's
+575,NA,Xenicus longipes,bush wren,Passeriformes,Acanthisittidae,Xenicus longipes,y,1.204119983,1,1,1,I,,0,10,0,0,0,0,0,0,0,5,5,0,0,0,0,1,1.84,2.81,EX,1,1,0,,,same as congener
+576,10643,Zosterops albogularis,"White-chested White-eye, White-breasted Silvereye",Passeriformes,Zosteropidae,Zosterops albogularis,y,1.204119983,2,0,0,,,0,5,5,0,0,0,0,0,0,1,5,2,2,0,0,1,1.94,2.6,CR,0,0,0,,,walter's
+577,10642,Zosterops tenuirostris,Slender-billed White-eye,Passeriformes,Zosteropidae,Zosterops tenuirostris,y,1.235528447,2,0,0,i,f,0,4,3,3,0,0,0,0,0,2,5,1.5,1.5,0,0,1,1.96,2.62,EN,0,0,0,,,walter's
+578,10829,Acrocephalus rodericanus,"Rodrigues Warbler, Rodriguez Brush-warbler",Passeriformes,Sylviidae,Acrocephalus rodericanus,n,1.071882007,2,0,0,i,,0,10,0,0,0,0,0,0,0,0,0,2,8,0,0,1,1.75,2.72,EN,0,0,NA,,,walter's
+579,2352,Aerodramus francicus,mascarene swiftlet,Apodiformes,Apodidae,Aerodramus francicus,n,0.949390007,1,0,0,i,,0,10,0,0,0,0,0,0,0,0,1,0,0,9,0,1,1.66,2.63,NT,0,0,NA,aka. Collocalia francica,,walter's
+580,NA,Alectroenas nitidissima,pigeon hollandais,Columbiformes,Columbidae,NA,NA,NA,2,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+581,NA,Alectroenas sp. Reunion,slaty pigeon?,Columbiformes,Columbidae,NA,NA,NA,2,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+582,NA,Alopochen kervazoi,reunion sheldgoose,Anseriformes,Anatidae,NA,NA,NA,2,NA,NA,h,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+583,NA,Alopochen mauritianus,mauritius sheldgoose,Anseriformes,Anatidae,NA,NA,NA,2,NA,NA,h,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+584,NA,Anas theodori,mascarene teal,Anseriformes,Anatidae,Anas theodori,n,2.698970004,1,0,1,h,i,0,3,0,0,0,0,7,1,9,0,0,0,0,0,0,2,2.54,3.19,EX,1,1,NA,aquatic,,same as congener
+585,NA,Aphanapteryx bonasia,red hen,Gruiformes,Rallidae,NA,NA,NA,3,1,1,o,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+586,NA,Aythya sp. Reunion,pochard sp.,Anseriformes,Anatidae,Aythya sp. Reunion,n,2.919601024,0,0,1,i,h,0,3,0,0,0,0,7,5,5,0,0,0,0,0,0,2,2.7,3.34,CR,0,0,NA,possibly A. innotata; aquatic,,same as congener
+588,4691,Circus maillardi,"Reunion Harrier, Malagasy Marsh Harrier, RÃ©union Harrier",Falconiformes,Accipitridae,Circus maillardi,n,2.821908266,1,0,0,c,,9,1,0,0,0,0,0,0,0,6,4,0,0,0,0,1,2.99,4.8,EN,0,0,NA,,,walter's
+589,8323,Coracina newtoni,"Reunion Cuckooshrike, RÃ©union Cuckooshrike, RÃ©union Cuckoo-shrike",Passeriformes,Campephagidae,Coracina newtoni,n,1.83231372,2,0,0,i,f,0,8,2,0,0,0,0,0,0,0,0,6,4,0,0,1,2.29,3.13,CR,0,0,NA,,,walter's
+590,8322,Coracina typica,"Mauritius Cuckooshrike, Mauritius Cuckoo-shrike",Passeriformes,Campephagidae,Coracina typica,n,1.632457292,2,NA,NA,i,c,2,8,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.15,3.58,VU,0,0,NA,,,walter's
+591,NA,Dryolimnas augusti,dubois's wood-rail,Gruiformes,Rallidae,NA,NA,NA,2,1,1,o,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+592,NA,Dryolimnas sp. Mauritius,sauzier's wood-rail,Gruiformes,Rallidae,NA,NA,NA,2,1,1,o,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,not yet described fossil,,NA
+593,NA,Egretta dimorpha,dimorphic egret,Ciconiiformes,Ardeidae,Egretta dimorpha,n,2.602059991,0,0,0,c,fish,9,1,0,0,0,0,0,0,10,0,0,0,0,0,0,2,2.84,4.64,LC,0,0,NA,,,same as congener
+594,NA,Erythromachus leguati,leguat's rail,Gruiformes,Rallidae,NA,NA,NA,3,1,1,o,c,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,aka. Aphanapteryx leguati,,NA
+595,NA,Falco duboisi,dubois's kestrel,Falconiformes,Falconidae,Falco duboisi,n,2.269512944,2,0,0,c,,3,7,0,0,0,0,0,0,0,2,2,4,1,1,0,1,2.6,4.04,EX,1,1,NA,,,same as f. severus
+596,4946,Falco punctatus,mauritius kestrel,Falconiformes,Falconidae,Falco punctatus,n,2.223796054,2,0,0,c,,9,1,0,0,0,0,0,0,0,2,2,4,1,1,0,1,2.57,4.28,VU,0,0,NA,,,walter's
+597,NA,Foudia delloni,Reunion Fody,Passeriformes,Ploceidae,Foudia delloni,n,1.230448921,2,0,0,i,f,0,5,3,1,1,0,0,0,0,0,3,7,0,0,0,1,1.96,2.69,EX,1,1,NA,,,based on congeners
+598,12027,Foudia flavicans,"Rodrigues Fody, Yellow Fody",Passeriformes,Ploceidae,Foudia flavicans,n,1.18582942,2,0,0,i,f,0,7,1,1,1,0,0,0,0,3,3,4,0,0,0,1,1.83,2.62,VU,0,0,NA,,,walter's
+599,12025,Foudia rubra,Mauritius Fody,Passeriformes,Ploceidae,Foudia rubra,n,1.247973266,2,0,0,i,f,0,7,2,1,0,0,0,0,0,0,3,7,0,0,0,1,1.97,2.63,CR,0,0,NA,,,walter's
+600,NA,Fregilupus varius,Hoopoe starling,Passeriformes,Sturnidae,NA,NA,NA,3,0,0,o,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+601,NA,Fulica newtoni,mascarene coot,Gruiformes,Rallidae,Fulica newtoni,n,2.954242509,1,0,1,o,,1,3,0,0,0,0,6,2,6,2,0,0,0,0,0,2,2.73,3.77,EX,1,1,NA,reluctant but capable of flying,,same as congener
+603,10351,Hypsipetes borbonicus,"Olivaceous Bulbul, RÃ©union Black Bulbul, Reunion Bulbul",Passeriformes,Pycnonotidae,Hypsipetes borbonicus,n,1.742725131,2,0,0,f,,0,1,7,1,0,0,1,0,0,1,1,8,0,0,0,1,2.08,2.45,LC,0,0,NA,aka Reunion merle,,walter's
+604,10353,Hypsipetes olivaceus,"Mauritius Black Bulbul, Mauritius Bulbul",Passeriformes,Pycnonotidae,Hypsipetes olivaceus,n,1.875061263,2,0,0,f,,2,3,3,1,0,0,1,0,0,2,4,4,0,0,0,1,2.17,2.76,VU,0,0,NA,aka mauritius merle,,walter's
+605,NA,Hypsipetes sp. Rodrigues,Rodrigues Bulbul,Passeriformes,Pycnonotidae,Hypsipetes sp. Rodrigues,n,1.74036269,2,0,0,f,,0,2,7,1,0,0,0,0,0,2,4,4,0,0,0,1,2.07,2.56,EX,1,1,NA,aka Rodrigues merle,,same as congener
+606,NA,Lophopsittacus mauritianus,raven parrot,Psittaciformes,Psittacidae,NA,NA,NA,3,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+607,NA,Mascarenotus grucheti,Reunion lizard-owl,Strigiformes,Strigidae,NA,NA,NA,2,0,0,c,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+608,NA,Mascarenotus murivorus,Tafforet's lizard-owl,Strigiformes,Strigidae,NA,NA,NA,2,0,0,c,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+609,NA,Mascarenotus sauzieri,commerson's lizard owl,Strigiformes,Strigidae,NA,NA,NA,2,0,0,c,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+610,NA,Mascarinus mascarinus,Mascarin,Psittaciformes,Psittacidae,NA,NA,NA,3,NA,NA,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+611,NA,Necropsar rodericanus,Rodrigues starling,Passeriformes,Sturnidae,NA,NA,NA,3,0,0,o,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+612,NA,Necropsittacus rodricanus,leguat's parrot,Psittaciformes,,NA,NA,NA,3,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+613,NA,Nesoenas duboisi,reunion pink pigeon,Columbiformes,Columbidae,NA,NA,NA,2,0,0,f,h,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+614,3375,Nesoenas mayeri,Pink Pigeon,Columbiformes,Columbidae,Nesoenas mayeri,n,2.481101771,2,0,0,f,h,0,0,0,0,0,0,10,0,0,4,1,4,1,0,0,1,2.85,3.25,EN,0,0,NA,aka Columba mayeri,,walter's
+615,3379,Nesoenas picturata,"Madagascar Turtle-dove, Malagasy Turtle Dove",Columbiformes,Columbidae,Nesoenas picturata,n,2.247457718,0,0,0,f,h,0,1,2,0,7,0,0,0,0,10,0,0,0,0,0,1,2.4,2.6,LC,0,0,NA,aka Columba picturata,,walter's
+616,NA,Nesoenas rodericana,Rodrigues dove,Columbiformes,Columbidae,NA,NA,NA,2,0,0,f,h,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+617,NA,Nycticorax duboisi,reunion night heron,Ciconiiformes,Ardeidae,NA,NA,NA,2,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+618,NA,Nycticorax mauritianus,mauritius night heron,Ciconiiformes,Ardeidae,NA,NA,NA,2,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+619,NA,Nycticorax megacephalus,rodrigues night heron,Ciconiiformes,Ardeidae,NA,NA,NA,2,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+620,NA,Pezophaps solitarius,Rodrigues solitaire,Columbiformes,Columbidae,Pezophaps solitarius,n,4.447158031,3,NA,NA,,,0,0,7,0,1,0,2,0,0,10,0,0,0,0,0,1,4,4.23,EX,1,1,NA,,,"Cheke & Hume, 2008"
+621,10063,Phedina borbonica,Mascarene Martin,Passeriformes,Hirundinidae,Phedina borbonica,n,1.346132561,0,0,0,i,,0,10,0,0,0,0,0,0,0,0,3,2,2,3,0,1,1.94,2.91,LC,0,0,NA,,,walter's
+622,NA,Phoenicopterus roseus,Greater Flamingo,Phoenicopteriformes,Phoenicopteridae,NA,NA,NA,0,0,1,i,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,LC,0,0,NA,aquatic habitats,,NA
+623,NA,Porphyrio sp. Reunion,Oiseau bleu,Gruiformes,Rallidae,NA,NA,NA,2,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+624,NA,Psittacula bensoni,thirioux's grey parrot,Psittaciformes,Psittacidae,NA,NA,NA,1,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+625,NA,Psittacula borbonicus,Dubois's Parrot,Psittaciformes,Psittacidae,NA,NA,NA,2,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+626,2135,Psittacula eques,"Mauritius Parakeet, Mascarene Parrakeet",Psittaciformes,Psittacidae,Psittacula eques,n,2.212187604,1,0,0,f,h,0,0,0,0,7,0,3,0,0,0,5,5,0,0,0,1,2.37,2.58,EN,0,0,NA,,,walter's
+627,NA,Psittacula exsul,Rodrigues parakeet,Psittaciformes,Psittacidae,NA,NA,NA,2,0,0,f,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+628,NA,Raphus cucullatus,dodo,Columbiformes,Raphidae,Raphus cucullatus,n,4.361727836,3,1,1,,,0,0,10,0,0,0,0,0,0,10,0,0,0,0,0,1,3.94,4.14,EX,1,1,NA,,,"Cheke & Hume, 2008"
+629,9337,Saxicola tectes,"Reunion Stonechat, RÃ©union Stonechat",Passeriformes,Muscicapidae,Saxicola tectes,n,1.101924232,2,NA,NA,,,0,8,0,0,1,0,1,0,0,8,2,0,0,0,0,1,1.77,2.74,LC,0,0,NA,,,walter's
+630,8491,Terpsiphone bourbonnensis,"Mascarene Paradise-flycatcher, Mascarene Paradise Flycatcher",Passeriformes,Monarchidae,Terpsiphone bourbonnensis,n,1.033335476,1,0,0,i,,0,10,0,0,0,0,0,0,0,0,0,5,5,0,0,1,1.72,2.69,LC,0,0,NA,,,walter's
+631,NA,Threskiornis solitarius,reunion solitaire,Ciconiiformes,Threskiornithidae,NA,NA,NA,3,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,lowland wetlands,,NA
+632,786,Turnix nigricollis,Madagascar Buttonquail,Gruiformes,Turnicidae,Turnix nigricollis,n,1.787460475,0,NA,NA,,,0,5,0,0,5,0,0,0,0,10,0,0,0,0,0,1,2.07,2.64,LC,0,0,NA,,,walter's
+633,NA,undesc. Rodrigues babbler,Rodrigues babbler (undescribed),,,NA,NA,NA,3,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,1,NA,,,NA
+634,10574,Zosterops borbonicus,"Mascarene Grey White-eye, Grey White-eye, Reunion Grey White-eye",Passeriformes,Zosteropidae,Zosterops borbonicus,n,0.913813852,1,NA,NA,,,0,4,4,2,0,0,0,0,0,2,4,4,0,0,0,1,1.73,2.47,LC,0,0,NA,,,walter's
+635,10576,Zosterops chloronothos,Mauritius Olive White-eye,Passeriformes,Zosteropidae,Zosterops chloronothos,n,0.908485019,2,0,0,n,i,0,4,0,6,0,0,0,0,0,0,7,3,0,0,0,1,1.73,2.39,CR,0,0,NA,,,walter's
+636,10575,Zosterops olivaceus,"Reunion Olive White-eye, RÃ©union Olive White-eye",Passeriformes,Zosteropidae,Zosterops olivaceus,n,0.960635093,2,NA,NA,,,0,3,2,5,0,0,0,0,0,0,5,5,0,0,0,1,1.76,2.43,LC,0,0,NA,,,walter's
+637,NA,Gallirallus huiatua,Niue gallirallus,Gruiformes,Rallidae,NA,NA,NA,2,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+638,NA,Nycticorax kalavikai,Niue Nycticorax,Ciconiiformes,Ardeidae,NA,NA,NA,2,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,EX,1,NA,1,,,NA
+639,7322,Myzomela pammelaena,Ebony Myzomela,Passeriformes,Meliphagidae,Myzomela pammelaena,y,1.197400889,1,0,0,n,f,0,5,0,5,0,0,0,0,0,0,3,4,3,0,0,1,1.93,2.48,LC,0,0,0,,,walter's
+640,2008,Micropsitta meeki,"Meek's Pygmy-parrot, Citrine Pygmy Parrot",Psittaciformes,Psittacidae,Micropsitta meeki,y,1.113274693,1,0,0,h,h,0,0,0,0,0,0,10,0,0,0,4,4,2,0,0,1,1.42,1.77,LC,0,0,0,,,walter's
+641,8513,Monarcha cinerascens,Island Monarch,Passeriformes,Monarchidae,Monarcha cinerascens,y,1.471291711,0,0,0,I,i,0,10,0,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,1,2.03,3,LC,0,0,0,,,walter's
+642,NA,Ptilinopus sp 2,,Columbiformes,Columbidae,Ptilinopus sp 2,y,2.135413294,NA,0,0,f,f,0,0,10,0,0,0,0,0,0,0,1,3,6,0,0,1,2.36,2.56,EX,1,0,1,,,same as congener
+643,NA,Ptilinopus sp 1,,Columbiformes,Columbidae,Ptilinopus sp 1,y,2.135413294,NA,0,0,f,f,0,0,10,0,0,0,0,0,0,0,1,3,6,0,0,1,2.36,2.56,EX,1,0,1,,,same as congener
+645,8534,Monarcha menckei,"White-breasted Monarch, Mussau Monarch",Passeriformes,Monarchidae,Monarcha menckei,y,1.419542725,2,0,0,I,i,0,10,0,0,0,0,0,0,0,0,8,2,0,0,0,1,1.99,2.96,NT,0,0,0,,,walter's
+647,8424,Rhipidura matthiae,"Matthias Fantail, Mussau Fantail",Passeriformes,Monarchidae,Rhipidura matthiae,y,1.175295802,2,0,0,I,i,0,10,0,0,0,0,0,0,0,3.33,3.33,3.33,0,0,0,1,1.82,2.79,NT,0,0,0,,,walter's
+648,8860,Zoothera heinei,Russet-tailed Thrush,Passeriformes,Turdidae,Zoothera heinei,y,1.918030337,0,0,0,I,,0,9,1,0,0,0,0,0,0,7,2,1,0,0,0,1,2.35,3.2,LC,0,0,0,,,walter's
+649,NA,Cacatua sp. Bismarcks,,Psittaciformes,Cacatuidae,Cacatua sp. Bismarcks,y,2.753713251,2,0,0,g,f,0,0,7,0,3,0,0,0,0,3.33,3.33,3.33,0,0,0,1,2.8,2.97,EX,1,NA,1,,,same as congener
+650,NA,cf. Ardeidae undescr sp,Easter Island Heron,Ciconiiformes,Ardeidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+651,NA,cf Rallidae undescr sp,Easter Island Rail,Gruiformes,Rallidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+652,NA,Porzana undescr sp G,Easter Island Porzana,Gruiformes,Rallidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+653,NA,Psittacidae undescr sp 1,,Psittaciformes,Psittacidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+654,NA,Psittacidae undescr sp 2,,Psittaciformes,Psittacidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+655,NA,Porzana ?,Porzana from Eua Tonga,Gruiformes,Rallidae,Porzana sp,y,1.780607376,NA,NA,NA,,,1,7,0,0,1,0,1,0,5,5,0,0,0,0,0,2,2.25,3.39,,1,,,,,boyer 2009
+657,NA,Gerygone insularis,,Passeriformes,Acanthizidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+658,NA,Porphyrio albus,,,,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+659,NA,Zosterops strenuus,,Passeriformes,Zosteropidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+660,NA,Gallirallus sylvestris,,Gruiformes,Rallidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+661,NA,Zosterops tephropleurus,,Passeriformes,Zosteropidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+663,NA,Falco cenchroides,,,,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+664,NA,Grallina cyanoleuca,,,,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+665,NA,Hirundo neoxena,,,,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+666,NA,Strepera graculina,,,,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+667,NA,Turdus merula,,Passeriformes,Turdidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
+668,NA,Turdus philomelos,,Passeriformes,Turdidae,NA,NA,NA,NA,NA,NA,,,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,NA,,,,,NA
