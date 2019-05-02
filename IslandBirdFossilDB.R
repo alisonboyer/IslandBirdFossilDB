@@ -10,9 +10,6 @@ library(dplyr)
 # provide R script to match up these three tables
 
 # Need to:
-#1. list islands in v12
-#2. check that each island has complete info for taxa, intro status, extinction status
-# - removed many of the non-breeding species
 #3. get master list of unique species
 #4. remove all water species
 #5. get trait info for all species from traits DB and Walter's
@@ -94,7 +91,7 @@ summary(islands)
 
 
 # save new data files
-write.scsv(occ, 'IBFDB_occurrences_v13.csv')
+write.csv(occ, 'IBFDB_occurrences_v13.csv')
 write.csv(islands, 'IBFDB_islands_v13.csv')
 
 ### stopped here
