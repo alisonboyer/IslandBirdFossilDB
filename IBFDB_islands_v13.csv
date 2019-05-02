@@ -1,0 +1,119 @@
+"","CTRY3M_ID","AB_Island_ID","Weigelt.ID","Island","Archipelago","NOTES","Source","intro_birds_mine","NISP","region","isolation_from_nearest_island.km.","isolation_from_nearest_island_group.km.","intr_birds_BlackburnEtAl","intr_mammalian_predators","forest_replacement","deforestation","island_area.km2.","max_island_elevation.m.","notes","fossil_record_quality_rating","good_island"
+"1",NA,204,58180,"Camorta Island","Nicobar Islands",NA,"andaman/nicobar survey ppr",NA,NA,"Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"2",NA,100,58253,"Car Nicobar","Nicobar Islands",NA,"andaman/nicobar survey ppr",NA,NA,"Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"3",NA,101,58137,"Great Nicobar","Nicobar Islands","AKA Pigeon Island","andaman/nicobar survey ppr",NA,NA,"Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"4",NA,207,58375,"Little Andaman","Andaman Islands",NA,"andaman/nicobar survey ppr",NA,NA,"Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"5",NA,102,58581,"Narcondam","Andaman Islands",NA,"andaman/nicobar survey ppr",NA,NA,"Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"6",NA,187,58468,"South Andaman","Andaman Islands","Sandy Island","andaman/nicobar survey ppr",NA,NA,"Indian Ocean",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"8",NA,57,15844,"Abaco","Bahamas",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"1681 (all isl together)",NA,NA,NA,1
+"9",5802,16,75004,"Aguiguan","Marianas","Aguijan in the Northern Marianas Islands on the website","Steadman 2006","4",944,"mr",5,500,1,0,NA,NA,"7.2",157,NA,2,1
+"11",NA,58,11466,"Antigua","Lesser Antilles",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"12",NA,83,8452,"Ascension","Atlantic",NA,"avibase",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"16",NA,126,84281,"Bougainville","Solomons",NA,"birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"17",8132,33,84482,"Buka","Solomons",NA,"Steadman 2006","0",75,"m",1,170,NA,NA,NA,NA,"611",365,NA,5,1
+"18",NA,59,11927,"Cayman Brac","Cayman Islands",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"38",NA,NA,NA,1
+"19",13015,45,8546,"Chatham","Chatham",NA,"Worthy & Holdaway 2002","17",NA,"nz",600,600,0,1,NA,NA,"745",283,NA,2,1
+"21",NA,188,19159,"Corvo","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"22",NA,96,13241,"Crooked Island","Bahamas",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"23",NA,60,13567,"Cuba","Greater Antilles",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"110861",NA,NA,NA,1
+"24",NA,55,8570,"Easter","Easter","called Isla de Pascua in Spanish on website",NA,"5",6,"ep",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"25",9052,41,78498,"Efate","Vanuatu",NA,"Steadman 2006",NA,135,"m",75,340,4,3,3,3,"915",647,NA,5,1
+"26",NA,67,18235,"El Hierro","Canary Islands",NA,"Illera et al 2012",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"27",9093,42,78337,"Erromango","Vanuatu",NA,"Steadman 2006",NA,217,"m",35,270,1,0,3,3,"900",886,NA,5,1
+"28",NA,189,19103,"Faial","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"29",NA,190,19158,"Flores","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"31",NA,68,18245,"Fuerteventura","Canary Islands",NA,"Illera et al 2012",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"33",NA,191,19152,"Graciosa","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"34",NA,69,18240,"Gran Canaria","Canary Islands",NA,"Illera et al 2012",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"35",NA,94,11898,"Grand Cayman","Cayman Islands",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"36",12677,25,16924,"Grande Terre","New.Caledonia",NA,"Steadman 2006","15",6300,"m",1100,400,7,6,2,3,"16750",1618,NA,3,1
+"37",NA,128,81441,"Guadalcanal","Solomons","Guadalcanal Island","birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"38",5902,17,74754,"Guam","Marianas",NA,"Steadman 2006","5",28,"mr",80,500,7,5,NA,NA,"554",393,NA,4,1
+"39",5365,10,9827,"Hawaii","Hawaiian",NA,NA,"38",1000,"h",48,3000,34,4,3,3.5,"10433.1",4169,NA,1,1
+"40",9250,30,8575,"Henderson","Pitcairn.Islands",NA,NA,"0",1500,"ep",200,600,0,0,NA,NA,"29.8",33,NA,1,1
+"41",NA,95,0,"Hispaniola","Greater Antilles",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"42",NA,51,77353,"Ile des Pins","New.Caledonia","Kunie","birds of melanesia.net",NA,999,"m",45,100,NA,NA,NA,NA,"134",266,"Ile des Pins not distinguished from Grande Terre, New Caledonia",NA,1
+"43",NA,61,11801,"Jamaica","Greater Antilles",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"11190",NA,NA,NA,1
+"44",11147,11,9854,"Kauai","Hawaiian",NA,NA,"31",2000,"h",125,3000,27,4,3,3.5,"1430.5",1598,NA,1,1
+"48",NA,70,18241,"La Gomera","Canary Islands",NA,"Illera et al 2012; Avibase",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"49",NA,71,18247,"La Palma","Canary Islands",NA,"Illera et al 2012; Avibase",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"50",5297,12,9832,"Lanai","Hawaiian",NA,NA,"23",400,"h",14,3000,24,4,3,3.5,"364",1027,NA,3,1
+"51",NA,72,18249,"Lanzarote","Canary Islands",NA,"Illera et al 2012; Avibase",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"52",NA,97,13724,"Little Exuma","Bahamas","Great Exuma Island","Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"54",NA,56,76959,"Lord.Howe","Lord.Howe",NA,NA,"11",NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"55",NA,88,18614,"Madiera","Madiera","Ilha da Madeira","Rando, J. C., Pieper, H., Alcover, J. A., & Olson, S. L. (2012). A new species of extinct fossil scops owl ( Aves : Strigiformes : Strigidae : Otus ) from the Archipelago of Madeira ( North Atlantic Ocean ), 42, 29–42.",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"58",NA,130,82308,"Malaita","Solomons",NA,"birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"59",8935,43,78968,"Malakula","Vanuatu",NA,"Steadman 2006",NA,195,"m",14,440,1,1,NA,NA,"2030",879,NA,4,1
+"60",12692,4,8623,"Mangaia","Cook",NA,NA,NA,1674,"ep",200,600,2,2,4,4,"52",169,NA,1,1
+"61",NA,120,65798,"Manus","Bismarcks","Manus Island","Birds of Northern Melanesia",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"62",12678,26,77720,"Mare","New.Caledonia",NA,NA,"0?",141,"m",40,75,NA,NA,NA,NA,"1970",129,NA,5,1
+"63",5279,13,9834,"Maui","Hawaiian",NA,NA,"26",25000,"h",48,3000,27,5,3,3.5,"1883.7",3052,NA,1,1
+"64",9165,47,53663,"Mauritius","Mascarenes",NA,"Cheke & Hume 2008","24",NA,"mas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"65",5259,14,9838,"Molokai","Hawaiian",NA,NA,"23",2500,"h",13.7,3000,23,5,3,3.5,"673.5",1515,NA,2,1
+"66",NA,62,11652,"Mona","Greater Antilles","found next to puerto rico/ multiple matches","Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"10.9",NA,NA,NA,1
+"67",7737,52,66333,"Mussau","Bismarcks","(St Matthias)","Steadman 2006",NA,13,"m",95,550,NA,NA,NA,NA,"400",NA,NA,5,1
+"68",NA,121,84751,"New Britain","Bismarcks",NA,"birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"69",NA,131,82593,"New Georgia","Solomons",NA,"birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"71",NA,63,14640,"New Providence","Bahamas",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"207",NA,NA,NA,1
+"72",9117,29,9644,"Niue","Niue",NA,"Steadman 2006","1",482,"wp",400,400,1,2,3,2,"259",73,NA,4,1
+"73",9283,46,77001,"Norfolk","Norfolk",NA,NA,"12",NA,"nz",1400,670,11,3,NA,NA,"38.6",318,NA,NA,1
+"74",12788,27,76597,"North.Island","New.Zealand",NA,"Worthy & Holdaway 2002","37",NA,"nz",50,1500,37,10,1,2,"111582",2796,NA,1,1
+"75",11259,15,9850,"Oahu","Hawaiian",NA,NA,"38",3000,"h",42,3000,37,5,3,3.5,"1546.5",1227,NA,1,1
+"76",NA,192,19100,"Pico","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"78",NA,64,11797,"Puerto Rico","Greater Antilles",NA,"Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"9104",NA,NA,NA,1
+"80",NA,133,80609,"Rennell","Solomons","Rennell Island","birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"81",9216,48,53611,"Reunion","Mascarenes","Ilet du Gros Galet called Reunion Island in English","Cheke & Hume 2008",NA,NA,"mas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"82",9145,49,53693,"Rodrigues","Mascarenes",NA,"Cheke & Hume 2008","11",NA,"mas",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"83",5864,18,74908,"Rota","Marianas",NA,"Steadman 2006","3",475,"mr",80,500,5,3,NA,NA,"85",491,NA,2,1
+"84",5757,19,75050,"Saipan","Marianas",NA,"Steadman 2006","3",12,"mr",10,500,4,4,NA,NA,"122",474,NA,5,1
+"86",NA,134,81155,"San Cristobal","Solomons","Makira","Birds of Northern Melanesia",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"87",NA,65,13920,"San Salvador","Bahamas","san salvador island","Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"163",NA,NA,NA,1
+"89",NA,79,18189,"Santiago","Cape Verde Islands",NA,"Illera et al 2012",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"90",NA,193,19139,"Sao Jorge","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"91",NA,194,19038,"Sao Miguel","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"94",7919,1,64875,"Sepenbak (New.Ireland)","Bismarcks",NA,"Steadman 2006","0",239,"m",35,35,NA,NA,2,2,"7174",2150,NA,5,1
+"96",NA,91,1819,"South Georgia","Atlantic",NA,"avibase",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"97",9345,28,75843,"South.Island","New.Zealand",NA,"Worthy & Holdaway 2002","31",NA,"nz",50,1500,29,10,1,4,"145836",3764,NA,1,1
+"98",NA,92,85150,"St. Helena","Atlantic",NA,"avibase",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"99",NA,73,18243,"Tenerife","Canary Islands",NA,"Illera et al 2012",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"100",NA,195,19146,"Terciera","Azores",NA,"avibase",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"101",NA,53,80330,"Tikopia","Solomons",NA,NA,NA,55,"m",NA,NA,NA,NA,NA,NA,"4.6",360,NA,4,1
+"102",5776,20,75038,"Tinian","Marianas",NA,"Steadman 2006","3",647,"mr",5,500,4,4,NA,NA,"102",170,NA,3,1
+"103",NA,66,10928,"Tobago","Trinidad & Tobago","lots of islands named after tobago around the central tobago island","Ivan/Ricki",NA,NA,"car",NA,NA,NA,NA,NA,NA,"300",NA,NA,NA,1
+"105",8860,31,9644,"Tutuila","Samoa",NA,"Steadman 2006","5",50,"wp",60,600,2,3,NA,NA,"142",653,NA,4,1
+"106",NA,123,84232,"Umboi","Bismarcks","Rooke","Birds of Northern Melanesia",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"109",9031,9,78561,"Viti.Levu","Fiji",NA,"Steadman 2006","11",NA,"wp",60,800,8,4,3,3.5,"10384",1224,NA,4,1
+"111",NA,149,4946,"Antipodes Islands","New Zealand",NA,"avibase ",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"112",NA,150,4643,"Auckland Island","New Zealand",NA,"avibase + wikipedia",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"113",NA,203,NA,"Campbell Island","New Zealand",NA,NA,NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"114",NA,202,NA,"Faroe islands","Faroe islands",NA,NA,NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"115",NA,84,18774,"Santa Maria","Azores",NA,"avibase; Rando, J. C., Alcover, J. A., Olson, S. L., & Pieper, H. (2013). A new species of extinct scops owl ( Aves : Strigiformes : Strigidae : Otus ) from São, 3647(May), 343–357.",NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"116",NA,5,8916,"Aiwa","Fiji","Aiwa is one island in Fiji","Steadman 2006",NA,18,"wp",13,800,NA,NA,NA,NA,"1",NA,NA,5,1
+"117",9070,8,8981,"Nayau","Fiji",NA,"Steadman 2006",NA,80,"wp",30,800,NA,NA,NA,NA,"18.44",NA,NA,4,1
+"118",8727,23,9716,"Tahuata","Marquesas",NA,NA,NA,70,"ep",5,600,1,1,4,3,"53",1000,NA,4,1
+"119",8609,24,9772,"Ua.Huka","Marquesas",NA,NA,NA,2187,"ep",40,600,0,0,4,3.5,"78",856,NA,2,1
+"120",9147,35,8747,"Foa","Tonga",NA,"Steadman 2006",NA,215,"wp",1,75,NA,NA,NA,NA,"13.3",14,NA,3,1
+"121",NA,36,8724,"Haafeva","Tonga","Ha`afeva Island","Steadman 2006",NA,293,"wp",3,35,NA,NA,NA,NA,"1.8",NA,NA,3,1
+"122",9139,37,8751,"Haano","Tonga","listed as Ha`ano island","Steadman 2006",NA,146,"wp",2,75,NA,NA,NA,NA,"6.6",8,NA,2,1
+"123",9151,38,8747,"Lifuka","Tonga","Lifuka is alt name, Foa Island is the name found in Tonga chain","Steadman 2006",NA,607,"wp",1,50,NA,NA,NA,NA,"11.4",14,NA,2,1
+"124",8830,44,80225,"Toga","Vanuatu",NA,"Steadman 2006",NA,21,"m",4,150,NA,NA,NA,NA,NA,NA,NA,NA,1
+"125",9159,40,8728,"Uiha","Tonga",NA,"Steadman 2006",NA,187,"wp",8,75,NA,NA,NA,NA,"5.3",NA,NA,4,1
+"126",9106,2,8815,"Aitutaki","Cook",NA,NA,NA,43,"ep",100,700,1,4,4,4,"18",124,NA,NA,1
+"127",9164,3,8715,"Atiu","Cook",NA,NA,NA,41,"ep",80,400,1,0,4,4,"27",71,NA,4,1
+"128",NA,85,20203,"Bermuda",NA,"main island",NA,NA,NA,"Atlantic",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"129",NA,138,9883,"Espanola","Galapagos","Isla Espanola","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"130",9227,34,8652,"Eua","Tonga",NA,"Steadman 2006",NA,1319,"wp",18,100,3,0,NA,NA,"86.7",328,NA,2,1
+"131",NA,139,9960,"Ferdinandina","Galapagos","Isla Fernandina","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"132",NA,140,9890,"Floreana","Galapagos","Isla Santa Maria","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"133",NA,141,9979,"Genovesa","Galapagos","Isla Genovesa","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"134",8710,21,9718,"Hiva.Oa","Marquesas",NA,NA,NA,146,"ep",100,600,0,1,4,3,"324",1190,NA,5,1
+"135",8978,32,9176,"Huahine","Society.Islands","Huahine Iti",NA,NA,110,"ep",30,400,2,1,4,3,"78",669,NA,3,1
+"136",NA,142,9975,"Isabela","Galapagos","Isla Isabela","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"137",9078,7,8937,"Lakeba","Fiji","Lakemba island in fiji from website","Steadman 2006",NA,186,"wp",75,800,NA,NA,3,4,"55.94",219,NA,4,1
+"138",NA,124,77874,"Lifou","New.Caledonia",NA,"birds of melanesia.net",NA,NA,"m",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"139",8601,22,9773,"Nuku.Hiva","Marquesas",NA,NA,NA,27,"ep",40,600,0,1,4,3,"337",1186,NA,3,1
+"141",NA,144,9987,"Pinta","Galapagos","Isla Pinta","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"142",NA,145,9906,"San Cristobal","Galapagos","Isla San Cristobal","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"143",NA,146,9942,"Santa Cruz","Galapagos","Isla Santa Cruz","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"144",NA,147,9970,"Santiago","Galapagos","Isla San Salvador","Avibase",NA,NA,"Pacific",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,1
+"145",9222,39,8669,"Tongatapu","Tonga",NA,"Steadman 2006",NA,437,"wp",800,400,NA,NA,4,2,"259",82,NA,3,1

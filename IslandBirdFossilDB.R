@@ -30,7 +30,7 @@ as.numeric(occ$fossil_observed)
 occ[occ=="Cayman brac"]<- "Cayman Brac"
 occ[occ=="mona"]<- "Mona"
 occ[occ=="South.Island"]<- "South Island"
-# occ[occ=="South Georgia Isl"]<- "South Georgia"
+occ[occ=="South Georgia Isl"]<- "South Georgia"
 # occ[occ=="Lord.Howe"]<- "Lord Howe"
 
 isl_names <- unique(occ$Island) #list islands in v11_occ
@@ -48,15 +48,56 @@ summary(islands)
 
 master_islands <- islands$Island
 
+# identify rows in occ where occ$Island is in master_islands
+occ$good_island <- 0
 
-# Need to remove any rows in occ where occ$Island is not in master_islands
+for (i in 1:length(occ$Island)) {
+  if (occ$Island[i] %in% master_islands) {occ$good_island[i] <- 1}
+}
 
+summary(occ$good_island)
 
+# remove all other rows (i.e. where good_island is 0)
+occ <- subset(occ, occ$good_island == 1)
+
+summary(occ)
 
 # these islands have 0 known fossil birds as well as 0 introduced species in the list:
 remove = c('Alphonse', 'Amsterdam', 'Bellona', 'Bird', 'Boa Vista', 'Cape Verde Islands', 'Choiseul', 'Fogo', 'Gough', 'Kerguelen', 'Kulambangra', 'La Digue', 'Long', 'Mahe', 'Maio', 'New Hanover', 'Ouvea', 'Praslin Island', 'Rendova', 'Sal' , 'Santa Antao', 'Sao Nicolau', 'Sao Vicente', 'Silhouette Island', 'Society Islands', 'South Georgia Isl', 'Timor', 'Tristan da Cunha', 'Vangunu', 'Vella Lavella', 'Ysabel')
 
+# identify rows in occ where occ$Island is in remove
 
+for (i in 1:length(occ$Island)) {
+  if (occ$Island[i] %in% remove) {occ$good_island[i] <- 0}
+}
+
+summary(occ$good_island)
+
+# remove all other rows (i.e. where good_island is 0)
+occ <- subset(occ, occ$good_island == 1)
+
+summary(occ)
+
+# remove these 'remove' islands from the islands list too
+# identify rows in islands where island$Island is in remove
+islands$good_island <- 1
+
+for (i in 1:length(islands$Island)) {
+  if (islands$Island[i] %in% remove) {islands$good_island[i] <- 0}
+}
+summary(islands$good_island)
+
+# remove all rows where good_island is 0
+islands <- subset(islands, islands$good_island == 1)
+
+summary(islands)
+
+
+# save new data files
+write.scsv(occ, 'IBFDB_occurrences_v13.csv')
+write.csv(islands, 'IBFDB_islands_v13.csv')
+
+### stopped here
 
 
 # Get all species trait data

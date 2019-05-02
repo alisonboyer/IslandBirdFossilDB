@@ -6,19 +6,19 @@ This project is a database compiling published and unpublished information about
 
 The Island Bird Fossil Database uses the CC-By license. This data set is open, and no co-authorship is required if you make use of it. Please cite this database as:
 
-Boyer, A.G. 2019. The Island Bird Fossil Database. ...
+Boyer, A.G. 2019. The Island Bird Fossil Database. DOI to be issued.
 
 <b>List of Files:</b>
 
 README.md	-- Generates this README
 
-... .csv -- island bird occurrence data (species name, island, status)
+IBFDF_occurrences_v12.csv -- island bird occurrence data (species name, island, status)
 
-... .csv -- species-level trait information
+IBFDB_traits_v12.csv -- species-level trait information
 
-... .csv -- island-level environmental information
+IBFDB_islands_v12.csv -- island-level environmental information
 
-... .R simple database assembly and checking scripts
+IslandBirdFossilDB.R -- simple database assembly and checking scripts
 
 
 <b>How to contribute</b>
