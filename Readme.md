@@ -28,7 +28,7 @@ README.md	Generates this README
 
 <b>Changelog</b>
 Date	Change
-2019-05-02 Initial files uploaded
+2019-05-02 Initial files uploaded and readme created
 
 <b>How to contribute</b>
 The goal is for this to be a dynamic, community database, not just an archived blob. Why? Well, these data undoubtedly have mistakes and omissions; the database could be structured more usefully for new analyses; and the dataset should be extended as new studies are published. Please contribute by forking this repository (using git) to make a copy of the data, just as if this were an open-source software project. You can then modify or add data and send me a pull request. Another way to help is to file a bug report on the Issues tab.
